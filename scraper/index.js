@@ -7,7 +7,7 @@ const OUTPUT_FILE = "stream.m3u";
 const SOURCES = {
   HOTSTAR_M3U: "https://voot.vodep39240327.workers.dev?voot.m3u",
   ZEE5_M3U: "https://join-vaathala1-for-more.vodep39240327.workers.dev/zee5.m3u",
-  JIO_JSON: "https://raw.githubusercontent.com/sixpg/jio/main/stream.json",
+  JIO_JSON: "https://raw.githubusercontent.com/cybersterr/jeeyo/main/stream.json",
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://fanco.vodep39240327.workers.dev/",
   ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
@@ -17,7 +17,7 @@ const SOURCES = {
     "https://gentle-moon-6383.lrl45.workers.dev/stream.json"
   ],
 
-  SONYLIV_M3U: "https://raw.githubusercontent.com/ytyou4777/sony-playlist/main/SONY.m3u",
+  SONYLIV_M3U: "https://netx.streamstar18.workers.dev/soni",
   NEW_M3U: "https://vt-ip.vodep39240327.workers.dev/playlist.m3u8?url=http://jiotv.be/stalker_portal/c&mac=00:1A:79:97:55:B9&deviceId1=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&deviceId2=B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66&sn=500482917046B",
 };
 
