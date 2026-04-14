@@ -120,7 +120,7 @@ function convertSportsJson(json){
   urlObj.searchParams.delete("drmLicense");
   urlObj.searchParams.delete("User-Agent");
 
-  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://img.u0k.workers.dev/CosmicSports.webp" group-title="IPL LIVE",${s.language || "IPL Live"}`);
+  out.push(`#EXTINF:-1 tvg-id="${1100+i}" tvg-logo="https://i.ibb.co/9HfRQcP2/unnamed-removebg-preview.png" group-title="IPL LIVE",${s.language || "IPL Live"}`);
   out.push(`#KODIPROP:inputstream.adaptive.license_type=clearkey`);
   out.push(`#KODIPROP:inputstream.adaptive.license_key=${kid}:${key}`);
   out.push(`#EXTHTTP:${JSON.stringify({Cookie:hdnea?`__hdnea__=${hdnea}`:"","User-Agent":ua})}`);
@@ -137,6 +137,17 @@ async function safeFetch(url){
  }catch{
   return null;
  }
+}
+
+// ================= FANCODE (JQ-STYLE PARSER) =================
+function extractObjects(obj, arr = []) {
+ if (Array.isArray(obj)) {
+  obj.forEach(o => extractObjects(o, arr));
+ } else if (obj && typeof obj === "object") {
+  arr.push(obj);
+  Object.values(obj).forEach(v => extractObjects(v, arr));
+ }
+ return arr;
 }
 
 // ================= MAIN =================
@@ -175,8 +186,34 @@ async function run(){
  const jio=await safeFetch(SOURCES.JIO_JSON);
  if(jio) out.push(section("JioTv+"),convertJioJson(jio));
 
- const fan=await safeFetch(SOURCES.FANCODE_JSON);
- if(fan) out.push(section("FanCode | Live Events"),fan);
+ // ✅ ONLY CHANGE: fixed group-title
+ let fan = await safeFetch(SOURCES.FANCODE_JSON);
+ try {
+  if (typeof fan === "string") fan = JSON.parse(fan);
+ } catch {}
+
+ if (fan) {
+  const all = extractObjects(fan);
+
+  const valid = all.filter(o =>
+    o.match_id && (o.adfree_url || o.dai_url)
+  );
+
+  valid.sort((a, b) =>
+    (a.status === "LIVE" ? 0 : 1) - (b.status === "LIVE" ? 0 : 1)
+  );
+
+  const converted = [];
+
+  valid.forEach((e, i) => {
+    converted.push(`#EXTINF:-1 tvg-id="${e.match_id}" tvg-logo="${e.src || ""}" group-title="FanCode | Live Events",${e.match_name || e.title}`);
+    converted.push(e.adfree_url || e.dai_url);
+  });
+
+  if (converted.length) {
+    out.push(section("FanCode | Live Events"), converted.join("\n"));
+  }
+ }
 
  const sony=await safeFetch(SOURCES.SONYLIV_JSON);
  if(sony) out.push(section("SonyLiv | Live Events"),convertSony(sony));
@@ -226,7 +263,6 @@ if(newm3u){
     const match = line.match(/group-title="([^"]*)"/);
     const group = match ? match[1].toUpperCase() : "";
 
-    // ✅ ONLY CHANGE HERE
     if(allowedGroups.some(g => group.includes(g))){
 
       const updatedLine = match
