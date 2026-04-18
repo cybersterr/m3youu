@@ -6739,6 +6739,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd?__hd
 
 #EXTINF:-1 tvg-id="142046_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/142046_6045_RWA-W_ITA-W_fc-web.jpg" group-title="FanCode | Live Events",Rwanda Women Vs Italy Women
 https://fanco.vodep39240327.workers.dev/142046_english.m3u8
+#EXTINF:-1 tvg-id="141765_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Melbourne-Tusker-vs-Everest-Falcons_FC-WEB.jpg" group-title="FanCode | Live Events",Melbourne Tuskers Vs Everest Falcons
+https://fanco.vodep39240327.workers.dev/141765_english.m3u8
 #EXTINF:-1 tvg-id="140937_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/140937_5802_BRB_MLC_fc-web.jpg" group-title="FanCode | Live Events",Brisbane Roar Vs Melbourne City
 https://fanco.vodep39240327.workers.dev/140937_english.m3u8
 
