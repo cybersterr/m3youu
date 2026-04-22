@@ -6246,6 +6246,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd?__hd
 
 #EXTINF:-1 tvg-id="142073_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg" group-title="FanCode | Live Events",Bangladesh Women Vs Sri Lanka Women
 https://fanco.vodep39240327.workers.dev/142073_english.m3u8
+#EXTINF:-1 tvg-id="142052_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/142052_6045_RWA-W_NP-W_fc-web.jpg" group-title="FanCode | Live Events",Rwanda Women Vs Nepal Women
+https://fanco.vodep39240327.workers.dev/142052_english.m3u8
 
 # ---------------=== SonyLiv | Live Events ===-------------------
 
