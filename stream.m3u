@@ -845,10 +845,17 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 
 
 
+# ---------------=== FanCode | Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142068_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg" group-title="FanCode | Live Events",Bangladesh Vs New Zealand
+https://fanco.vodep39240327.workers.dev/142068_english.m3u8
+
 # ---------------=== SonyLiv | Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775436962084181_DP_World_Tour_Volvo_China_Open_Day1_landscape_thumb.jpg" group-title="SonyLiv | Sports",Volvo China Open - Day 1 - 23 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/VolvoChi2304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776960535~acl=/*~id=48845058939542546364760883402432~hmac=f5272e34403e845d78c6a6762c6d7f14df56c8bd5a80b540bd0cc742f5be2795
+https://sonydaimenew.akamaized.net/hls/live/2005445/VolvoChi2304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776967815~acl=/*~id=38434373830433439786693888529997~hmac=f7ae41ebe5d2e36af348f33dcbab4043f740a05999bfb28a3be74477a2a75d09
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681456886468_Asian_Tour_Singapore_Open_Day1_Live_landscape_thumb.jpg" group-title="SonyLiv | Sports",Singapore Open - Day 1 - 23 Apr 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Singapor2304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776967815~acl=/*~id=38434373830433439786693888529997~hmac=f7ae41ebe5d2e36af348f33dcbab4043f740a05999bfb28a3be74477a2a75d09
 
 # ---------------=== CS-W | Extra ===-------------------
 
