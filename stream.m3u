@@ -851,13 +851,15 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 https://fanco.vodep39240327.workers.dev/142054_english.m3u8
 #EXTINF:-1 tvg-id="139936_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-_GRAND-PRIX-OF-SPAIN_FC-Web.jpg" group-title="FanCode | Live Events",ÁNgel Vs Nieto
 https://fanco.vodep39240327.workers.dev/139936_english.m3u8
+#EXTINF:-1 tvg-id="141856_ENGLISH" tvg-logo="https://images.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="FanCode | Live Events",Madrid, Vs Spain
+https://fanco.vodep39240327.workers.dev/141856_english.m3u8
 
 # ---------------=== SonyLiv | Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775436985667181_DP_World_Tour_Volvo_China_Open_Day2_landscape_thumb.jpg" group-title="SonyLiv | Sports",Volvo China Open - Day 2 - 24 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777060579~acl=/*~id=30502354121005224444009150092807~hmac=6c7ddc575f29b61b5e22b0cea3f2918d83cfe76e0e6e4ab9260e8c80dff3a1ef
+https://sonydaimenew.akamaized.net/hls/live/2094588/VolvoChi2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777065435~acl=/*~id=43152977100567690104850838490955~hmac=ce514ac78a8a811b8ba592fa3f128043a868441318a83d318d60d7f936cc646e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681468614468_Asian_Tour_Singapore_Open_Day2_Live_landscape_thumb.jpg" group-title="SonyLiv | Sports",Singapore Open - Day 2 - 24 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Singapor2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777060579~acl=/*~id=30502354121005224444009150092807~hmac=6c7ddc575f29b61b5e22b0cea3f2918d83cfe76e0e6e4ab9260e8c80dff3a1ef
+https://sonydaimenew.akamaized.net/hls/live/2005444/Singapor2404/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777065435~acl=/*~id=43152977100567690104850838490955~hmac=ce514ac78a8a811b8ba592fa3f128043a868441318a83d318d60d7f936cc646e
 
 # ---------------=== CS-W | Extra ===-------------------
 
@@ -1936,7 +1938,7 @@ https://mactom3u.vodep39240327.workers.dev/480526.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="Default" tvg-name="ENGLISH TOP TRENDING MUSIC (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77355.jpeg" group-title="CS-W | ENGLISH | 24X7 MUSIC",ENGLISH TOP TRENDING MUSIC (4K)
 https://mactom3u.vodep39240327.workers.dev/480997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ENGLISH SONGS 2026 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77130.jpeg" group-title="CS-W | ENGLISH | 24X7 MUSIC",ENGLISH SONGS 2026 (4K)
-https://mactom3u.vodep39240327.workers.dev/480769.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481674.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="EMINEM" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77133.jpg" group-title="CS-W | ENGLISH | 24X7 MUSIC",EMINEM
 https://mactom3u.vodep39240327.workers.dev/480772.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ALAN WALKER" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77134.jpg" group-title="CS-W | ENGLISH | 24X7 MUSIC",ALAN WALKER
