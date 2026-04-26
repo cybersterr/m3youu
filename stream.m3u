@@ -5877,9 +5877,9 @@ https://alex4528.site/jplus/LIi1lOI1oi0IlOo1lOlloo/manifest.mpd
 # ---------------=== SonyLiv | Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775437003417181_DP_World_Tour_Volvo_China_Open_Day4_landscape_thumb.jpg" group-title="SonyLiv | Sports",Volvo China Open - Day 4 - 26 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777226040~acl=/*~id=85040279078280723533340948560600~hmac=bfc4658b48a543e80dd9c93372369adbfbe229d27099065d59f397874666a23d
+https://sonydaimenew.akamaized.net/hls/live/20000291/DP_World2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777232728~acl=/*~id=55106415342168345248824836437268~hmac=5c8e40bfc909595c28981378fb0c3a8872629ef1e154a888fc13b3026e070572
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681491077468_Asian_Tour_Singapore_Open_Day4_Live_landscape_thumb.jpg" group-title="SonyLiv | Sports",Singapore Open - Day 4 - 26 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777226040~acl=/*~id=85040279078280723533340948560600~hmac=bfc4658b48a543e80dd9c93372369adbfbe229d27099065d59f397874666a23d
+https://sonydaimenew.akamaized.net/hls/live/2018457/ASIAN_TO2604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777232728~acl=/*~id=55106415342168345248824836437268~hmac=5c8e40bfc909595c28981378fb0c3a8872629ef1e154a888fc13b3026e070572
 
 # ---------------=== CS-W | Extra ===-------------------
 
@@ -8640,7 +8640,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="CS-W | MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="CS-W | MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="CS-W | MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="CS-W | MARATHI | TV",ZEE MARATHI HD
