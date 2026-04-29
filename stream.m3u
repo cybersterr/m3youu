@@ -6469,25 +6469,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1777478435~exp=1777500035~acl=/*~hmac=372f40107d4b49a2bbe093fb5d03a8efd39e8f5c5f14eca9628c0711fce54b36","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1777478435~exp=1777500035~acl=/*~hmac=372f40107d4b49a2bbe093fb5d03a8efd39e8f5c5f14eca9628c0711fce54b36
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="142169" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142169_5826_ARS-W_LEI-W_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Arsenal Women vs Leicester City Women
-https://in-mc-fblive.fancode.com/mumbai/142169_english_hls_ed2290941726106_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="141867" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Arthur-Fils-vs-Jiri-Lehecka-old-player-vs-player.png" group-title="🔸FanCode🔸| Live Events",Fils vs Lehecka
-https://in-mc-fblive.fancode.com/mumbai/141867_english_hls_7761b501b920175_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776887744823908_UCL26_SF_leg1_atletico_vs_arsenal_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Atletico vs Arsenal - Semi-Final - Leg 1 - 30 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle2904/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777538448~acl=/*~id=55578650221624002057347421215141~hmac=0413b710c0550f9809b6fd1b8b7edc56b38d2afa06a0b69280fa80c1f1bc1ffe
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776887744823908_UCL26_SF_leg1_atletico_vs_arsenal_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Atletico vs Arsenal - Semi-Final - Leg 1 - 30 Apr 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle2904/HIN/std_lrh-800300010.m3u8?hdnea=exp=1777538448~acl=/*~id=55578650221624002057347421215141~hmac=0413b710c0550f9809b6fd1b8b7edc56b38d2afa06a0b69280fa80c1f1bc1ffe
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776887744823908_UCL26_SF_leg1_atletico_vs_arsenal_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Atletico vs Arsenal - Semi-Final - Leg 1 - 30 Apr 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle2904/TAM/std_lrh-800300010.m3u8?hdnea=exp=1777538448~acl=/*~id=55578650221624002057347421215141~hmac=0413b710c0550f9809b6fd1b8b7edc56b38d2afa06a0b69280fa80c1f1bc1ffe
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776887744823908_UCL26_SF_leg1_atletico_vs_arsenal_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Atletico vs Arsenal - Semi-Final - Leg 1 - 30 Apr 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle2904/TEL/std_lrh-800300010.m3u8?hdnea=exp=1777538448~acl=/*~id=55578650221624002057347421215141~hmac=0413b710c0550f9809b6fd1b8b7edc56b38d2afa06a0b69280fa80c1f1bc1ffe
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776887744823908_UCL26_SF_leg1_atletico_vs_arsenal_22apr_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Atletico vs Arsenal - Semi-Final - Leg 1 - 30 Apr 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Atle2904/KAN/std_lrh-800300010.m3u8?hdnea=exp=1777538448~acl=/*~id=55578650221624002057347421215141~hmac=0413b710c0550f9809b6fd1b8b7edc56b38d2afa06a0b69280fa80c1f1bc1ffe
+
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
