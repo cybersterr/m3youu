@@ -6471,21 +6471,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142063" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142063_6045_NP-W_VANW_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Nepal Women vs Vanuatu Women
-https://in-mc-fblive.fancode.com/mumbai/142063_english_hls_580b85b9de30155_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="141869" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Alexander-Blockx-old-player-vs-player.png" group-title="🔸FanCode🔸| Live Events",QF: Ruud vs Blockx
-https://in-mc-fblive.fancode.com/mumbai/141869_english_hls_f9c4bdb83868276_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142424" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png" group-title="🔸FanCode🔸| Live Events",Day 9 - Men's Doubles QF's
 https://in-mc-fblive.fancode.com/mumbai/142424_english_hls_404d1a862f53373_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142019" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
 https://in-mc-fblive.fancode.com/mumbai/142019_english_hls_3453bc1ab779536_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142021" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 1
+https://in-mc-fblive.fancode.com/mumbai/142021_english_hls_38a94758f356467_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142020" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Group - Day 1
+https://in-mc-fblive.fancode.com/mumbai/142020_english_hls_0e43c693ae93601_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Real Kashmir FC vs Gokulam Kerala FC - 30 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/IFL_Real3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777596646~acl=/*~id=65819702340344573297073561171263~hmac=95482a6f824f4cae935d1ffc3f692081ab2d1473f09a11dd3ed286ac1e375d19
+https://sonydaimenew.akamaized.net/hls/live/20000291/IFL_Real3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777603934~acl=/*~id=52246747884745770502688504625591~hmac=3bf6d39327e60559ba351628123f21d61d8384ca8cea72799b5b90e42b6f741e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437579952818_DP_World_Tour_Turkish_Airlines_Open_Day1_landscape.jpg" group-title="🔹️SonyLiv Live🔹️", Turkish Airlines Open - Day 1 - 30 Apr 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Turkish_3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777596646~acl=/*~id=65819702340344573297073561171263~hmac=95482a6f824f4cae935d1ffc3f692081ab2d1473f09a11dd3ed286ac1e375d19
+https://sonydaimenew.akamaized.net/hls/live/2005444/Turkish_3004/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777603934~acl=/*~id=52246747884745770502688504625591~hmac=3bf6d39327e60559ba351628123f21d61d8384ca8cea72799b5b90e42b6f741e
 # =========================================
 # This m3u link is only for educational purposes
 # =========================================
