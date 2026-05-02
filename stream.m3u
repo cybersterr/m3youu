@@ -6508,7 +6508,7 @@ https://sonydaimenew.akamaized.net/hls/live/2018458/Formula_0205/ENG/std_lrh-800
 #DATE:- 02-05-2026 16:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="a4def50c-d8ff-406d-88ac-8a29a78f33db" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqfvlwjupkl2svkmsvm0" tvg-lang="English" group-title="Cricket",English | 3rd T20I: Germany v Austria
+#EXTINF:-1 tvg-id="a4def50c-d8ff-406d-88ac-8a29a78f33db" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zqfvlwjupkl2svkmsvm0" tvg-lang="English" group-title="ICC-TV",English | 3rd T20I: Germany v Austria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
