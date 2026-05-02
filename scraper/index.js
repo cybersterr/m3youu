@@ -403,38 +403,16 @@ async function run(){
    out.push(section("🌐 WORLD | Extra"), filterNewM3U(newm3u));
  }
 
-// ================= ICC TV =================
-function convertIcc(json){
- if(!json) return "";
+// ================= ICC TV (RAW M3U) =================
+const iccRaw = await safeFetch(SOURCES.ICC_TV_JSON);
+if (iccRaw && typeof iccRaw === "string") {
+  const cleaned = iccRaw
+    .split("\n")
+    .filter(line => !line.startsWith("#EXTM3U")) // avoid duplicate header
+    .join("\n");
 
- const out = [];
-
- const channels = Array.isArray(json) ? json : json.channels || [];
-
- channels.forEach((ch, i) => {
-
-  if(!ch.mpd || !ch.kid || !ch.key) return;
-
-  out.push(`#EXTINF:-1 tvg-id="${ch.id || i}" tvg-logo="${ch.logo || ""}" tvg-lang="English" group-title="Cricket",${ch.name || "ICC TV"}`);
-
-  out.push(`#KODIPROP:inputstream=inputstream.adaptive`);
-  out.push(`#KODIPROP:inputstream.adaptive.manifest_type=mpd`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha`);
-  out.push(`#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"${ch.key}","kid":"${ch.kid}"}],"type":"temporary"}`);
-
-  out.push(`#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0`);
-  out.push(`#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/`);
-  out.push(`#EXTVLCOPT:http-origin=https://www.icc-cricket.com`);
-  out.push(`#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}`);
-
-  out.push(ch.mpd);
- });
-
- return out.join("\n");
+  out.push(section("ICC TV"), cleaned);
 }
-
-const icc=await safeFetch(SOURCES.ICC_TV_JSON);
-if(icc) out.push(section("ICC TV"), convertIcc(icc));
 
  out.push(PLAYLIST_FOOTER.trim());
 
