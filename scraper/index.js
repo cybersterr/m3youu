@@ -403,12 +403,25 @@ async function run(){
    out.push(section("🌐 WORLD | Extra"), filterNewM3U(newm3u));
  }
 
-// ================= ICC TV (RAW M3U) =================
+// ================= ICC TV (MERGED GROUP) =================
 const iccRaw = await safeFetch(SOURCES.ICC_TV_JSON);
+
 if (iccRaw && typeof iccRaw === "string") {
+
   const cleaned = iccRaw
     .split("\n")
-    .filter(line => !line.startsWith("#EXTM3U")) // avoid duplicate header
+    .filter(line => !line.startsWith("#EXTM3U")) // remove header
+    .map(line => {
+      if (line.startsWith("#EXTINF")) {
+        // replace any existing group-title with ICC-TV
+        if (line.includes('group-title="')) {
+          return line.replace(/group-title="[^"]*"/, 'group-title="ICC-TV"');
+        } else {
+          return line.replace('#EXTINF:-1', '#EXTINF:-1 group-title="ICC-TV"');
+        }
+      }
+      return line;
+    })
     .join("\n");
 
   out.push(section("ICC TV"), cleaned);
