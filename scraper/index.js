@@ -12,7 +12,7 @@ const SOURCES = {
   SONYLIV_JSON: "https://raw.githubusercontent.com/drmlive/sliv-live-events/main/sonyliv.json",
   FANCODE_JSON: "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.json",
 
-  ICC_TV_JSON: "https://icc.vodep39240327.workers.dev/icctv.jso",
+  ICC_TV_JSON: "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u",
 
   SPORTS_JSON: [
     process.env.SPORTS1_JSON,
