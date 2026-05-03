@@ -983,11 +983,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_MOB/WDVLive/index.mpd?__hd
 #KODIPROP:inputstream.adaptive.license_key=fb288091038b58b8839d202640bfe46f:99bad05f52b77e9c2460545f631140dd
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="362" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea9b607549252068e260a5f4d7dd321:350c0aaffedf51cc1502e9543c7c885e
-#EXTHTTP:{"Cookie":"hdnea=st=1777791621~exp=1777813221~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=44c4da12fd7f6e254c0ed6b404b8fb356d2a2b7a0342128938c10cd27a55e424","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1777791621~exp=1777813221~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=44c4da12fd7f6e254c0ed6b404b8fb356d2a2b7a0342128938c10cd27a55e424
 #EXTINF:-1 tvg-id="368" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
@@ -1141,16 +1136,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_MOB/WDVLive/index.mpd?__h
 #KODIPROP:inputstream.adaptive.license_key=24618205971e53fa871bdf9c7b56bffb:751c4311a428fccbd4dda0a74991eb67
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="460" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports Select 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
-#EXTHTTP:{"Cookie":"hdnea=st=1777791614~exp=1777813214~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=f27afd56d92c8b12b053cb5d7bfa3aa82c296dfbc272c85129df5a3376d71320","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1777791614~exp=1777813214~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=f27afd56d92c8b12b053cb5d7bfa3aa82c296dfbc272c85129df5a3376d71320
-#EXTINF:-1 tvg-id="461" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports Select 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
-#EXTHTTP:{"Cookie":"hdnea=st=1777788905~exp=1777810505~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=a9163b75e299707a59fb0b7c68f0ef009d2e37e0a0cd0a63da8300c4ee0b0767","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1777788905~exp=1777810505~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=a9163b75e299707a59fb0b7c68f0ef009d2e37e0a0cd0a63da8300c4ee0b0767
 #EXTINF:-1 tvg-id="463" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDEng.png" group-title="⭕️ JIOTV+ | INFOTAINMENT",Discovery HD English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a9c24afabd5fe0aa2ce9d4fa09f892:8d1869108cc2ee010b756662ee8ec65e
@@ -3066,21 +3051,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vande_Gujarat_16_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1106" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-#EXTHTTP:{"Cookie":"hdnea=st=1777773613~exp=1777795213~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=7a3e2bc8ebe724e78bf697be0b91abbfcf85ae76a0461a9ed1c4475fbe6cd6c1","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1777773613~exp=1777795213~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=7a3e2bc8ebe724e78bf697be0b91abbfcf85ae76a0461a9ed1c4475fbe6cd6c1
-#EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1777786356~exp=1777807956~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=f5a9fc32f7357009ac68f76848f4cb6cc8f712ead99f962c73c5b6c5ab7e79ef","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1777786356~exp=1777807956~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=f5a9fc32f7357009ac68f76848f4cb6cc8f712ead99f962c73c5b6c5ab7e79ef
-#EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
-#EXTHTTP:{"Cookie":"hdnea=st=1777772729~exp=1777794329~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=21039f9c4c477bf8bcac2db0468253ca28f50cab4a9bbb5af398c42c2b9265fd","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1777772729~exp=1777794329~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=21039f9c4c477bf8bcac2db0468253ca28f50cab4a9bbb5af398c42c2b9265fd
 #EXTINF:-1 tvg-id="1110" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="⭕️ JIOTV+ | MOVIES",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
@@ -3101,11 +3071,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd?__hdnea__=st
 #KODIPROP:inputstream.adaptive.license_key=8620bd6e911d5c6e88e3bcf4b4ad1f35:7a8178e013c9af468cc4e2171b6f9857
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1114" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports Select 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
-#EXTHTTP:{"Cookie":"hdnea=st=1777773610~exp=1777795210~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=0f7641d969d76341c726cdb96570934591a9814bc545aa7badb440ce0a04ae32","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1777773610~exp=1777795210~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=0f7641d969d76341c726cdb96570934591a9814bc545aa7badb440ce0a04ae32
 #EXTINF:-1 tvg-id="1115" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="⭕️ JIOTV+ | MOVIES",Star Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b1bb33c873d5de4871700fd70b117bf:12b1bb6883d9fe26be36a19cae2c3cea
@@ -3126,21 +3091,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=e860f0d6577258b2b264d4bb2ecbfd4a:fd55bcc08db185b0a573a93e24fab8f6
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Jalsha_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1122" tvg-logo="https://img.media.jio.com/tvpimages/11/37/301993_1749664589518_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Kannada
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5
-#EXTHTTP:{"Cookie":"hdnea=st=1777773624~exp=1777795224~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=4584471f89d20d29f358921e584d4fbba88d2affe07adb6515ce3de02d530d12","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1777773624~exp=1777795224~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=4584471f89d20d29f358921e584d4fbba88d2affe07adb6515ce3de02d530d12
-#EXTINF:-1 tvg-id="1123" tvg-logo="https://img.media.jio.com/tvpimages/13/82/301994_1749664069587_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports Select 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
-#EXTHTTP:{"Cookie":"hdnea=st=1777773608~exp=1777795208~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=cbe2888ce5b81ab6db6b1726d8f00d2e4de67b4d93c23cd31f3b81c52e61f657","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1777773608~exp=1777795208~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=cbe2888ce5b81ab6db6b1726d8f00d2e4de67b4d93c23cd31f3b81c52e61f657
-#EXTINF:-1 tvg-id="1124" tvg-logo="https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Tamil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0d750ebd52b5756aa7fb833f61ceece:4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"Cookie":"hdnea=st=1777773618~exp=1777795218~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=2e9ca2d9978c35f168ca73d0fce43d7ee11603ef6cea16b39e58f45602e1630b","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1777773618~exp=1777795218~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=2e9ca2d9978c35f168ca73d0fce43d7ee11603ef6cea16b39e58f45602e1630b
 #EXTINF:-1 tvg-id="1129" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="⭕️ JIOTV+ | MUSIC",Maa Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d66e0a9cac2853119c87b37d5dd7d25d:4449938d983c27cc7e154ba51260aa24
@@ -3181,16 +3131,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Plus_MOB/WDVLive/index.mpd?__hdne
 #KODIPROP:inputstream.adaptive.license_key=0ae4033bf5cb57d2a5b5ef72c5dab0ea:7376df32ffb262044743208aa3224f10
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1141" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
-#EXTHTTP:{"Cookie":"hdnea=st=1777772729~exp=1777794329~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=16220a3ed4e2f66d1d04708326fd1dfc1f88b3a0740c7078bae74be8cfe61967","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1777772729~exp=1777794329~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=16220a3ed4e2f66d1d04708326fd1dfc1f88b3a0740c7078bae74be8cfe61967
-#EXTINF:-1 tvg-id="1142" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
-#EXTHTTP:{"Cookie":"hdnea=st=1777793408~exp=1777815008~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=95bf4f59bb1155ada200939a7f72edc9c1b9d5b59a3a4f902bb13228366b6fde","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1777793408~exp=1777815008~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=95bf4f59bb1155ada200939a7f72edc9c1b9d5b59a3a4f902bb13228366b6fde
 #EXTINF:-1 tvg-id="1143" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",Star Utsav
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fbcce6b77855b8e9eaeebfc0a2ebc4f:1efb331b48f2993c74ec852475e7637f
@@ -3615,11 +3555,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_key=c0c468fdbe715ea184a9abfb42b41de8:a2f9916c0ca9b331a0e98ab8201639ed
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Goodness_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1389" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
-#EXTHTTP:{"Cookie":"hdnea=st=1777788918~exp=1777810518~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=b0e28b4c17d5147ea5350e8cd7fbc689c649694de0634321d341b444b1af9094","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1777788918~exp=1777810518~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=b0e28b4c17d5147ea5350e8cd7fbc689c649694de0634321d341b444b1af9094
 #EXTINF:-1 tvg-id="1391" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png" group-title="⭕️ JIOTV+ | KIDS",Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
@@ -4020,16 +3955,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Powervision_TV_MOB/WDVLive/index.mpd?__hd
 #KODIPROP:inputstream.adaptive.license_key=80ff89cbc91a55a087bccbdfc45acc1d:ea3de51dcc665bce0c12ca93ac8c9cce
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1650" tvg-logo="https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Kannada
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
-#EXTHTTP:{"Cookie":"hdnea=st=1777773621~exp=1777795221~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=f10ba23c624008075deea0de2107dcf785098c4c6fab9ab57c3fed672bd33db5","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1777773621~exp=1777795221~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=f10ba23c624008075deea0de2107dcf785098c4c6fab9ab57c3fed672bd33db5
-#EXTINF:-1 tvg-id="1651" tvg-logo="https://img.media.jio.com/tvpimages/26/67/302119_1749662981095_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
-#EXTHTTP:{"Cookie":"hdnea=st=1777788043~exp=1777809643~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=3f1371c4854d43e60b4817b5fdb20d2dd48294b1144915b5c019a659cbd042b3","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1777788043~exp=1777809643~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=3f1371c4854d43e60b4817b5fdb20d2dd48294b1144915b5c019a659cbd042b3
 #EXTINF:-1 tvg-id="1655" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madha_TV.png" group-title="⭕️ JIOTV+ | DEVOTIONAL",Madha TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca00d42782cd5ff49724a4d7ebab404b:4a813a3162b99513cdf22005549bd978
@@ -4412,16 +4337,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd?__hdnea_
 #KODIPROP:inputstream.adaptive.license_key=91159e05d6c45bcc9586a6358fa2fbf9:23445ad11eb79efae433df70608e3b87
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="1984" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-#EXTHTTP:{"Cookie":"hdnea=st=1777788806~exp=1777810406~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=101da2b892459e1085eda26f309bd44675d7aad717c2888479e9b623ae7985a6","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1777788806~exp=1777810406~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=101da2b892459e1085eda26f309bd44675d7aad717c2888479e9b623ae7985a6
-#EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
-#EXTHTTP:{"Cookie":"hdnea=st=1777789809~exp=1777811409~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=6b0a0684d949bd2d9356f8fb7bfee1c5552e49fabfccf4a1e20f47ce6c3c4e4f","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1777789809~exp=1777811409~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=6b0a0684d949bd2d9356f8fb7bfee1c5552e49fabfccf4a1e20f47ce6c3c4e4f
 #EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="⭕️ JIOTV+ | SPORTS",Star Sports Khel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a7eca66657e5f63be99b4309662f59c:002f84302dedd29795d4ffa228610d15
@@ -4827,16 +4742,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ISKCON_Bangalore_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=b0eb856017555d56b332232518ed8607:29b55df4881adb5fd105576567f1db3e
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/IN24_Live_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="2852" tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e38f46718d9d5c40af83095f176ba41e:8836ee0f7377d71c156a139361a45be5
-#EXTHTTP:{"Cookie":"hdnea=st=1777788926~exp=1777810526~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=a8d7d901037c44514997c13627da110f1989f33ae439093dc88437689362bf55","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1777788926~exp=1777810526~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=a8d7d901037c44514997c13627da110f1989f33ae439093dc88437689362bf55
-#EXTINF:-1 tvg-id="2853" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Tamil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
-#EXTHTTP:{"Cookie":"hdnea=st=1777773626~exp=1777795226~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=46b145f3e38b4ec8ea1562585b9c72be7e75f3c0c7714d0cc7dc48df1979ac18","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1777773626~exp=1777795226~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=46b145f3e38b4ec8ea1562585b9c72be7e75f3c0c7714d0cc7dc48df1979ac18
 #EXTINF:-1 tvg-id="2854" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="⭕️ JIOTV+ | ENTERTAINMENT",KCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21a11841782656f6a9beed20801661fe:2608d662610ae4e93572f9ce6d849ada
@@ -5732,31 +5637,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nation_NE_MOB/WDVLive/index.mpd?__hdnea__
 #KODIPROP:inputstream.adaptive.license_key=0b7c26f031a5518983e34d269f7f9218:acfb670c15004a1b11c5d3dd33dad027
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="3273" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Tamil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTHTTP:{"Cookie":"hdnea=st=1777787976~exp=1777809576~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=f9f2fff7f45d2aa52e847bff1f98adaf42c1e374211a9a59e45cc792dd924a32","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1777787976~exp=1777809576~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=f9f2fff7f45d2aa52e847bff1f98adaf42c1e374211a9a59e45cc792dd924a32
-#EXTINF:-1 tvg-id="3274" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
-#EXTHTTP:{"Cookie":"hdnea=st=1777790709~exp=1777812309~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=785db541245bd19c1ffecdaa4e5fdcfcb3057e3c5bfadacb01edb483fef6a800","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1777790709~exp=1777812309~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=785db541245bd19c1ffecdaa4e5fdcfcb3057e3c5bfadacb01edb483fef6a800
 #EXTINF:-1 tvg-id="3276" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="⭕️ JIOTV+ | MOVIES",Star Movies Select
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f929512ac4c75768bab0b2e5fb2b5f46:57ee1e172b65e2bec94356b93513d7b2
 #EXTHTTP:{"Cookie":"hdnea=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_MOB/WDVLive/index.mpd?__hdnea__=st=1777780833~exp=1777802433~acl=/*~hmac=947310f2aba1f41acac9d48d54d96e7510c91ea1af6ae3a5259fe61aa72d83e7
-#EXTINF:-1 tvg-id="3277" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Tamil HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-#EXTHTTP:{"Cookie":"hdnea=st=1777790716~exp=1777812316~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=dd65ee1110faa015a52c91cc1b39843fedf1ef631984cf67501628fa3e901318","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1777790716~exp=1777812316~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=dd65ee1110faa015a52c91cc1b39843fedf1ef631984cf67501628fa3e901318
-#EXTINF:-1 tvg-id="3278" tvg-logo="https://img.media.jio.com/tvpimages/19/57/302123_1749663029798_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-#EXTHTTP:{"Cookie":"hdnea=st=1777788884~exp=1777810484~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=387f98b5abcecf26661785ccaf0c0e3d82e3d92bb9b4beb80585b38604c03bc4","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1777788884~exp=1777810484~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=387f98b5abcecf26661785ccaf0c0e3d82e3d92bb9b4beb80585b38604c03bc4
 #EXTINF:-1 tvg-id="3279" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" group-title="⭕️ JIOTV+ | DEVOTIONAL",OM TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fda1385956445199a867364b266de2f1:8b85980e71af02b532054322d846b468
@@ -6475,13 +6360,17 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 https://in-mc-fblive.fancode.com/mumbai/141980_english_hls_11e94660f549049_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142345" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Germany vs Austria
 https://in-mc-fblive.fancode.com/mumbai/142345_english_hls_e539ab7bdb8370_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142406" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="🔸FanCode🔸| Live Events",Speen Ghar Region vs Band-e-Amir Region
+https://in-mc-fblive.fancode.com/mumbai/142406_english_hls_0f467c1ed542404_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142287" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
 https://in-mc-fblive.fancode.com/mumbai/142287_english_hls_b4936f9f8d67699_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437559586818_DP_World_Tour_Turkish_Airlines_Open_Day4_landscape.jpg" group-title="🔹️SonyLiv Live🔹️", Turkish Airlines Open - Day 4 - 3 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777841497~acl=/*~id=61860221270315597661760480456180~hmac=545f96595dbbb01d9174fbe3a07b4c5dd871a16d71c609ab0c3ae48e3f0dd51e
+https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777845162~acl=/*~id=20347970620432577886306229583677~hmac=626fd8bc683b78464ac803440947d1479289b2354e601a7cd8e46f2498d21979
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777487512267406_ABB_FIA_FormulaE_WC26_RD8_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️", Round 8 - Berlin E - Prix - Qualifying Race - 3 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/R8_Berli0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777845162~acl=/*~id=20347970620432577886306229583677~hmac=626fd8bc683b78464ac803440947d1479289b2354e601a7cd8e46f2498d21979
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -7519,7 +7408,7 @@ https://mactom3u.vodep39240327.workers.dev/3073.m3u8?host=tv.saartv.cc&path=%2Fs
 https://mactom3u.vodep39240327.workers.dev/3074.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starbharat.in" tvg-name="STAR BHARAT BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3075.png" group-title="HINDI | TV",STAR BHARAT BK
 https://mactom3u.vodep39240327.workers.dev/3075.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV USA HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3076.png" group-title="HINDI | TV",SONY TV USA HD
+#EXTINF:-1 tvg-id="sony.in" tvg-name="SONY TV USA HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3076.png" group-title="HINDI | TV",SONY TV USA HD
 https://mactom3u.vodep39240327.workers.dev/3076.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="sony.in" tvg-name="SONY TV CANADA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3078.png" group-title="HINDI | TV",SONY TV CANADA
 https://mactom3u.vodep39240327.workers.dev/3078.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -9354,7 +9243,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
@@ -10163,13 +10052,13 @@ https://mactom3u.vodep39240327.workers.dev/480702.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480612.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77064.NAB" tvg-name="TNT SPORT 1." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77064.png" group-title="SPORTS | EPL",TNT SPORT 1.
 https://mactom3u.vodep39240327.workers.dev/480703.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : WOLVERHAMPTON WANDERERS VS SUNDERLAND" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : WOLVERHAMPTON WANDERERS VS SUNDERLAND
+#EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : AFC BOURNEMOUTH VS CRYSTAL PALACE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : AFC BOURNEMOUTH VS CRYSTAL PALACE
 https://mactom3u.vodep39240327.workers.dev/1148.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 : NEWCASTLE UNITED VS BRIGHTON & HOVE ALBION" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 : NEWCASTLE UNITED VS BRIGHTON & HOVE ALBION
+#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 : MANCHESTER UNITED VS LIVERPOOL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 : MANCHESTER UNITED VS LIVERPOOL
 https://mactom3u.vodep39240327.workers.dev/1149.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 : BRENTFORD VS WEST HAM UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 : BRENTFORD VS WEST HAM UNITED
+#EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 : ASTON VILLA VS TOTTENHAM HOTSPUR" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 : ASTON VILLA VS TOTTENHAM HOTSPUR
 https://mactom3u.vodep39240327.workers.dev/1150.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1151.NAB" tvg-name="EPL 04 : ARSENAL VS FULHAM" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1151.jpg" group-title="SPORTS | EPL",EPL 04 : ARSENAL VS FULHAM
+#EXTINF:-1 tvg-id="1151.NAB" tvg-name="EPL 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1151.jpg" group-title="SPORTS | EPL",EPL 04 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1151.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1152.NAB" tvg-name="EPL 05 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1152.jpg" group-title="SPORTS | EPL",EPL 05 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1152.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10229,15 +10118,15 @@ https://mactom3u.vodep39240327.workers.dev/480704.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480705.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77067.NAB" tvg-name="EPL | LEEDS UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77067.png" group-title="SPORTS | EPL",EPL | LEEDS UNITED
 https://mactom3u.vodep39240327.workers.dev/480706.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : MANCHESTER UNITED VS BRIGHTON & HOVE ALBION" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : MANCHESTER UNITED VS BRIGHTON & HOVE ALBION
+#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : MANCHESTER CITY VS LIVERPOOL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : MANCHESTER CITY VS LIVERPOOL
 https://mactom3u.vodep39240327.workers.dev/473126.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : OL LYONNES VS ARSENAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : OL LYONNES VS ARSENAL
+#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : TOTTENHAM HOTSPUR VS LONDON CITY LIONESSES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : TOTTENHAM HOTSPUR VS LONDON CITY LIONESSES
 https://mactom3u.vodep39240327.workers.dev/473127.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 : ARSENAL VS EVERTON" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 : ARSENAL VS EVERTON
 https://mactom3u.vodep39240327.workers.dev/473128.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69791.NAB" tvg-name="UEFA 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69791.jpg" group-title="SPORTS | UEFA",UEFA 04 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69791.NAB" tvg-name="UEFA 04 : LEICESTER CITY WFC VS CHELSEA FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69791.jpg" group-title="SPORTS | UEFA",UEFA 04 : LEICESTER CITY WFC VS CHELSEA FC
 https://mactom3u.vodep39240327.workers.dev/473129.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69792.NAB" tvg-name="UEFA 05 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69792.jpg" group-title="SPORTS | UEFA",UEFA 05 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69792.NAB" tvg-name="UEFA 05 : BARCELONA VS BAYERN" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69792.jpg" group-title="SPORTS | UEFA",UEFA 05 : BARCELONA VS BAYERN
 https://mactom3u.vodep39240327.workers.dev/473130.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="69793.NAB" tvg-name="UEFA 06 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69793.jpg" group-title="SPORTS | UEFA",UEFA 06 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473131.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10289,39 +10178,39 @@ https://mactom3u.vodep39240327.workers.dev/8510.m3u8?host=tv.saartv.cc&path=%2Fs
 https://mactom3u.vodep39240327.workers.dev/8511.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="8511.NAB" tvg-name="UEFA 30 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/8511.jpg" group-title="SPORTS | UEFA",UEFA 30 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/8513.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1204.NAB" tvg-name="MLS 01 : INTER MIAMI CF VS. ORLANDO CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1204.jpg" group-title="SPORTS | MLS",MLS 01 : INTER MIAMI CF VS. ORLANDO CITY
+#EXTINF:-1 tvg-id="1204.NAB" tvg-name="MLS 01 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1204.jpg" group-title="SPORTS | MLS",MLS 01 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1204.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1205.NAB" tvg-name="MLS 02 : LA GALAXY VS. VANCOUVER WHITECAPS FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1205.jpg" group-title="SPORTS | MLS",MLS 02 : LA GALAXY VS. VANCOUVER WHITECAPS FC
+#EXTINF:-1 tvg-id="1205.NAB" tvg-name="MLS 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1205.jpg" group-title="SPORTS | MLS",MLS 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1205.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1206.NAB" tvg-name="MLS 03 : AUSTIN FC VS. ST. LOUIS CITY SC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1206.jpg" group-title="SPORTS | MLS",MLS 03 : AUSTIN FC VS. ST. LOUIS CITY SC
+#EXTINF:-1 tvg-id="1206.NAB" tvg-name="MLS 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1206.jpg" group-title="SPORTS | MLS",MLS 03 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1206.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1207.NAB" tvg-name="MLS 04 : SAN DIEGO FC VS. LOS ANGELES FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1207.jpg" group-title="SPORTS | MLS",MLS 04 : SAN DIEGO FC VS. LOS ANGELES FC
+#EXTINF:-1 tvg-id="1207.NAB" tvg-name="MLS 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1207.jpg" group-title="SPORTS | MLS",MLS 04 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1207.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1208.NAB" tvg-name="MLS 05 : NEW YORK CITY FC VS. D.C. UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1208.jpg" group-title="SPORTS | MLS",MLS 05 : NEW YORK CITY FC VS. D.C. UNITED
+#EXTINF:-1 tvg-id="1208.NAB" tvg-name="MLS 05 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1208.jpg" group-title="SPORTS | MLS",MLS 05 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1208.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1209.NAB" tvg-name="MLS 06 : TORONTO FC VS. SAN JOSE EARTHQUAKES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1209.jpg" group-title="SPORTS | MLS",MLS 06 : TORONTO FC VS. SAN JOSE EARTHQUAKES
+#EXTINF:-1 tvg-id="1209.NAB" tvg-name="MLS 06 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1209.jpg" group-title="SPORTS | MLS",MLS 06 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1209.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1210.NAB" tvg-name="MLS 07 : NEW ENGLAND REVOLUTION VS. CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1210.jpg" group-title="SPORTS | MLS",MLS 07 : NEW ENGLAND REVOLUTION VS. CHARLOTTE FC
+#EXTINF:-1 tvg-id="1210.NAB" tvg-name="MLS 07 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1210.jpg" group-title="SPORTS | MLS",MLS 07 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1210.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1211.NAB" tvg-name="MLS 08 : COLUMBUS CREW VS. MINNESOTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1211.jpg" group-title="SPORTS | MLS",MLS 08 : COLUMBUS CREW VS. MINNESOTA UNITED
+#EXTINF:-1 tvg-id="1211.NAB" tvg-name="MLS 08 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1211.jpg" group-title="SPORTS | MLS",MLS 08 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1211.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1212.NAB" tvg-name="MLS 09 : CHICAGO FIRE FC VS. FC CINCINNATI" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1212.jpg" group-title="SPORTS | MLS",MLS 09 : CHICAGO FIRE FC VS. FC CINCINNATI
+#EXTINF:-1 tvg-id="1212.NAB" tvg-name="MLS 09 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1212.jpg" group-title="SPORTS | MLS",MLS 09 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1212.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1213.NAB" tvg-name="MLS 10 : REAL SALT LAKE VS. PORTLAND TIMBERS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1213.jpg" group-title="SPORTS | MLS",MLS 10 : REAL SALT LAKE VS. PORTLAND TIMBERS
+#EXTINF:-1 tvg-id="1213.NAB" tvg-name="MLS 10 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1213.jpg" group-title="SPORTS | MLS",MLS 10 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1213.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1214.NAB" tvg-name="MLS 11 : HOUSTON DYNAMO FC VS. COLORADO RAPIDS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1214.jpg" group-title="SPORTS | MLS",MLS 11 : HOUSTON DYNAMO FC VS. COLORADO RAPIDS
+#EXTINF:-1 tvg-id="1214.NAB" tvg-name="MLS 11 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1214.jpg" group-title="SPORTS | MLS",MLS 11 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1214.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1215.NAB" tvg-name="MLS 12 : PHILADELPHIA UNION VS. NASHVILLE SC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1215.jpg" group-title="SPORTS | MLS",MLS 12 : PHILADELPHIA UNION VS. NASHVILLE SC
+#EXTINF:-1 tvg-id="1215.NAB" tvg-name="MLS 12 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1215.jpg" group-title="SPORTS | MLS",MLS 12 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1215.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1216.NAB" tvg-name="MLS 13 : NEW YORK RED BULLS VS. FC DALLAS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1216.jpg" group-title="SPORTS | MLS",MLS 13 : NEW YORK RED BULLS VS. FC DALLAS
+#EXTINF:-1 tvg-id="1216.NAB" tvg-name="MLS 13 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1216.jpg" group-title="SPORTS | MLS",MLS 13 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1216.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1217.NAB" tvg-name="MLS 14 : SPORTING KANSAS CITY VS. SEATTLE SOUNDERS FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1217.jpg" group-title="SPORTS | MLS",MLS 14 : SPORTING KANSAS CITY VS. SEATTLE SOUNDERS FC
+#EXTINF:-1 tvg-id="1217.NAB" tvg-name="MLS 14 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1217.jpg" group-title="SPORTS | MLS",MLS 14 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1217.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1218.NAB" tvg-name="MLS 15 : ATLANTA UNITED VS. CF MONTRÉAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1218.jpg" group-title="SPORTS | MLS",MLS 15 : ATLANTA UNITED VS. CF MONTRÉAL
+#EXTINF:-1 tvg-id="1218.NAB" tvg-name="MLS 15 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1218.jpg" group-title="SPORTS | MLS",MLS 15 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1218.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1219.NAB" tvg-name="MLS 16 : MLS COUNTDOWN" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1219.jpg" group-title="SPORTS | MLS",MLS 16 : MLS COUNTDOWN
+#EXTINF:-1 tvg-id="1219.NAB" tvg-name="MLS 16 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1219.jpg" group-title="SPORTS | MLS",MLS 16 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1219.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1220.NAB" tvg-name="MLS 17 : MLS 360" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1220.jpg" group-title="SPORTS | MLS",MLS 17 : MLS 360
+#EXTINF:-1 tvg-id="1220.NAB" tvg-name="MLS 17 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1220.jpg" group-title="SPORTS | MLS",MLS 17 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1220.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1221.NAB" tvg-name="MLS 18 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1221.jpg" group-title="SPORTS | MLS",MLS 18 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10785,39 +10674,39 @@ https://mactom3u.vodep39240327.workers.dev/481055.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/481782.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/732.jpeg" group-title="SPORTS | GENERAL",FOX SPORTS 1
 https://mactom3u.vodep39240327.workers.dev/732.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="77357.NAB" tvg-name="IPL 1 ENGLISH  - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 1 ENGLISH  - CSK VS MI
+#EXTINF:-1 tvg-id="77357.NAB" tvg-name="IPL 1 ENGLISH  - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 1 ENGLISH  - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/480999.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78187.NAB" tvg-name="IPL 2 ENGLISH  - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 2 ENGLISH  - CSK VS MI
+#EXTINF:-1 tvg-id="78187.NAB" tvg-name="IPL 2 ENGLISH  - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 2 ENGLISH  - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481840.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78188.NAB" tvg-name="IPL 3 HINDI  - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 3 HINDI  - CSK VS MI
+#EXTINF:-1 tvg-id="78188.NAB" tvg-name="IPL 3 HINDI  - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 3 HINDI  - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481841.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78189.NAB" tvg-name="IPL 4 HINDI  - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 4 HINDI  - CSK VS MI
+#EXTINF:-1 tvg-id="78189.NAB" tvg-name="IPL 4 HINDI  - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 4 HINDI  - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481842.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78193.NAB" tvg-name="IPL 5 TAMIL  - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 5 TAMIL  - CSK VS MI
+#EXTINF:-1 tvg-id="78193.NAB" tvg-name="IPL 5 TAMIL  - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 5 TAMIL  - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481846.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78194.NAB" tvg-name="IPL 6 TELUGU  - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 6 TELUGU  - CSK VS MI
+#EXTINF:-1 tvg-id="78194.NAB" tvg-name="IPL 6 TELUGU  - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 6 TELUGU  - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481847.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78195.NAB" tvg-name="IPL 7 PUNJABI - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 7 PUNJABI - CSK VS MI
+#EXTINF:-1 tvg-id="78195.NAB" tvg-name="IPL 7 PUNJABI - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 7 PUNJABI - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481848.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78236.NAB" tvg-name="IPL 8 PUNJABI BK - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 8 PUNJABI BK - CSK VS MI
+#EXTINF:-1 tvg-id="78236.NAB" tvg-name="IPL 8 PUNJABI BK - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 8 PUNJABI BK - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481920.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78196.NAB" tvg-name="IPL 9 GUJARATI - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 9 GUJARATI - CSK VS MI
+#EXTINF:-1 tvg-id="78196.NAB" tvg-name="IPL 9 GUJARATI - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 9 GUJARATI - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481849.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78199.NAB" tvg-name="IPL 10 BENGALI - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 10 BENGALI - CSK VS MI
+#EXTINF:-1 tvg-id="78199.NAB" tvg-name="IPL 10 BENGALI - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 10 BENGALI - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481852.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78200.NAB" tvg-name="IPL 11 HARYANANVI - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 11 HARYANANVI - CSK VS MI
+#EXTINF:-1 tvg-id="78200.NAB" tvg-name="IPL 11 HARYANANVI - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 11 HARYANANVI - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481853.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78201.NAB" tvg-name="IPL 12 BIHARI - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 12 BIHARI - CSK VS MI
+#EXTINF:-1 tvg-id="78201.NAB" tvg-name="IPL 12 BIHARI - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 12 BIHARI - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481854.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78202.NAB" tvg-name="IPL 13 MALAYALAM - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 13 MALAYALAM - CSK VS MI
+#EXTINF:-1 tvg-id="78202.NAB" tvg-name="IPL 13 MALAYALAM - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 13 MALAYALAM - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481855.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78203.NAB" tvg-name="IPL 14 KANNADA - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 14 KANNADA - CSK VS MI
+#EXTINF:-1 tvg-id="78203.NAB" tvg-name="IPL 14 KANNADA - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 14 KANNADA - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481856.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78204.NAB" tvg-name="IPL 15  MARATHI - CSK VS MI" tvg-logo="" group-title="SPORTS | CRICKET",IPL 15  MARATHI - CSK VS MI
+#EXTINF:-1 tvg-id="78204.NAB" tvg-name="IPL 15  MARATHI - SRH VS KKR" tvg-logo="" group-title="SPORTS | CRICKET",IPL 15  MARATHI - SRH VS KKR
 https://mactom3u.vodep39240327.workers.dev/481857.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78190.NAB" tvg-name="PSL 1  - ISLAMABAD UNITED VS HYDERABAD KINGSMEN" tvg-logo="" group-title="SPORTS | CRICKET",PSL 1  - ISLAMABAD UNITED VS HYDERABAD KINGSMEN
+#EXTINF:-1 tvg-id="78190.NAB" tvg-name="PSL 1  - PESHAWAR ZALMI VS HYDERABAD KINGSMEN" tvg-logo="" group-title="SPORTS | CRICKET",PSL 1  - PESHAWAR ZALMI VS HYDERABAD KINGSMEN
 https://mactom3u.vodep39240327.workers.dev/481843.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78191.NAB" tvg-name="PSL 2  - ISLAMABAD UNITED VS HYDERABAD KINGSMEN" tvg-logo="" group-title="SPORTS | CRICKET",PSL 2  - ISLAMABAD UNITED VS HYDERABAD KINGSMEN
+#EXTINF:-1 tvg-id="78191.NAB" tvg-name="PSL 2  - PESHAWAR ZALMI VS HYDERABAD KINGSMEN" tvg-logo="" group-title="SPORTS | CRICKET",PSL 2  - PESHAWAR ZALMI VS HYDERABAD KINGSMEN
 https://mactom3u.vodep39240327.workers.dev/481844.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD 4K.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68956.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD 4K..
 https://mactom3u.vodep39240327.workers.dev/472293.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
