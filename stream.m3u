@@ -6481,21 +6481,20 @@ https://in-mc-fblive.fancode.com/mumbai/142406_english_hls_0f467c1ed542404_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142172_english_hls_bcc5195f3a50341_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142171" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142171_5826_TOT-W_LCL_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Tottenham Hotspur Women vs London City Lionesses
 https://in-mc-fblive.fancode.com/mumbai/142171_english_hls_284baf03d971701_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131164" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RC Celta vs Elche CF
+https://in-mc-fdlive.fancode.com/mumbai/131164_english_hls_859a55142d21398_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142136" tvg-logo="https://images.fancode.com/aig/match/v1776595961744/142136_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Racing Club vs Huesca
+https://in-mc-fblive.fancode.com/mumbai/142136_english_hls_f6a10ba2209190_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142333" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777732374833.png" group-title="🔸FanCode🔸| Live Events",East Bengal FC Junior vs Football 4 Change Academy
 https://in-mc-fdlive.fancode.com/mumbai/142333_english_hls_3b4be91d6d39411_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142334" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777732374848.png" group-title="🔸FanCode🔸| Live Events",Sreenidi Deccan FC vs SSE BFC Soccer School
 https://in-mc-fdlive.fancode.com/mumbai/142334_english_hls_23bca6e11630283_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142287" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
 https://in-mc-fblive.fancode.com/mumbai/142287_english_hls_b4936f9f8d67699_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142031" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Miami-Championship-_PGA_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 4
+https://in-mc-fblive.fancode.com/mumbai/142031_english_hls_31aa6b657469484_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437559586818_DP_World_Tour_Turkish_Airlines_Open_Day4_landscape.jpg" group-title="🔹️SonyLiv Live🔹️", Turkish Airlines Open - Day 4 - 3 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/DP_World0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777848804~acl=/*~id=33979486799551508533796691497769~hmac=e5b722dd4a2c4d86dbd435aff208423df0113e29f8a222e8b1049889b2dd0b12
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777487512267406_ABB_FIA_FormulaE_WC26_RD8_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️", Round 8 - Berlin E - Prix - Qualifying Race - 3 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/R8_Berli0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777848804~acl=/*~id=33979486799551508533796691497769~hmac=e5b722dd4a2c4d86dbd435aff208423df0113e29f8a222e8b1049889b2dd0b12
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 
