@@ -6335,37 +6335,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142220" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
-https://in-mc-fblive.fancode.com/mumbai/142220_english_hls_499034c49b99092_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142588" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - Supertennis Arena
-https://in-mc-fblive.fancode.com/mumbai/142588_english_hls_ea7d84375f99566_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142589" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - BNP Paribas Arena
-https://in-mc-fblive.fancode.com/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142092" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
 https://in-mc-fblive.fancode.com/mumbai/142092_english_hls_0e93307f1072109_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142094" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 1
 https://in-mc-fblive.fancode.com/mumbai/142094_english_hls_ba942a271847033_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142093" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Group - Day 1
 https://in-mc-fblive.fancode.com/mumbai/142093_english_hls_39a3137b2d79864_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142590" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2 - Campo Centrale
-https://in-mc-fblive.fancode.com/mumbai/142590_english_hls_b4339452859097_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142091" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 1
 https://in-mc-fblive.fancode.com/mumbai/142091_english_hls_65b118d6a394724_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142148" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Shabab-FC-vs-Al-Nassr-FC_FC-web.jpg" group-title="🔸FanCode🔸| Live Events",Al-Shabab FC vs Al-Nassr FC
-https://in-mc-fblive.fancode.com/mumbai/142148_english_hls_e619be866478969_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017792/1778074424767108_UEL26_SF_leg2_Aston_Villa_vs_Nottm_Forest_6may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Aston Villa vs Nott'm Forest  - Semi-Final - Leg 2 - 8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/UEFA_Eur0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778228538~acl=/*~id=60648017145159554780810626774541~hmac=2baddcbb0713e4fbac568633dc16538e1e456aabf1cd392a4821c0205db470fb
+https://sonydaimenew.akamaized.net/hls/live/2005444/UEFA_Eur0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778230361~acl=/*~id=62562655501428081189147338756801~hmac=23e0f48cf6a9f2ed3dc00f10e988608c81dc17e004c9994a578582cc08a372ad
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017796/1778078996079601_UECL_Semi_Final_Leg2_Crystal_Palace_vs_Shakhtar_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Crystal Palace vs Shakhtar - Semi-Final - Leg 2 -  8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778228538~acl=/*~id=60648017145159554780810626774541~hmac=2baddcbb0713e4fbac568633dc16538e1e456aabf1cd392a4821c0205db470fb
+https://sonydaimenew.akamaized.net/hls/live/20000296/Football0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778230361~acl=/*~id=62562655501428081189147338756801~hmac=23e0f48cf6a9f2ed3dc00f10e988608c81dc17e004c9994a578582cc08a372ad
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017792/1778074990902108_UEL26_SF_leg2_Freiburg_vs_Braga_6may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Freiburg vs Braga - Semi-Final - Leg 2 - 8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UEFA_Eur0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778228538~acl=/*~id=60648017145159554780810626774541~hmac=2baddcbb0713e4fbac568633dc16538e1e456aabf1cd392a4821c0205db470fb
+https://sonydaimenew.akamaized.net/hls/live/20000301/UEFA_Eur0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778230361~acl=/*~id=62562655501428081189147338756801~hmac=23e0f48cf6a9f2ed3dc00f10e988608c81dc17e004c9994a578582cc08a372ad
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017796/1778079488809601_UECL_Semi_Final_Leg2_Strasbourg_vs_Rayo_Vallecano_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Strasbourg vs Rayo Vallecano - Semi-Final - Leg 2 - 8 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UEFA_Str0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778228538~acl=/*~id=60648017145159554780810626774541~hmac=2baddcbb0713e4fbac568633dc16538e1e456aabf1cd392a4821c0205db470fb
+https://sonydaimenew.akamaized.net/hls/live/2094588/UEFA_Str0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778230361~acl=/*~id=62562655501428081189147338756801~hmac=23e0f48cf6a9f2ed3dc00f10e988608c81dc17e004c9994a578582cc08a372ad
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069816154388_LIV_Golf_Virginia26_Day1_6may_rev_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Virginia - Day 1 - 7 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/LIV_Golf0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778228538~acl=/*~id=60648017145159554780810626774541~hmac=2baddcbb0713e4fbac568633dc16538e1e456aabf1cd392a4821c0205db470fb
+https://sonydaimenew.akamaized.net/hls/live/20000291/LIV_Golf0705/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778230361~acl=/*~id=62562655501428081189147338756801~hmac=23e0f48cf6a9f2ed3dc00f10e988608c81dc17e004c9994a578582cc08a372ad
 
 # ---------------=== ICC TV ===-------------------
 
