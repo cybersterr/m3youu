@@ -6231,10 +6231,15 @@ https://in-mc-fblive.fancode.com/mumbai/142224_english_hls_8a271055b577901_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142619" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Pietrangeli
 https://in-mc-fblive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142225" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - BNP Paribas
+https://in-mc-fblive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142369" tvg-logo=" https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png" group-title="🔸FanCode🔸| Live Events",Bengaluru Football Club vs Football 4 Change Academy
+https://in-mc-fblive.fancode.com/mumbai/142369_english_hls_cf8c4aa81035720_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774700782439_DP_World_Estrella_Damm_Day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️", Estrella Damm Catalunya Championship - Day 3 - 9 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Cataluny0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778366048~acl=/*~id=92238482763668508912373885564030~hmac=1b62b414bdb53748100fbfdc43caa8c36631874e3e5e859e8ad69a0d4b261021
 
 # ---------------=== ICC TV ===-------------------
 
