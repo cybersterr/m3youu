@@ -6215,10 +6215,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="140511" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140511_5956_JFC_BFC_FC-Web_1772475343660.jpg" group-title="🔸FanCode🔸| Live Events",Jamshedpur FC vs Bengaluru FC
-https://in-mc-fblive.fancode.com/mumbai/140511_english_hls_521f7507a930148_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131178" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131178_5427_SEV_ESL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Sevilla FC vs RCD Espanyol
 https://in-mc-fblive.fancode.com/mumbai/131178_english_hls_a3359185978823_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131172" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Atletico de Madrid vs RC Celta
+https://in-mc-fblive.fancode.com/mumbai/131172_english_hls_84048b82a164092_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142377" tvg-logo="https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Real Valladolid vs Real Zaragoza
+https://in-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142489" tvg-logo="https://images.fancode.com/aig/match/v1778295458186/142489_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Stevenage vs Stockport County
 https://in-mc-fblive.fancode.com/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142224" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Main Feed
@@ -6229,8 +6231,6 @@ https://in-mc-fblive.fancode.com/mumbai/142620_english_hls_1b137878a950996_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142225" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - BNP Paribas
 https://in-mc-fblive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142621" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4 - Court 1
-https://in-mc-fblive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142100" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 3
 https://in-mc-fblive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142102" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 3
@@ -6240,14 +6240,8 @@ https://in-mc-fblive.fancode.com/mumbai/142101_english_hls_b96b7778fe24018_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777444852459341_Bundesliga_2025-26_MD-33_VfB-Stuttgart-vs-Bayer-Leverkusen_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",VfB Stuttgart vs Bayer Leverkusen - MD 33 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Bliga_Vf0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778383686~acl=/*~id=74579564609572355281996691795577~hmac=fba23fd54b62dc6261578890ca5f79c6f6eda51f3ddda8750ae3573846dd79c1
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777444681776341_Bundesliga_2025-26_MD-33_RB-Leipzig-vs-St-Pauli_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",RB Leipzig vs St Pauli - MD 33 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Bliga_Rb0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778383686~acl=/*~id=74579564609572355281996691795577~hmac=fba23fd54b62dc6261578890ca5f79c6f6eda51f3ddda8750ae3573846dd79c1
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777446520931341_Bundesliga_2025-26_MD-33_Hoffenheim-vs-Werder_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Hoffenheim vs Werder Bremen - MD 33 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Blinga_H0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778383686~acl=/*~id=74579564609572355281996691795577~hmac=fba23fd54b62dc6261578890ca5f79c6f6eda51f3ddda8750ae3573846dd79c1
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777445248634341_Bundesliga_2025-26_MD-33_Augsburg-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Augsburg vs Borussia Mönchengladbach - MD 33 - 9 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000297/Bliga_Au0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778383686~acl=/*~id=74579564609572355281996691795577~hmac=fba23fd54b62dc6261578890ca5f79c6f6eda51f3ddda8750ae3573846dd79c1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777445993024341_Bundesliga_2025-26_MD-33_Wolfsburg-vs-Bayern_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Wolfsburg vs Bayern Munich - MD 33 - 9 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Bliga_Wo0905/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778387336~acl=/*~id=08900393380925774285960535809712~hmac=1eb5f652111b8923db23e3a8763f6b95644416571e305f63aa26898e5cb84b99
 
 # ---------------=== ICC TV ===-------------------
 
