@@ -6291,21 +6291,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb19725_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="141956" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Trinidad & Tobago Red Force vs Barbados Pride
 https://in-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8645704_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="140496" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140496_5956_EBFC_PFC_FC-Web_1772466572779.jpg" group-title="🔸FanCode🔸| Live Events",East Bengal FC vs Punjab FC
-https://in-mc-fblive.fancode.com/mumbai/140496_english_hls_3ff2b0b3b52068_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jannik-SINNER%C2%A0-vs-Alexei-POPYRIN_fc-web_1778507631234.jpg" group-title="🔸FanCode🔸| Live Events",J. Sinner vs A. Popyrin
+#EXTINF:-1 tvg-id="142230" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 6 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142230_english_hls_f194df34f598159_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142624" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 6 - Pietrangeli
-https://in-mc-fblive.fancode.com/mumbai/142624_english_hls_1b11ce40f280770_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 6: Supertennis Arena
-https://in-mc-fblive.fancode.com/mumbai/142229_english_hls_7817bfb19f23164_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142228" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 6 - BNP Paribas Arena
 https://in-mc-fblive.fancode.com/mumbai/142228_english_hls_993c00ffb750041_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142626" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 6 - F. Cobolli vs T A Tirante
+https://in-mc-fblive.fancode.com/mumbai/142626_english_hls_6d909e8b6047454_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777489212334532_IFL_RD12_Aizawl_FC_vs_Real_Kashmir_FC_Live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Aizawl FC vs Real Kashmir FC - Relegation Stage - 11 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/IFL_Aiza1105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1778551695~acl=/*~id=45084767893846529290911004216796~hmac=0bc716064724b74fab7b6210dda8c54439667b646bace891d5f9d9481b73ec4b
+
 
 # ---------------=== ICC TV ===-------------------
 
