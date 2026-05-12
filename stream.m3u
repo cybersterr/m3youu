@@ -5,78 +5,6 @@
 # ===== CosmicSports Playlist =====
 # Join Telegram: @FrostDrift7
 
-# ---------------=== IPL 2026 | LIVE ===-------------------
-
-#EXTINF:-1 tvg-id="1100" tvg-name="Star Sports 1 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="IPL LIVE",Star Sports 1 HD Hindi
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=eb47448a8696e24e93932089e47ccf85b22444f2036a6a75cbc7672d0eba7558&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1108
-#EXTINF:-1 tvg-id="1101" tvg-name="Star Sports Hindi 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png" group-title="IPL LIVE",Star Sports Hindi 1
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=d901a27401bc35ca08eb1b85f35e098358bb011ecb4a79400b5eed97e9afa46d&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=362
-#EXTINF:-1 tvg-id="1102" tvg-name="Star Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="IPL LIVE",Star Sports 1 HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=51998a7d0a4b7edf07037b3ca403e0dedb304b8cfe2d987dc78540e2d62d0b40&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1106
-#EXTINF:-1 tvg-id="1103" tvg-name="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="IPL LIVE",Star Sports 1
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=ef01d4c7906922cb654b2f1621f50b2a17fdba00a494e919086e36baf0331dfd&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1142
-#EXTINF:-1 tvg-id="1104" tvg-name="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="IPL LIVE",Star Sports 2 HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=26a4f52b19e6890c0da97a960ae33201752851dce35b218b868a55ba5aa64b9f&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1109
-#EXTINF:-1 tvg-id="1105" tvg-name="Star Sports 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="IPL LIVE",Star Sports 2
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=21b478694539497238f6e299b1dacea1d9e1525eedc79d35ecb8fbec328a1373&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1141
-#EXTINF:-1 tvg-id="1106" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="IPL LIVE",Star Sports 2 Hindi HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=e2a3cad3527afd9b322e1155742dce2753b0174dca604aa404894363d4110464&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1984
-#EXTINF:-1 tvg-id="1107" tvg-name="Star Sports 2 Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="IPL LIVE",Star Sports 2 Hindi
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=12fc84fab8322a4d6b5458f1daf659871f3c6858365c9cd50e103538f88c8ce4&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1985
-#EXTINF:-1 tvg-id="1108" tvg-name="Star Sports 3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" group-title="IPL LIVE",Star Sports 3
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=a78032d35790c472756ed7e3ef3f92c223040b7bea90ab6f2df7ec3e8efb2ec1&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1389
-#EXTINF:-1 tvg-id="1109" tvg-name="Star Sports Select 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="IPL LIVE",Star Sports Select 1 HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=6a52a40c0423014e02bf11e95572e46f6a8822b30bb5be7b8340431d74bb99aa&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=460
-#EXTINF:-1 tvg-id="1110" tvg-name="Star Sports Select 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="IPL LIVE",Star Sports Select 1
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=200c15a3f9b796200c8edb250f4b7e5b64f005d8c2573cfabefc71352c70f682&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1123
-#EXTINF:-1 tvg-id="1111" tvg-name="Star Sports Select 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="IPL LIVE",Star Sports Select 2 HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=6096f545abbbee455b13efd7873b34a09768f58d3b67aaaf050286bef39a7e41&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=461
-#EXTINF:-1 tvg-id="1112" tvg-name="Star Sports Select 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title="IPL LIVE",Star Sports Select 2
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=25fd2150d4779791fcaf374dfd80f703cc6c8823598b69712d19a0e370f7c7ad&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1114
-#EXTINF:-1 tvg-id="1113" tvg-name="Star Sports 1 Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png" group-title="IPL LIVE",Star Sports 1 Telugu HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=6ec31a10998116135320cc9b6765a36d2cd83b9b9ee212c0861a3fa8a3e38ef4&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=3278
-#EXTINF:-1 tvg-id="1114" tvg-name="Star Sports 1 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png" group-title="IPL LIVE",Star Sports 1 Telugu
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=3f8a6ae974e9269dbbd85e113977014c27072870b5051d321d633aa95ce1e877&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1651
-#EXTINF:-1 tvg-id="1115" tvg-name="Star Sports 2 Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png" group-title="IPL LIVE",Star Sports 2 Telugu HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=74efb8d6bdd6fe8c387526ee8539b974c7b4cfa1c90991ecbab9940befe1aee2&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=3274
-#EXTINF:-1 tvg-id="1116" tvg-name="Star Sports 2 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="IPL LIVE",Star Sports 2 Telugu
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=6f270ac41aa73c2c98519039f82438c9b05b7c2aacf8f196763a60197a0f930a&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=2852
-#EXTINF:-1 tvg-id="1117" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png" group-title="IPL LIVE",Star Sports 1 Tamil HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=b730e9f30c16cb3d7f8502942dc6c7c30e595aff4aaca4658bff4c849e916380&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=3277
-#EXTINF:-1 tvg-id="1118" tvg-name="Star Sports 1 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png" group-title="IPL LIVE",Star Sports 1 Tamil
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=3c772976d97f4a6a161b8b47032dc65a1ea2b1cc39f4a215d5a95ebbadb8c4eb&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1124
-#EXTINF:-1 tvg-id="1119" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Tamil_HD.png" group-title="IPL LIVE",Star Sports 2 Tamil HD
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=45bbd01a9c06bf36027496cc8e251bfbed1a070c6a4bc7b4f13bfdeb3447206b&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=3273
-#EXTINF:-1 tvg-id="1120" tvg-name="Star Sports 2 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Tamil.png" group-title="IPL LIVE",Star Sports 2 Tamil
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614213~exp=1778635813~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=d25cfe5ef431beb0ba84babfd5bb0edfc261540aaf87529d8e160001c0f854c5&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=2853
-#EXTINF:-1 tvg-id="1121" tvg-name="Star Sports 1 Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Kannada.png" group-title="IPL LIVE",Star Sports 1 Kannada
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614214~exp=1778635814~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=1648831bd4fa31d6c005af47b021471fd17072b72cccb21d2841c399354548f4&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1650
-#EXTINF:-1 tvg-id="1122" tvg-name="Star Sports 2 Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png" group-title="IPL LIVE",Star Sports 2 Kannada
-#EXTHTTP:{"Cookie":"","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1778614214~exp=1778635814~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=028e4374eb81c6b1196659e7beb4fa91cff18a5f5615c31e6bdb3aae9af93b75&Origin=&Referer=&User-Agent=@cloudplay&drmScheme=clearkey&drmLicense=https://temp.webplay.fun/jtv/plkey.php?id=1122
-
 # ---------------=== OTT | Jio Cinema ===-------------------
 
 #EXTM3U
@@ -6287,18 +6215,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="141957" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Guyana Harpy Eagles vs West Indies Academy
-https://in-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb55508_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="141956" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Trinidad & Tobago Red Force vs Barbados Pride
-https://in-mc-fblive.fancode.com/mumbai/141956_english_hls_d853788a8693331_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142500" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Southampton F.C. vs Middlesbrough F.C.
 https://in-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131186" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs Atletico de Madrid
 https://in-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142232" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 7 - Main Feed
-https://in-mc-fblive.fancode.com/mumbai/142232_english_hls_bae44b58f473247_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142640" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 7 - T A Tirante vs D Medvedev
-https://in-mc-fblive.fancode.com/mumbai/142640_english_hls_f92eb4169685719_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
