@@ -6287,12 +6287,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142510" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png" group-title="🔸FanCode🔸| Live Events",Sri Lanka A Women vs New Zealand A Women
-https://in-mc-fblive.fancode.com/mumbai/142510_english_hls_65f3be4ba685626_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142506" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Adelaide-United-vs-Auckland_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Adelaide United vs Auckland
-https://in-mc-fblive.fancode.com/mumbai/142506_english_hls_1fb9ed2a0355588_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142488" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg" group-title="🔸FanCode🔸| Live Events",Raging Bulls vs Lightning Lions
+https://in-mc-fblive.fancode.com/mumbai/142488_english_hls_4855341d7a4186_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="139942" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Catalonia GP
 https://in-mc-fblive.fancode.com/mumbai/139942_english_hls_ebf51c020a40261_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142707" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Men's Doubles QF
+https://in-mc-fblive.fancode.com/mumbai/142707_english_hls_79953af20c88877_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142326" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
+https://in-mc-fblive.fancode.com/mumbai/142326_english_hls_61fdd11ca799887_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
@@ -9964,9 +9966,9 @@ https://mactom3u.vodep39240327.workers.dev/480612.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480703.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : ASTON VILLA VS LIVERPOOL F.C." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : ASTON VILLA VS LIVERPOOL F.C.
 https://mactom3u.vodep39240327.workers.dev/1148.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 : SALFORD CITY F.C. VS GRIMSBY TOWN F.C." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 : SALFORD CITY F.C. VS GRIMSBY TOWN F.C.
+#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1149.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 : NOTTS COUNTY F.C. VS CHESTERFIELD F.C." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 : NOTTS COUNTY F.C. VS CHESTERFIELD F.C.
+#EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1150.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1151.NAB" tvg-name="EPL 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1151.jpg" group-title="SPORTS | EPL",EPL 04 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1151.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
