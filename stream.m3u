@@ -6472,14 +6472,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="131190" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Athletic Club vs RC Celta
-https://in-mc-fblive.fancode.com/mumbai/131190_english_hls_5be452741e86743_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="141958" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Guyana Harpy Eagles vs Trinidad & Tobago Red Force
-https://in-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131199" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131199_5427_SEV_RM_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Sevilla FC vs Real Madrid
 https://in-mc-fblive.fancode.com/mumbai/131199_english_hls_72f9234cd213549_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="131198" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs RCD Espanyol
-https://in-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131197" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131197_5427_RO_ALA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Real Oviedo vs Deportivo Alaves
 https://in-mc-fblive.fancode.com/mumbai/131197_english_hls_ea3442263172612_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131196" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131196_5427_RS_VAL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Real Sociedad vs Valencia CF
@@ -6492,8 +6486,12 @@ https://in-mc-fblive.fancode.com/mumbai/131194_english_hls_1c5604ae7a98514_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/131193_english_hls_bb81e4b92d72599_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="131191" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131191_5427_ATL_GIR_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Atletico de Madrid vs Girona FC
 https://in-mc-fblive.fancode.com/mumbai/131191_english_hls_ab8a49562f8350_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142757" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web_1779011889906.jpg" group-title="🔸FanCode🔸| Live Events",Finals: J. Sinner vs C. Ruud
-https://in-mc-fblive.fancode.com/mumbai/142757_english_hls_27101c767742_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131190" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Athletic Club vs RC Celta
+https://in-mc-fblive.fancode.com/mumbai/131190_english_hls_5be452741e86743_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="141958" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="🔸FanCode🔸| Live Events",Guyana Harpy Eagles vs Trinidad & Tobago Red Force
+https://in-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131198" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs RCD Espanyol
+https://in-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142630" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
 https://in-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/index.m3u8
 
