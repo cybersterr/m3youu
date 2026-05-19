@@ -6476,6 +6476,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142741" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="🔸FanCode🔸| Live Events",Speen Ghar Region vs Band-e-Amir Region
 https://in-mc-fblive.fancode.com/mumbai/142741_english_hls_351bc6c7ad12695_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142434" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142434_6076_SWE_SLO_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Slovenia vs Sweden
+https://in-mc-fblive.fancode.com/mumbai/142434_english_hls_d68da4aeaf13895_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142433" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142433_6076_JER_FRA_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",France Cricket vs Jersey
+https://in-mc-fblive.fancode.com/mumbai/142433_english_hls_6dc30bdc2c19001_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142270" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
+https://in-mc-fblive.fancode.com/mumbai/142270_english_hls_cf1267425f67506_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142263" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="🔸FanCode🔸| Live Events",Day 3 - M1
+https://in-mc-fblive.fancode.com/mumbai/142263_english_hls_fe4e91bebf98154_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142883" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
+https://in-mc-fblive.fancode.com/mumbai/142883_english_hls_59addd2f7d84094_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
@@ -9887,9 +9897,9 @@ https://mactom3u.vodep39240327.workers.dev/480702.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480612.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77064.NAB" tvg-name="TNT SPORT 1." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77064.png" group-title="SPORTS | EPL",TNT SPORT 1.
 https://mactom3u.vodep39240327.workers.dev/480703.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : ARSENAL VS BURNLEY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : ARSENAL VS BURNLEY
+#EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : AFC BOURNEMOUTH VS MANCHESTER CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : AFC BOURNEMOUTH VS MANCHESTER CITY
 https://mactom3u.vodep39240327.workers.dev/1148.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 : CHELSEA VS TOTTENHAM HOTSPUR" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 : CHELSEA VS TOTTENHAM HOTSPUR
 https://mactom3u.vodep39240327.workers.dev/1149.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1150.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10509,35 +10519,35 @@ https://mactom3u.vodep39240327.workers.dev/481055.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/481782.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/732.jpeg" group-title="SPORTS | GENERAL",FOX SPORTS 1
 https://mactom3u.vodep39240327.workers.dev/732.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="77357.NAB" tvg-name="IPL 1 ENGLISH  - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 1 ENGLISH  - CSK VS SRH
+#EXTINF:-1 tvg-id="77357.NAB" tvg-name="IPL 1 ENGLISH  - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 1 ENGLISH  - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/480999.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78187.NAB" tvg-name="IPL 2 ENGLISH  - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 2 ENGLISH  - CSK VS SRH
+#EXTINF:-1 tvg-id="78187.NAB" tvg-name="IPL 2 ENGLISH  - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 2 ENGLISH  - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481840.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78188.NAB" tvg-name="IPL 3 HINDI  - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 3 HINDI  - CSK VS SRH
+#EXTINF:-1 tvg-id="78188.NAB" tvg-name="IPL 3 HINDI  - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 3 HINDI  - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481841.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78189.NAB" tvg-name="IPL 4 HINDI  - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 4 HINDI  - CSK VS SRH
+#EXTINF:-1 tvg-id="78189.NAB" tvg-name="IPL 4 HINDI  - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 4 HINDI  - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481842.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78193.NAB" tvg-name="IPL 5 TAMIL  - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 5 TAMIL  - CSK VS SRH
+#EXTINF:-1 tvg-id="78193.NAB" tvg-name="IPL 5 TAMIL  - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 5 TAMIL  - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481846.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78194.NAB" tvg-name="IPL 6 TELUGU  - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 6 TELUGU  - CSK VS SRH
+#EXTINF:-1 tvg-id="78194.NAB" tvg-name="IPL 6 TELUGU  - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 6 TELUGU  - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481847.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78195.NAB" tvg-name="IPL 7 PUNJABI - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 7 PUNJABI - CSK VS SRH
+#EXTINF:-1 tvg-id="78195.NAB" tvg-name="IPL 7 PUNJABI - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 7 PUNJABI - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481848.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78236.NAB" tvg-name="IPL 8 PUNJABI BK - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 8 PUNJABI BK - CSK VS SRH
+#EXTINF:-1 tvg-id="78236.NAB" tvg-name="IPL 8 PUNJABI BK - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 8 PUNJABI BK - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481920.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78196.NAB" tvg-name="IPL 9 GUJARATI - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 9 GUJARATI - CSK VS SRH
+#EXTINF:-1 tvg-id="78196.NAB" tvg-name="IPL 9 GUJARATI - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 9 GUJARATI - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481849.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78199.NAB" tvg-name="IPL 10 BENGALI - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 10 BENGALI - CSK VS SRH
+#EXTINF:-1 tvg-id="78199.NAB" tvg-name="IPL 10 BENGALI - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 10 BENGALI - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481852.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78200.NAB" tvg-name="IPL 11 HARYANANVI - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 11 HARYANANVI - CSK VS SRH
+#EXTINF:-1 tvg-id="78200.NAB" tvg-name="IPL 11 HARYANANVI - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 11 HARYANANVI - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481853.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78201.NAB" tvg-name="IPL 12 BIHARI - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 12 BIHARI - CSK VS SRH
+#EXTINF:-1 tvg-id="78201.NAB" tvg-name="IPL 12 BIHARI - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 12 BIHARI - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481854.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78202.NAB" tvg-name="IPL 13 MALAYALAM - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 13 MALAYALAM - CSK VS SRH
+#EXTINF:-1 tvg-id="78202.NAB" tvg-name="IPL 13 MALAYALAM - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 13 MALAYALAM - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481855.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78203.NAB" tvg-name="IPL 14 KANNADA - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 14 KANNADA - CSK VS SRH
+#EXTINF:-1 tvg-id="78203.NAB" tvg-name="IPL 14 KANNADA - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 14 KANNADA - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481856.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="78204.NAB" tvg-name="IPL 15  MARATHI - CSK VS SRH" tvg-logo="" group-title="SPORTS | CRICKET",IPL 15  MARATHI - CSK VS SRH
+#EXTINF:-1 tvg-id="78204.NAB" tvg-name="IPL 15  MARATHI - RR VS LSG" tvg-logo="" group-title="SPORTS | CRICKET",IPL 15  MARATHI - RR VS LSG
 https://mactom3u.vodep39240327.workers.dev/481857.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD 4K.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68956.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD 4K..
 https://mactom3u.vodep39240327.workers.dev/472293.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10822,8 +10832,29 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 18-05-2026 15:30
+#DATE:- 19-05-2026 13:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="dc631791-d78f-4085-b794-44d4c91b45dc" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/c2r5phz4u9i37ufcvpr5" tvg-lang="English" group-title="ICC-TV",English | Jersey v France
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1779206407~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=8db8137f0d0ccfeb93b25d84f66ec745d1a532e6193b4663ff5687c9c65450ba/manifest.mpd?vcfilter=dc631791-d78f-4085-b794-44d4c91b45dc&powered_by=jay_shree_ram
+#EXTINF:-1 tvg-id="e275a52f-0f19-429b-8775-9e972d164105" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ng3pcioi6rq1sl5scl3e" tvg-lang="English" group-title="ICC-TV",English | Sweden v Slovenia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1779206410~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=62f9517b21e2daf3a4b675dec2f3b0e6b7d1e3c9dcedfa53573f08fca684c708/manifest.mpd?vcfilter=e275a52f-0f19-429b-8775-9e972d164105&powered_by=jay_shree_ram
 
 # =========================================
 # This m3u link is only for educational purposes
