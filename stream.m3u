@@ -6466,8 +6466,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142735" tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Bolton Wanderers vs Stockport County
-https://in-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142702" tvg-logo="https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Real Valladolid vs Deportivo La Coruna
+https://in-mc-fblive.fancode.com/mumbai/142702_english_hls_02388e4dcb94489_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142700" tvg-logo="https://images.fancode.com/aig/match/v1778777834399/142700_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Málaga vs Racing Club
+https://in-mc-fblive.fancode.com/mumbai/142700_english_hls_f44fd5b5e796934_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142699" tvg-logo="https://images.fancode.com/aig/match/v1778777894887/142699_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Las Palmas vs Real Zaragoza
+https://in-mc-fblive.fancode.com/mumbai/142699_english_hls_9bde25b02c16881_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142649" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Suzanne-Lenglen
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779655594~acl=/*~id=03899328532736301104518738364984~hmac=0ab9ac882010a42f8449fe9c5711e392b8841d8bd1da2ac0c4988cdc8fb52d3f
 #EXTINF:-1 tvg-id="142648" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Simonne-Mathieu
@@ -6486,21 +6490,21 @@ https://in-mc-fblive.fancode.com/mumbai/142132_english_hls_ad865c0d3020364_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142131" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="🔸FanCode🔸| Live Events",Day 4 - Marquee Group
 https://in-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139688" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="🔸FanCode🔸| Live Events",Feature Race
-https://in-mc-fblive.fancode.com/mumbai/139688_english_hls_dc1374eb5265444_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142090" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web.jpg" group-title="🔸FanCode🔸| Live Events",Feature Race
+https://in-mc-fblive.fancode.com/mumbai/142090_english_hls_9d10b7d42d48626_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779678851~acl=/*~id=66891607861847100214181772934346~hmac=79e001a44297b866f9f8b1d97126905c09fb80e9615b0345aecfb4e926fc3597
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779678851~acl=/*~id=66891607861847100214181772934346~hmac=79e001a44297b866f9f8b1d97126905c09fb80e9615b0345aecfb4e926fc3597
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779678851~acl=/*~id=66891607861847100214181772934346~hmac=79e001a44297b866f9f8b1d97126905c09fb80e9615b0345aecfb4e926fc3597
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779678851~acl=/*~id=66891607861847100214181772934346~hmac=79e001a44297b866f9f8b1d97126905c09fb80e9615b0345aecfb4e926fc3597
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Mirra Andreeva vs Fiona Ferro - Round 1 - 24 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779678851~acl=/*~id=66891607861847100214181772934346~hmac=79e001a44297b866f9f8b1d97126905c09fb80e9615b0345aecfb4e926fc3597
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779681886~acl=/*~id=28235103382578278696166094538395~hmac=c9a9dff717fd226e713b772377e9bcec77ca2f79137f810431e71132f87d3423
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/HIN/std_lrh-800300010.m3u8?hdnea=exp=1779681886~acl=/*~id=28235103382578278696166094538395~hmac=c9a9dff717fd226e713b772377e9bcec77ca2f79137f810431e71132f87d3423
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TAM/std_lrh-800300010.m3u8?hdnea=exp=1779681886~acl=/*~id=28235103382578278696166094538395~hmac=c9a9dff717fd226e713b772377e9bcec77ca2f79137f810431e71132f87d3423
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/TEL/std_lrh-800300010.m3u8?hdnea=exp=1779681886~acl=/*~id=28235103382578278696166094538395~hmac=c9a9dff717fd226e713b772377e9bcec77ca2f79137f810431e71132f87d3423
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/Roland_G2405/KAN/std_lrh-800300010.m3u8?hdnea=exp=1779681886~acl=/*~id=28235103382578278696166094538395~hmac=c9a9dff717fd226e713b772377e9bcec77ca2f79137f810431e71132f87d3423
 
 # ---------------=== ICC TV ===-------------------
 
