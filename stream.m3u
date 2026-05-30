@@ -6455,21 +6455,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="142927" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="🔸FanCode🔸| Live Events",Rwanda vs Botswana
-https://in-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143003" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="🔸FanCode🔸| Live Events",Bangladesh Women vs Scotland Women
-https://in-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142668" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",India vs Zimbabwe
-https://in-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139946" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="🔸FanCode🔸| Live Events",Italy GP
-https://in-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142683" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Suzanne Lenglen
 https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1780173878~acl=/*~id=08639228855578992354466780460016~hmac=0b27326638ec0182fd515d4daf69b2b19debee73d1e2d706d170a250bcaffe1b
 #EXTINF:-1 tvg-id="142682" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Simonne-Mathieu
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1780173878~acl=/*~id=08639228855578992354466780460016~hmac=0b27326638ec0182fd515d4daf69b2b19debee73d1e2d706d170a250bcaffe1b
 #EXTINF:-1 tvg-id="142681" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court 14
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1780173878~acl=/*~id=08639228855578992354466780460016~hmac=0b27326638ec0182fd515d4daf69b2b19debee73d1e2d706d170a250bcaffe1b
-#EXTINF:-1 tvg-id="142684" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Court Philippe-Chatrier
+#EXTINF:-1 tvg-id="142684" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Coco-Gauff-vs-Anastasia-Potapova_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Gauff vs Potapova
 https://sonypartnersdaimenew.akamaized.net/hls/live/2037143/RG26FCCPC/master_mdh.m3u8?hdnea=exp=1780177528~acl=/*~id=28285834535690830494568255171824~hmac=3e69b0805fdfa69ae0a6f8ac170f223d2f73ed2ff265bb6edd6939715900cabc
 #EXTINF:-1 tvg-id="142897" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Main Feed
 https://in-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8
@@ -6479,47 +6471,41 @@ https://in-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-d
 https://in-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142898" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Marquee Group
 https://in-mc-fblive.fancode.com/mumbai/142898_english_hls_8f06bd52b125270_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143003" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="🔸FanCode🔸| Live Events",Bangladesh Women vs Scotland Women
+https://in-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142668" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",India vs Zimbabwe
+https://in-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022315/UCLFinal3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/UCLFinal3005/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022318/UCLFinal3005/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022316/UCLFinal3005/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2018458/UCLFinal3005/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/UCLFinal3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022317/UCLFinal3005/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022318/UCLFinal3005/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022316/UCLFinal3005/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",PSG vs Arsenal - Final - 30 May 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2018458/UCLFinal3005/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd T20I - 30 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
+https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd T20I - 30 May 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
+https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd T20I - 30 May 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
+https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd T20I - 30 May 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
+https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd T20I - 30 May 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018783/1780059414000342_RG26_Parry_vs_Anisimova_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Philippe Chatrier - 30 May 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/RG_Phili3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780196874~acl=/*~id=86033493330691919743466394611326~hmac=31d9a4fc2f5b202e73a0c16056225dd5a3517799ce7e3c7fecc073dfdf55aa7f
+https://sonydaimenew.akamaized.net/hls/live/2118981/EnglandW3005/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018785/1780059416000646_RG26_Gauff_vs_Potapova_landscape_thumb_SP.jpg" group-title="🔹️SonyLiv Live🔹️",Coco Gauff vs Anastasia Potapova - Women's Singles - 30 May 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/RG_Phili3005/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780200525~acl=/*~id=75333227713155982510888461039042~hmac=212fad9c897f438a6012d0fd385246c32cd76bb93cab6a52f804ddf506cc3133
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 30-05-2026 18:30
+#DATE:- 30-05-2026 21:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="2b56e53d-0e2e-4208-9624-e664562de0fd" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rolfcnkh5gz2jtpfygch" tvg-lang="English" group-title="ICC-TV",English | Botswana v Rwanda
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1780170310~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=a767f383712e4536b2b59c607a8586930e9395bb25e50b5469eda17880d53b78/manifest.mpd?vcfilter=2b56e53d-0e2e-4208-9624-e664562de0fd&powered_by=jay_shree_ram
 #EXTINF:-1 tvg-id="83b02850-05a0-4dac-ba15-7257d5ad19f4" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/mj9c9woto8ca6askczya" tvg-lang="English" group-title="ICC-TV",English | 2nd T20I: England v India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
