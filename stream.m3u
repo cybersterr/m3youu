@@ -6453,7 +6453,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1780171236~exp=1780192836~acl=/*~hmac=4797ae9a65ce4af306f29770df6e57be7f105d006690589ea3fe460d218283da","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1780171236~exp=1780192836~acl=/*~hmac=4797ae9a65ce4af306f29770df6e57be7f105d006690589ea3fe460d218283da
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142625" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778573841376.png" group-title="🔸FanCode🔸| Live Events",Toluca vs Tigres
+https://in-mc-fblive.fancode.com/mumbai/142625_english_hls_12db87922425590_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 
