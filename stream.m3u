@@ -6465,8 +6465,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142973" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Sri Lanka vs West Indies
 https://in-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143341" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143341_6020_BOL_SCO_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Bolivia vs Scotland
-https://in-mc-fblive.fancode.com/mumbai/143341_english_hls_790eb0c40e1081_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="141609" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141609_6020_BRZ_EGY_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Brazil vs Egypt
 https://in-mc-fblive.fancode.com/mumbai/141609_english_hls_2b2c8f45aa40424_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143231" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png" group-title="🔸FanCode🔸| Live Events",Day 3
@@ -6475,7 +6473,7 @@ https://in-mc-fblive.fancode.com/mumbai/143231_english_hls_85d30d137347152_1ta-d
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627099108940_INT_Friendlies26_Turkiye_vs_Venezuela_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Turkiye vs Venezuela - 7 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780828113~acl=/*~id=09775564592375868881426036961535~hmac=a722af7b282e9fc7f1be3b64ca9bddf369e0d92816355fb290bf0552b9afca9a
+https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780831748~acl=/*~id=21462762951430997751637911595156~hmac=f2601be534c0a1bf2164e1a84a0baab5883b4f600e32bc691b34709a0ac4b49b
 
 # ---------------=== ICC TV ===-------------------
 
