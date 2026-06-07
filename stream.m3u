@@ -6468,40 +6468,34 @@ https://in-mc-fblive.fancode.com/mumbai/142992_english_hls_3f933cf0a992234_1ta-d
 #EXTINF:-1 tvg-id="143067" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143067_6102_RW_BL_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Rewa Jaguars vs Bhopal Leopards
 https://in-mc-fblive.fancode.com/mumbai/143067_english_hls_ca3711684d14022_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142732" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Cobolli vs Zverev
-https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780865621~acl=/*~id=34516489196898747443072215654791~hmac=fbfe6ff51cba969ab8508b9274aeac903683dca87a6f7873700de3f571dbbc50
+https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780894864~acl=/*~id=80900962035045885124692581837866~hmac=5ad4f67233e567b9cf6f7ec55e6fa5df0ea697d589fbd3a620e1283d6ab2b5f6
 #EXTINF:-1 tvg-id="143115" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 4
 https://in-mc-fblive.fancode.com/mumbai/143115_english_hls_977c97831d36519_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143310" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="🔸FanCode🔸| Live Events",F1 Kids 2026
-https://in-mc-fblive.fancode.com/mumbai/143310_english_hls_fcadf7e6d422076_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139451" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png" group-title="🔸FanCode🔸| Live Events",Race
-https://in-mc-fblive.fancode.com/mumbai/139451_english_hls_675ec44af239948_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143117" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="🔸FanCode🔸| Live Events",Featured Groups - Day 4
 https://in-mc-fblive.fancode.com/mumbai/143117_english_hls_32345f30b140789_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143116" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="🔸FanCode🔸| Live Events",Marquee Feed - Day 4
 https://in-mc-fblive.fancode.com/mumbai/143116_english_hls_6b9ba2889a54425_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143049" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 4
+https://in-mc-fblive.fancode.com/mumbai/143049_english_hls_2a67bde85948657_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/2094589/RG_Multi0706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623779723941_INT_Friendlies26_Denmark_vs_Ukraine_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Denmark vs Ukraine - 7 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Den0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Den0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019397/1780834316817980_CCPL26_Raigarh_Lions_vs_Bilaspur_Bulls_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Raigarh Lions vs Bilaspur Bulls - 7 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_0706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019323/1780695609338705_SVNS_World_Championship26_Session4_3rd_Position_and_final_4jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Session 4 - 3rd Position & Final - 7 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/HSBC_SVN0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271759861861_DP_World_Tour_KLM_Open_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",KLM Open - Day 4 - 7 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/KLM_Open0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_0706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Andalucia - Day 4 - 7 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_And0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780890717~acl=/*~id=64069986198197636074367645024756~hmac=08441305c5a05bf38c70858bde89faa5f853e11f73acd1ebb1f2490ac4e151a0
+https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_And0706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780895598~acl=/*~id=31121269746558741888623754934985~hmac=51080811c1ecddfe7a7695d7af3b660b28cdd57593eb49bfefb2fe52b54799a1
 
 # ---------------=== ICC TV ===-------------------
 
