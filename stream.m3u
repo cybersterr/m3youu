@@ -335,7 +335,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540057081/5c13f17d142c4963a1c7bd54fcd4
 # ---------------=== 🎬 OTT | ZEE5 ===-------------------
 
 #EXTM3U
-#Generated on 1781664547
+#Generated on 1781707967
 
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="🎬 OTT | ZEE5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -765,41 +765,19 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 
 #EXTINF:-1 tvg-id="143090" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143090_6102_CGS_BBS_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Chambal Ghariyals vs Bundelkhand Bulls
 https://in-mc-fblive.fancode.com/mumbai/143090_english_hls_5c62157d9d71013_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143183" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143183_6109_HMU_STY_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Stockholm United vs Stockholm City
-https://in-mc-fblive.fancode.com/mumbai/143183_english_hls_f965b67ab165341_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143258" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - World Feed
 https://in-mc-fblive.fancode.com/mumbai/143258_english_hls_0dddadeef981240_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143257" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="🔸FanCode🔸| Live Events",Day 3 - Schauinsland Reisen Court
-https://in-mc-fblive.fancode.com/mumbai/143257_english_hls_74ca5bd50429399_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143134" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - World Feed
-https://in-mc-fblive.fancode.com/mumbai/143134_english_hls_cd7f725a6054369_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143140" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="🔸FanCode🔸| Live Events",Day 3 - Court 1
-https://in-mc-fblive.fancode.com/mumbai/143140_english_hls_6a651c61b274125_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260901751832_ENGvsNZ_2nd_test_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 17 Jun 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781749352~acl=/*~id=69158992873675208632683288641725~hmac=9be3856acc9e125a0527dba7bc6c8a8ec8b670899cca558b40a50d3ef65f30b6
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
-
-
+https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781760266~acl=/*~id=85293498906845478092737520096299~hmac=5085b996cf3646c1e61f07e9c7dfdf54e20d0839d21cac96023721fc4fe4782a
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 17-06-2026 19:45
+#DATE:- 17-06-2026 22:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="25622915-7a6e-43af-afe5-1afa14963345" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/d9kuigmoemabbvlse9t6" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Netherlands
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1781729110~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=842ff3b2b844f4623ca22a73511383dc403d9ff6f6c6dc5f6026e374ff212125/manifest.mpd?vcfilter=25622915-7a6e-43af-afe5-1afa14963345&powered_by=jay_shree_ram
 
 # =========================================
 # This m3u link is only for educational purposes
