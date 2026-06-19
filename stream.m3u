@@ -6404,18 +6404,37 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="142969" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg" group-title="🔸FanCode🔸| Live Events",Australia vs Bangladesh
+https://in-mc-fblive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143093" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Jabalpur Royal Lions vs Chambal Ghariyals
+https://in-mc-fblive.fancode.com/mumbai/143093_english_hls_7e8758922e51417_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143042" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143042_6095_MM_MMO_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Mohali Monsters vs Moga Mongoose
+https://in-mc-fblive.fancode.com/mumbai/143042_english_hls_f981ff70b436880_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143188" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143188_6109_UPP_STY_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Uppsala Tigers vs Stockholm City
+https://in-mc-fblive.fancode.com/mumbai/143188_english_hls_984981af8410023_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139951" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="🔸FanCode🔸| Live Events",Czechia GP
+https://in-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143261" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
+https://in-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143247" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
+https://in-mc-fblive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260909413832_ENGvsNZ_2nd_test_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 3 - 19 Jun 2026  [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781910547~acl=/*~id=41914368793340266572647353382659~hmac=6becc0dba49ea618f642bdff30103efed825e1a4bf23c6db36f3fe208654ec86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781894732~acl=/*~id=28500112339173820505414644785262~hmac=3071d225e343c3b32b3619da9e2fea2cb6657dc78b4a76f86ce5d256fe7c456e
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781910547~acl=/*~id=41914368793340266572647353382659~hmac=6becc0dba49ea618f642bdff30103efed825e1a4bf23c6db36f3fe208654ec86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781894732~acl=/*~id=28500112339173820505414644785262~hmac=3071d225e343c3b32b3619da9e2fea2cb6657dc78b4a76f86ce5d256fe7c456e
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781910547~acl=/*~id=41914368793340266572647353382659~hmac=6becc0dba49ea618f642bdff30103efed825e1a4bf23c6db36f3fe208654ec86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781894732~acl=/*~id=28500112339173820505414644785262~hmac=3071d225e343c3b32b3619da9e2fea2cb6657dc78b4a76f86ce5d256fe7c456e
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781910547~acl=/*~id=41914368793340266572647353382659~hmac=6becc0dba49ea618f642bdff30103efed825e1a4bf23c6db36f3fe208654ec86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781894732~acl=/*~id=28500112339173820505414644785262~hmac=3071d225e343c3b32b3619da9e2fea2cb6657dc78b4a76f86ce5d256fe7c456e
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781910547~acl=/*~id=41914368793340266572647353382659~hmac=6becc0dba49ea618f642bdff30103efed825e1a4bf23c6db36f3fe208654ec86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka A vs Afghanistan A - 19 Jun 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781894732~acl=/*~id=28500112339173820505414644785262~hmac=3071d225e343c3b32b3619da9e2fea2cb6657dc78b4a76f86ce5d256fe7c456e
+https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781910547~acl=/*~id=41914368793340266572647353382659~hmac=6becc0dba49ea618f642bdff30103efed825e1a4bf23c6db36f3fe208654ec86
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
