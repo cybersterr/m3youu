@@ -6478,8 +6478,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143545" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Uzbekistan vs Indonesia
-https://in-mc-fblive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143421" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143421_6134_GMY_SY_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Gulbarga Mystics vs Shivamogga Yodhas
+https://in-mc-fblive.fancode.com/mumbai/143421_english_hls_e14d15b24a67195_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143099" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143099_6102_IPP_GC_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Indore Pink Panthers vs Gwalior Cheetahs
+https://in-mc-fblive.fancode.com/mumbai/143099_english_hls_57b3c5021536049_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143546" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Thailand vs Singapore
+https://in-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143319" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Namibia vs Nigeria
+https://in-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143278" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
+https://in-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143272" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 3
+https://in-mc-fblive.fancode.com/mumbai/143272_english_hls_f465b38c6c84328_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
@@ -6491,7 +6501,7 @@ https://in-mc-fblive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-d
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 23-06-2026 14:15
+#DATE:- 23-06-2026 17:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="3696b898-baa7-4a01-87b4-95e049100e74" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/jolg4rjnnin430jmz7of" tvg-lang="English" group-title="ICC-TV",English | WT20: New Zealand v Scotland
@@ -6499,11 +6509,21 @@ https://in-mc-fblive.fancode.com/mumbai/143545_english_hls_26bc64239a56042_1ta-d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782233107~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=f75f2296c68f02027395d2a57d3abbe59f48d1f6051b57e2d828b906076930d3/manifest.mpd?vcfilter=3696b898-baa7-4a01-87b4-95e049100e74&
+#EXTINF:-1 tvg-id="c2051649-4516-4ba2-a8a7-5066f0dd365a" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/zdcspbqsapb1fbarwwip" tvg-lang="English" group-title="ICC-TV",English | 6th T20I: Nigeria v Namibia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1782243906~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=79eed95a749c9d92baec742041ad251feb8734e9bc1791d504fe5995c10e98aa/manifest.mpd?vcfilter=c2051649-4516-4ba2-a8a7-5066f0dd365a&
 
 # =========================================
 # This m3u link is only for educational purposes
