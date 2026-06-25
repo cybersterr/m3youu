@@ -6397,36 +6397,25 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 #EXTINF:-1 tvg-id="142978" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Sri Lanka vs West Indies
 https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143426" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143426_6134_HT_GMY_FC-WEB_1782272593052.jpg" group-title="🔸FanCode🔸| Live Events",Hubli Tigers vs Gulbarga Mystics
-https://in-mc-fblive.fancode.com/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143104" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Chambal Ghariyals vs Jabalpur Royal Lions
 https://in-mc-fblive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143554" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",DDH Meerut Spartans vs KA Noida Blaze
 https://in-mc-fblive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143274" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 5
-https://in-mc-fblive.fancode.com/mumbai/143274_english_hls_9ba32c49b517476_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143280" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
-https://in-mc-fblive.fancode.com/mumbai/143280_english_hls_4b57dd43a573509_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143290" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143290_6120_BRA_BAH_fc-web_1782137828207.jpg" group-title="🔸FanCode🔸| Live Events",Brazil vs Bahamas
+https://in-mc-fblive.fancode.com/mumbai/143290_english_hls_d0268ab6e651415_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143574" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
 https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323523413153_ENGvsNZ_3rd_test_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",3rd Test - Day 1 - 25 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782446296~acl=/*~id=59161751516666426755586731965536~hmac=b9beac7d4e2d6efc275cd706f8b6dd2a2e191984c6bc09ea1bf12a40bf37b35a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272176132972_DP_World_Tour_Open_dItalia_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Open d'Italia - Day 1 - 25 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Open_Ita2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782446296~acl=/*~id=59161751516666426755586731965536~hmac=b9beac7d4e2d6efc275cd706f8b6dd2a2e191984c6bc09ea1bf12a40bf37b35a
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
-
 
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 25-06-2026 21:15
+#DATE:- 25-06-2026 23:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1d385031-85ce-461c-9b06-b2be9f45ab91" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lkpawqtduhquf2afkupb" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Bangladesh
+#EXTINF:-1 tvg-id="2064bf5e-d3eb-464b-94d9-70d7e0656ed1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/znrpbjkn4dp9xcdumzsr" tvg-lang="English" group-title="ICC-TV",English | WT20: South Africa v Netherlands
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -6435,8 +6424,8 @@ https://sonydaimenew.akamaized.net/hls/live/20000291/Open_Ita2506/ENG/std_lrh-80
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782420316~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=64ee077621aa5bbec23a08cc3534b5d4fb84602e1eb1a9623fe4bb72882efc31/manifest.mpd?vcfilter=1d385031-85ce-461c-9b06-b2be9f45ab91&
-#EXTINF:-1 tvg-id="412262e5-34c6-4df5-8e6c-a241c7935890" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yzzwnoquxwmmqpvkpwwg" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Bangladesh (HINDI)
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/hdntl=exp=1782434707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d3d922f94e1a9e5d413c5e9a8cdf35e10b105590c8dd8310efca0a81e63d9a0f/manifest.mpd?vcfilter=2064bf5e-d3eb-464b-94d9-70d7e0656ed1&
+#EXTINF:-1 tvg-id="ad598df2-ae6c-4dba-aed0-2c5c3bcb38b6" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/xvy4hqbx18rhyaptkhay" tvg-lang="English" group-title="ICC-TV",English | Brazil v Bahamas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -6445,17 +6434,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1782420311~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=bef50779183fe9e9dfcc26067fa210204ea99e3bee1adfd3f43ed3d668d5e4ab/manifest.mpd?vcfilter=412262e5-34c6-4df5-8e6c-a241c7935890&
-#EXTINF:-1 tvg-id="a856f761-6a4f-43fe-8314-238ad705acec" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cxacyyc9msh0b9ulgyza" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Bangladesh (BENGALI)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1782420307~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=16978fdb48268934afd3648a3ebd694e1482adc8b24c82cba144d895283d9547/manifest.mpd?vcfilter=a856f761-6a4f-43fe-8314-238ad705acec&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782438306~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=93fd68790c2cd1ed2540d5af8b64ab0d44ce6741d163440bc568518b6863433b/manifest.mpd?vcfilter=ad598df2-ae6c-4dba-aed0-2c5c3bcb38b6&
 
 # =========================================
 # This m3u link is only for educational purposes
