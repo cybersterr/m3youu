@@ -6395,36 +6395,73 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143425" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143425_6134_CKM_MW_FC-WEB_1782272593703.jpg" group-title="🔸FanCode🔸| Live Events",Mysore Warriors vs Coastal Kings Mangaluru
-https://in-mc-fblive.fancode.com/mumbai/143425_english_hls_917d421df854148_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143103" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143077_6102_RW_RNG_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Royal Nimar Eagles vs Rewa Jaguars
-https://in-mc-fblive.fancode.com/mumbai/143103_english_hls_55a82b541020876_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143553" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Sonipat Kings vs Jayqo Panthers Faridabad
-https://in-mc-fblive.fancode.com/mumbai/143553_english_hls_50fb9f63d177693_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143548" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143548_6143_SIN_INA_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Singapore vs Indonesia
 https://in-mc-fblive.fancode.com/mumbai/143548_english_hls_8d50e8764540186_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143289" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143289_6120_BER_PAN_fc-web_1782137828894.jpg" group-title="🔸FanCode🔸| Live Events",Bermuda vs Panama
+https://in-mc-fblive.fancode.com/mumbai/143289_english_hls_e71118a81b13949_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143320" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="🔸FanCode🔸| Live Events",Namibia vs Nigeria
 https://in-mc-fblive.fancode.com/mumbai/143320_english_hls_f4d21634f222883_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143426" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143426_6134_HT_GMY_FC-WEB_1782272593052.jpg" group-title="🔸FanCode🔸| Live Events",Hubli Tigers vs Gulbarga Mystics
+https://in-mc-fblive.fancode.com/mumbai/143426_english_hls_e550875d2c76111_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143274" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",Day 5
 https://in-mc-fblive.fancode.com/mumbai/143274_english_hls_9ba32c49b517476_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143280" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
 https://in-mc-fblive.fancode.com/mumbai/143280_english_hls_4b57dd43a573509_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143574" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
+https://in-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323523413153_ENGvsNZ_3rd_test_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",3rd Test - Day 1 - 25 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782429243~acl=/*~id=22446266098053071257589877029149~hmac=b39be432a47f051ad2ed15761f649a14022d8bb76b7c41921993028978fce190
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782437144~acl=/*~id=92872283129673110829329402877884~hmac=c07b7b124cafac4bef93126a9c435889aeb796b7dd1b9b4dee39af1dd991444e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272176132972_DP_World_Tour_Open_dItalia_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Open d'Italia - Day 1 - 25 Jun 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Open_Ita2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782429243~acl=/*~id=22446266098053071257589877029149~hmac=b39be432a47f051ad2ed15761f649a14022d8bb76b7c41921993028978fce190
-
-# ---------------=== 🌐 WORLD | Extra ===-------------------
-
-
+https://sonydaimenew.akamaized.net/hls/live/20000291/Open_Ita2506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782437144~acl=/*~id=92872283129673110829329402877884~hmac=c07b7b124cafac4bef93126a9c435889aeb796b7dd1b9b4dee39af1dd991444e
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 25-06-2026 03:15
+#DATE:- 25-06-2026 18:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="412262e5-34c6-4df5-8e6c-a241c7935890" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yzzwnoquxwmmqpvkpwwg" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Bangladesh (HINDI)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1782420311~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=bef50779183fe9e9dfcc26067fa210204ea99e3bee1adfd3f43ed3d668d5e4ab/manifest.mpd?vcfilter=412262e5-34c6-4df5-8e6c-a241c7935890&
+#EXTINF:-1 tvg-id="a856f761-6a4f-43fe-8314-238ad705acec" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/cxacyyc9msh0b9ulgyza" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Bangladesh (BENGALI)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1782420307~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=16978fdb48268934afd3648a3ebd694e1482adc8b24c82cba144d895283d9547/manifest.mpd?vcfilter=a856f761-6a4f-43fe-8314-238ad705acec&
+#EXTINF:-1 tvg-id="1d385031-85ce-461c-9b06-b2be9f45ab91" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/lkpawqtduhquf2afkupb" tvg-lang="English" group-title="ICC-TV",English | WT20: India v Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-01)/hdntl=exp=1782420316~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=64ee077621aa5bbec23a08cc3534b5d4fb84602e1eb1a9623fe4bb72882efc31/manifest.mpd?vcfilter=1d385031-85ce-461c-9b06-b2be9f45ab91&
+#EXTINF:-1 tvg-id="8120d08d-0f51-4db9-ad1a-059b1c0f0ca6" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/utxhccnwpadfvrvypzb7" tvg-lang="English" group-title="ICC-TV",English | Bermuda v Panama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-05)/hdntl=exp=1782422108~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=86642ade3d0ed79472d14e4cd8389e9e772d9fe7a145513e48afa4263fa5dfba/manifest.mpd?vcfilter=8120d08d-0f51-4db9-ad1a-059b1c0f0ca6&
 
 # =========================================
 # This m3u link is only for educational purposes
