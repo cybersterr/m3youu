@@ -6474,10 +6474,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Us
 
 #EXTINF:-1 tvg-id="143536" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="🔸FanCode🔸| Live Events",KCC vs Mills Cricket Club
 https://in-mc-fblive.fancode.com/mumbai/143536_english_hls_f0d9696b0e37489_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139721" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg" group-title="🔸FanCode🔸| Live Events",Practice Session
-https://in-mc-fblive.fancode.com/mumbai/139721_english_hls_59875eddf696989_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143437" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143437_6134_GMY_MW_FC-WEB_1782272593714.jpg" group-title="🔸FanCode🔸| Live Events",Gulbarga Mystics vs Mysore Warriors
+https://in-mc-fblive.fancode.com/mumbai/143437_english_hls_5dcf59494b39448_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782289920055701_DP_World_Tour_BMW_International_Open_day2_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",BMW International Open - Day 2 - 3 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/DP_World0307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783118609~acl=/*~id=14813203083785014389584664653733~hmac=520277670ad0c5827155aed06794fd53ef96b5087d6e27a34a0244347c1e2248
+
+# ---------------=== 🌐 WORLD | Extra ===-------------------
 
 
 
