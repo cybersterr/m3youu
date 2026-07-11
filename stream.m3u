@@ -6470,10 +6470,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|User-Agent=D
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|User-Agent=Droovy
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="143603" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="🔸FanCode🔸| Live Events",New Zealand vs West Indies
+https://in-mc-fblive.fancode.com/mumbai/143603_english_hls_e17d5121b699620_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 3 - 11 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/DP_World1107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783835758~acl=/*~id=55830786859034451958604313130085~hmac=226dbc75b90fb833bfa24cf5e8187fa206f87d01882e6058d9f2ed2fa6ad9e5b
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
