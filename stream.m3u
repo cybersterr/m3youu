@@ -6480,19 +6480,13 @@ https://in-mc-fblive.fancode.com/mumbai/4246574_english_hls_b7547ab9e227143_1ta-
 https://in-mc-fblive.fancode.com/mumbai/4246575_english_hls_86789841a782595_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143448" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="🔸FanCode🔸| Live Events",Kalyani Bengaluru Blasters vs Shivamogga Yodhas
 https://in-mc-fblive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139959" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Race Day
-https://in-mc-fblive.fancode.com/mumbai/139959_english_hls_ff0bbf362442822_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143694" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png" group-title="🔸FanCode🔸| Live Events",ADAC GT Master Race 2 - Nurburgring
-https://in-mc-fblive.fancode.com/mumbai/143694_english_hls_f954c5865a94665_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630240589637_Eng_W_vs_Ind_W_2026_one_off_test_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 3 - One-Off Test - 12 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/cricodi1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783907324~acl=/*~id=27748143955305696583251411390172~hmac=20368263c8a768a1ec706d0fae8208f6275603d46bfae12b79e7c3d617a6cc45
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688373789820_ArcheryWC26_MADRID_OPEN_stage4_Recurve_mixed_Team_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Recurve Mixed Team And Individual Finals - 12 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/Recurve_1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783907324~acl=/*~id=27748143955305696583251411390172~hmac=20368263c8a768a1ec706d0fae8208f6275603d46bfae12b79e7c3d617a6cc45
+https://sonydaimenew.akamaized.net/hls/live/20000299/cricodi1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783910365~acl=/*~id=77311123765280458109016459657484~hmac=faf6d96f30b3d8e6300a3b38a5b536530da288132227035363fb4ba5c7e75046
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290162466701_DP_World_Tour_GENESIS_SCOTTISH_Open_day4_24jun_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Genesis Scottish Open - Day 4 - 12 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783907324~acl=/*~id=27748143955305696583251411390172~hmac=20368263c8a768a1ec706d0fae8208f6275603d46bfae12b79e7c3d617a6cc45
+https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783910365~acl=/*~id=77311123765280458109016459657484~hmac=faf6d96f30b3d8e6300a3b38a5b536530da288132227035363fb4ba5c7e75046
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
