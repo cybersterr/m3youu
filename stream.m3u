@@ -6470,12 +6470,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4246710" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Galle Gallants vs Jaffna Kings
-https://in-mc-pdlive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246809" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 2
 https://in-mc-pdlive.fancode.com/mumbai/4246809_english_hls_dffb37405023419_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143494" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
-https://in-mc-pdlive.fancode.com/mumbai/143494_english_hls_0906c94c5a90000_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143501" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Day 5 - World Feed
 https://in-mc-pdlive.fancode.com/mumbai/143501_english_hls_4467b76ecf30375_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246624" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 2
@@ -6484,7 +6480,7 @@ https://in-mc-pdlive.fancode.com/mumbai/4246624_english_hls_17521a9f1b72264_1ta-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020681/1784305461475214_VB26_final_The_Blaze_Women_vs_Durham_Women_17jul_landscape.jpg" group-title="🔹️SonyLiv Live🔹️",The Blaze Women vs Durham Women - Final - 17 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784352832~acl=/*~id=23064205270012781053347662305617~hmac=f994495c3180c9f1f054fca72cd2b6780159278f62e77190ee43c5680ee0bf6c
+https://sonydaimenew.akamaized.net/hls/live/20000293/Vitality1707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784356483~acl=/*~id=17285404120992157379261505288911~hmac=6b39a885a07f716ae38d7ef5fdb58c7bc5483bfb5bbe5608473988b1705205a0
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
