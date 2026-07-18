@@ -6468,6 +6468,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1784347804~exp=1784369404~acl=/*~hmac=33461e5d38c519fc666232f5a1869470909e739325bfbf4eba519196e002cbe2","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1784347804~exp=1784369404~acl=/*~hmac=33461e5d38c519fc666232f5a1869470909e739325bfbf4eba519196e002cbe2
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="139731" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="🔸FanCode🔸| Live Events",Sprint Race
+https://in-mc-pdlive.fancode.com/mumbai/139731_english_hls_a8fdedd78d52655_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143495" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Semi-Finals
+https://in-mc-pdlive.fancode.com/mumbai/143495_english_hls_6dc180ef1426625_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246810" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 3
+https://in-mc-pdlive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/index.m3u8
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
