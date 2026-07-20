@@ -6468,13 +6468,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1784526439~exp=1784548039~acl=/*~hmac=d8208e9c299959728ee5d0f68cecf5abfcbdbf2572515f8fe38130c350f756d0","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1784526439~exp=1784548039~acl=/*~hmac=d8208e9c299959728ee5d0f68cecf5abfcbdbf2572515f8fe38130c350f756d0
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="143503" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 1
-https://in-mc-pdlive.fancode.com/mumbai/143503_english_hls_24528696b146922_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143509" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",ATP 250 - Millenium Estoril Open 2026
-https://in-mc-pdlive.fancode.com/mumbai/143509_english_hls_d5e3c8a1c7707_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
@@ -8337,6 +8330,8 @@ https://mactom3u.vodep39240327.workers.dev/475119.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/5520.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="WHATS NEW | WATCH TV......." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76276.png" group-title="URDU | TV",WHATS NEW | WATCH TV.......
 https://mactom3u.vodep39240327.workers.dev/479907.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="channel_1212" tvg-name="24x7 PAKISTAN GOT TALENT" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78499.jpg" group-title="URDU | TV",24x7 PAKISTAN GOT TALENT
+https://mactom3u.vodep39240327.workers.dev/482300.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="arydigital.pk" tvg-name="ARY DIGITAL HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5522.png" group-title="URDU | TV",ARY DIGITAL HD
 https://mactom3u.vodep39240327.workers.dev/5522.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="arydigital.pk" tvg-name="ARY DIGITAL BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5523.png" group-title="URDU | TV",ARY DIGITAL BK
@@ -9984,7 +9979,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
