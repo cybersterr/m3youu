@@ -5,333 +5,6 @@
 # ===== CosmicSports Playlist =====
 # Join Telegram: @FrostDrift7
 
-# ---------------=== OTT | Jio Cinema ===-------------------
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1" tvg-name="TATA IPL 2026" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/8763/1739203338763-a" group-title="🎬OTT | JIO-CINEMA",TATA IPL 2026
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="2" tvg-name="STAR VIJAY SUPER SINGER" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1199/1752742701199-h" group-title="🎬OTT | JIO-CINEMA",STAR VIJAY SUPER SINGER
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="3" tvg-name="STAR VIJAY CLASSIC" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7405/1752743467405-h" group-title="🎬OTT | JIO-CINEMA",STAR VIJAY CLASSIC
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="4" tvg-name="STAR VIJAY MOVIE TIME" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/4044/1752743564044-h" group-title="🎬OTT | JIO-CINEMA",STAR VIJAY MOVIE TIME
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="5" tvg-name="STAR VIJAY KALAKKAL COMEDY" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/8708/1752743198708-h" group-title="🎬OTT | JIO-CINEMA",STAR VIJAY KALAKKAL COMEDY
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="6" tvg-name="STAR VIJAY FUN GAMES" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3380/1752743343380-h" group-title="🎬OTT | JIO-CINEMA",STAR VIJAY FUN GAMES
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="7" tvg-name="TATA IPL TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/123/1774520160123-h" group-title="🎬OTT | JIO-CINEMA",TATA IPL TV
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="8" tvg-name="TATA IPL HEROES" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/6043/1774363496043-h" group-title="🎬OTT | JIO-CINEMA",TATA IPL HEROES
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="9" tvg-name="STAR SPORTS CRICKET CLASSIC" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5745/1750779565745-h" group-title="🎬OTT | JIO-CINEMA",STAR SPORTS CRICKET CLASSIC
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="10" tvg-name="ICC T20 WC TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6853/1774519456853-h" group-title="🎬OTT | JIO-CINEMA",ICC T20 WC TV
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="11" tvg-name="Star Sports HD1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h" group-title="🎬OTT | JIO-CINEMA",Star Sports HD1
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="12" tvg-name="Star Sports HD2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="🎬OTT | JIO-CINEMA",Star Sports HD2
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="13" tvg-name="Star Sports Hindi HD1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h" group-title="🎬OTT | JIO-CINEMA",Star Sports Hindi HD1
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="14" tvg-name="Star Sports Select HD1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7435/567435-h" group-title="🎬OTT | JIO-CINEMA",Star Sports Select HD1
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="15" tvg-name="Star Sports Select HD2" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7437/567437-h" group-title="🎬OTT | JIO-CINEMA",Star Sports Select HD2
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="16" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png" group-title="🎬OTT | JIO-CINEMA",Star Sports 2 Hindi HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="17" tvg-name="Star Sports 2 Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png" group-title="🎬OTT | JIO-CINEMA",Star Sports 2 Hindi
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="18" tvg-name="Star Sports 2 Telugu" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png" group-title="🎬OTT | JIO-CINEMA",Star Sports 2 Telugu
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="19" tvg-name="Star Sports 2 Tamil" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png" group-title="🎬OTT | JIO-CINEMA",Star Sports 2 Tamil
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="20" tvg-name="Colors HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="🎬OTT | JIO-CINEMA",Colors HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="21" tvg-name="Colors Rishtey" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Rishtey
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="22" tvg-name="Colors Bangla HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Bangla HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="23" tvg-name="Colors Kannada HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Kannada HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="24" tvg-name="Colors Marathi HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Marathi HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="25" tvg-name="Colors Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Gujarati
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="26" tvg-name="Colors Tamil HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Tamil HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="27" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Infinity HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="28" tvg-name="Colors Super" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Super
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="29" tvg-name="Colors Cineplex HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Cineplex HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="30" tvg-name="Colors Cineplex Superhits" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Cineplex Superhits
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="31" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="🎬OTT | JIO-CINEMA",Colors Cineplex Bollywood
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="32" tvg-name="Colors Kannada Cinema" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg" group-title="🎬OTT | JIO-CINEMA",Colors Kannada Cinema
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="33" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="🎬OTT | JIO-CINEMA",MTV HD
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="34" tvg-name="Nick" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg" group-title="🎬OTT | JIO-CINEMA",Nick
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="35" tvg-name="Sonic" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg" group-title="🎬OTT | JIO-CINEMA",Sonic
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="36" tvg-name="Nick HD+" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="🎬OTT | JIO-CINEMA",Nick HD+
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="37" tvg-name="Nick Jr" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg" group-title="🎬OTT | JIO-CINEMA",Nick Jr
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="38" tvg-name="CNBC Awaaz" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg" group-title="🎬OTT | JIO-CINEMA",CNBC Awaaz
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="39" tvg-name="CNBC Bazaar" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg" group-title="🎬OTT | JIO-CINEMA",CNBC Bazaar
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="40" tvg-name="CNBC TV18" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg" group-title="🎬OTT | JIO-CINEMA",CNBC TV18
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="41" tvg-name="News18 India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="🎬OTT | JIO-CINEMA",News18 India
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="42" tvg-name="CNN News18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="🎬OTT | JIO-CINEMA",CNN News18
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="43" tvg-name="News18 Tamil Nadu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="🎬OTT | JIO-CINEMA",News18 Tamil Nadu
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="44" tvg-name="News18 Lokmat" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="🎬OTT | JIO-CINEMA",News18 Lokmat
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="45" tvg-name="News18 Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="🎬OTT | JIO-CINEMA",News18 Bangla
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="46" tvg-name="News18 Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="🎬OTT | JIO-CINEMA",News18 Kannada
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="47" tvg-name="News18 Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="🎬OTT | JIO-CINEMA",News18 Gujarati
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="48" tvg-name="News18 Punjab Haryana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="🎬OTT | JIO-CINEMA",News18 Punjab Haryana
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="49" tvg-name="News18 Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="🎬OTT | JIO-CINEMA",News18 Odia
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="50" tvg-name="News18 Assam North East" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="🎬OTT | JIO-CINEMA",News18 Assam North East
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="51" tvg-name="News18 Kerala" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="🎬OTT | JIO-CINEMA",News18 Kerala
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="52" tvg-name="News18 Rajasthan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="🎬OTT | JIO-CINEMA",News18 Rajasthan
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="53" tvg-name="News18 Bihar Jharkhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="🎬OTT | JIO-CINEMA",News18 Bihar Jharkhand
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="54" tvg-name="News18 MP Chhattisgarh" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="🎬OTT | JIO-CINEMA",News18 MP Chhattisgarh
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="55" tvg-name="News18 UP Uttarakhand" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="🎬OTT | JIO-CINEMA",News18 UP Uttarakhand
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="56" tvg-name="News18 JKLH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="🎬OTT | JIO-CINEMA",News18 JKLH
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="57" tvg-name="Star Suvarna" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7429/567429-h" group-title="🎬OTT | JIO-CINEMA",Star Suvarna
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=786fe347f558460398b9e42e1db50000:d630fb6469c3457e9d7c4bb863e1fef1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="58" tvg-name="Asianet Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7424/567424-h" group-title="🎬OTT | JIO-CINEMA",Asianet Plus
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=5f1a41f1f8c04e209dfcdfff2fdc0000:e0a5f3aa6afe414b902d6b729dd9b11b
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="59" tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/5868/595868-h" group-title="🎬OTT | JIO-CINEMA",Star Pravah
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=9d300f38d30d4829b2e525a037560000:706572c4aac0420f90a778e22116b320
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="60" tvg-name="Star Maa Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7421/567421-h" group-title="🎬OTT | JIO-CINEMA",Star Maa Movies
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=18b7ece05d094614a3839978b9330000:267ba7674fbd4076bbf797eaa1dd16d0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="61" tvg-name="Asianet" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7420/567420-h" group-title="🎬OTT | JIO-CINEMA",Asianet
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=1dd2d0a48be14cc3a9666d861dd60000:24e889ab81444af0bceb8f8b9a530b18
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="62" tvg-name="Star Jalsha" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7419/567419-h" group-title="🎬OTT | JIO-CINEMA",Star Jalsha
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=94b8e23444db4af3b81dc2840c930000:d7c43050ca6d4e1ab3a296c91a4bb38e
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="63" tvg-name="Star Maa" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7418/567418-h" group-title="🎬OTT | JIO-CINEMA",Star Maa
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=b13dd22b45644e798457508fcdf70000:2c965c36ef5242f68a878952f993a591
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="64" tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7415/567415-h" group-title="🎬OTT | JIO-CINEMA",StarPlus
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=17a6e6ef02f74d9bbce4640371d40000:7a89315d2ec84875901dce2d3044556c
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="65" tvg-name="Star Vijay" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7409/567409-h" group-title="🎬OTT | JIO-CINEMA",Star Vijay
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=652811d06b3545a3a1f20c1b03700000:d3db194166ee44b3b5c9c719aa9cdd63
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="66" tvg-name="Maa Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7408/567408-h" group-title="🎬OTT | JIO-CINEMA",Maa Gold
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=ab4cba34a7084eddbd6edf6a16460000:fd1cb8f19b2e42838d4ace714427ec76
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="67" tvg-name="Star Utsav" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7407/567407-h" group-title="🎬OTT | JIO-CINEMA",Star Utsav
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=88f55cce9ba94df6b009f2433ef90000:6f33ae9e6fa24f95b82e538563b1cbaf
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="68" tvg-name="Star Bharat" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7406/567406-h" group-title="🎬OTT | JIO-CINEMA",Star Bharat
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=4271050207424ba8b3e65c602d7e0000:8fdd910f634b40fdb5bfde551e08fd6c
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="69" tvg-name="Jalsha Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7404/567404-h" group-title="🎬OTT | JIO-CINEMA",Jalsha Movies
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=a515368ea6bc4d76a1aebc22f4660000:e46451b6cdae433ab6e719f39dcc449e
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="70" tvg-name="Star Gold" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7403/567403-h" group-title="🎬OTT | JIO-CINEMA",Star Gold
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=c3c8fd55071348e9992be759ceab0000:b894ad9ee2ad483fb2a5b71db0434bfc
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="71" tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" group-title="🎬OTT | JIO-CINEMA",Asianet Movies
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=53e552bf422a4feeb017e38ba43e0000:9cf91549836b4ce98e9d8137591dd38e
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-#EXTINF:-1 tvg-id="72" tvg-name="Star Suvarna Plus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7399/567399-h" group-title="🎬OTT | JIO-CINEMA",Star Suvarna Plus
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=ffcedf61e9544d1da7db98277a290000:cea7c92c93f04c6daaf31e2fda5e6809
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8|Cookie=hdntl=exp=1782345793~acl=%2f*~id=a8267dd1293ca00d9fc189e12e3b7196~data=hdntl~hmac=f82523f0b08bcc87bdf50bda1b7342c02c61066f79a57faaceabd4d2108b584e&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-
-
-
 # ---------------=== 🎬 OTT | ZEE5 ===-------------------
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
@@ -6470,24 +6143,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4247425" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="🔸FanCode🔸| Live Events",Sri Lanka Women vs Pakistan Women
-https://in-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246704" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Nepal vs Netherlands
 https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246723" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246723_52991_KRL_CK_FC-WEB_1784539180470.jpg" group-title="🔸FanCode🔸| Live Events",Colombo Kaps vs Kandy Royals
 https://in-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143351" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs India
 https://in-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4247416" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="🔸FanCode🔸| Live Events",Day 1 - World Feed
-https://in-mc-pdlive.fancode.com/mumbai/4247416_english_hls_f32da8592075553_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143506" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
 https://in-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143512" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",ATP 250 - Millenium Estoril Open 2026
 https://in-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4246798" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 1 - Main Feed
+https://in-mc-pdlive.fancode.com/mumbai/4246798_english_hls_6a73b2985b60537_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020819/1784733604444219_CWG_BOWLS_and_PARA_BOWLS_CANvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ryan Bester vs Putul Sonowal - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784855244~acl=/*~id=81489802675983364022193487890289~hmac=cfaf4cd7fb7d784d39b0ee86434ce2d6be4b6326a627a372bf0e8de6b90d58ea
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020819/1784733604444219_CWG_BOWLS_and_PARA_BOWLS_CANvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ryan Bester vs Putul Sonowal - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784855244~acl=/*~id=81489802675983364022193487890289~hmac=cfaf4cd7fb7d784d39b0ee86434ce2d6be4b6326a627a372bf0e8de6b90d58ea
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020819/1784733604444219_CWG_BOWLS_and_PARA_BOWLS_CANvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ryan Bester vs Putul Sonowal - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784855244~acl=/*~id=81489802675983364022193487890289~hmac=cfaf4cd7fb7d784d39b0ee86434ce2d6be4b6326a627a372bf0e8de6b90d58ea
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020819/1784733604444219_CWG_BOWLS_and_PARA_BOWLS_CANvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ryan Bester vs Putul Sonowal - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784855244~acl=/*~id=81489802675983364022193487890289~hmac=cfaf4cd7fb7d784d39b0ee86434ce2d6be4b6326a627a372bf0e8de6b90d58ea
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020819/1784733604444219_CWG_BOWLS_and_PARA_BOWLS_CANvsIND_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ryan Bester vs Putul Sonowal - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784855244~acl=/*~id=81489802675983364022193487890289~hmac=cfaf4cd7fb7d784d39b0ee86434ce2d6be4b6326a627a372bf0e8de6b90d58ea
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UK - Day 1 - 23 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784855244~acl=/*~id=81489802675983364022193487890289~hmac=cfaf4cd7fb7d784d39b0ee86434ce2d6be4b6326a627a372bf0e8de6b90d58ea
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -6909,15 +6591,15 @@ https://mactom3u.vodep39240327.workers.dev/473536.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/4199.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1226" tvg-name="24/7 THE COSBY SHOW" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4214.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 THE COSBY SHOW
 https://mactom3u.vodep39240327.workers.dev/4214.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="24/7 WHO'S THE BOSS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4178.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 WHO'S THE BOSS
+#EXTINF:-1 tvg-id="channel_1263" tvg-name="24/7 WHO'S THE BOSS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4178.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 WHO'S THE BOSS
 https://mactom3u.vodep39240327.workers.dev/4178.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="24/7 BROOKLYN NINE HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4685.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 BROOKLYN NINE HD
 https://mactom3u.vodep39240327.workers.dev/4685.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="24/7 TOP GEAR." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/70059.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 TOP GEAR.
 https://mactom3u.vodep39240327.workers.dev/473400.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="24/7 YELLOWSTONE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/73728.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 YELLOWSTONE
+#EXTINF:-1 tvg-id="channel_1262" tvg-name="24/7 YELLOWSTONE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/73728.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 YELLOWSTONE
 https://mactom3u.vodep39240327.workers.dev/477015.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="24/7 2 BROKE GIRLS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4211.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 2 BROKE GIRLS
+#EXTINF:-1 tvg-id="channel_1259" tvg-name="24/7 2 BROKE GIRLS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4211.jpg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 2 BROKE GIRLS
 https://mactom3u.vodep39240327.workers.dev/4211.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ANCIENT ALIENS." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/70257.jpeg" group-title="ENGLISH | 24X7 CLASSIC SERIES",24/7 ANCIENT ALIENS.
 https://mactom3u.vodep39240327.workers.dev/473598.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -9911,15 +9593,15 @@ https://mactom3u.vodep39240327.workers.dev/480704.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480705.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77067.NAB" tvg-name="EPL | LEEDS UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77067.png" group-title="SPORTS | EPL",EPL | LEEDS UNITED
 https://mactom3u.vodep39240327.workers.dev/480706.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : NOTTINGHAM FOREST VS BLACKBURN ROVERS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : NOTTINGHAM FOREST VS BLACKBURN ROVERS
+#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : FLORA VS THE NEW SAINTS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : FLORA VS THE NEW SAINTS
 https://mactom3u.vodep39240327.workers.dev/473126.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : TOTTENHAM HOTSPUR VS MILTON KEYNES DONS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : TOTTENHAM HOTSPUR VS MILTON KEYNES DONS
+#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : HJK VS COLERAINE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : HJK VS COLERAINE
 https://mactom3u.vodep39240327.workers.dev/473127.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 : CÁDIZ VS LEICESTER CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 : CÁDIZ VS LEICESTER CITY
+#EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473128.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69791.NAB" tvg-name="UEFA 04 : BURTON ALBION VS BIRMINGHAM CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69791.jpg" group-title="SPORTS | UEFA",UEFA 04 : BURTON ALBION VS BIRMINGHAM CITY
+#EXTINF:-1 tvg-id="69791.NAB" tvg-name="UEFA 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69791.jpg" group-title="SPORTS | UEFA",UEFA 04 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473129.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69792.NAB" tvg-name="UEFA 05 : RANGERS VS SAINT-ÉTIENNE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69792.jpg" group-title="SPORTS | UEFA",UEFA 05 : RANGERS VS SAINT-ÉTIENNE
+#EXTINF:-1 tvg-id="69792.NAB" tvg-name="UEFA 05 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69792.jpg" group-title="SPORTS | UEFA",UEFA 05 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473130.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="69793.NAB" tvg-name="UEFA 06 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69793.jpg" group-title="SPORTS | UEFA",UEFA 06 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473131.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -9971,35 +9653,35 @@ https://mactom3u.vodep39240327.workers.dev/8510.m3u8?host=tv.saartv.cc&path=%2Fs
 https://mactom3u.vodep39240327.workers.dev/8511.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="8511.NAB" tvg-name="UEFA 30 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/8511.jpg" group-title="SPORTS | UEFA",UEFA 30 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/8513.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1204.NAB" tvg-name="MLS 01 : FC CINCINNATI VS VANCOUVER WHITECAPS FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1204.jpg" group-title="SPORTS | MLS",MLS 01 : FC CINCINNATI VS VANCOUVER WHITECAPS FC
+#EXTINF:-1 tvg-id="1204.NAB" tvg-name="MLS 01 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1204.jpg" group-title="SPORTS | MLS",MLS 01 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1204.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1205.NAB" tvg-name="MLS 02 : COLUMBUS CREW VS NEW YORK CITY FOOTBALL CLUB" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1205.jpg" group-title="SPORTS | MLS",MLS 02 : COLUMBUS CREW VS NEW YORK CITY FOOTBALL CLUB
+#EXTINF:-1 tvg-id="1205.NAB" tvg-name="MLS 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1205.jpg" group-title="SPORTS | MLS",MLS 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1205.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1206.NAB" tvg-name="MLS 03 : INTER MIAMI CF VS CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1206.jpg" group-title="SPORTS | MLS",MLS 03 : INTER MIAMI CF VS CHICAGO FIRE FC
+#EXTINF:-1 tvg-id="1206.NAB" tvg-name="MLS 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1206.jpg" group-title="SPORTS | MLS",MLS 03 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1206.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1207.NAB" tvg-name="MLS 04 : NEW ENGLAND REVOLUTION VS TORONTO FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1207.jpg" group-title="SPORTS | MLS",MLS 04 : NEW ENGLAND REVOLUTION VS TORONTO FC
+#EXTINF:-1 tvg-id="1207.NAB" tvg-name="MLS 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1207.jpg" group-title="SPORTS | MLS",MLS 04 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1207.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1208.NAB" tvg-name="MLS 05 : PHILADELPHIA UNION VS RED BULL NEW YORK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1208.jpg" group-title="SPORTS | MLS",MLS 05 : PHILADELPHIA UNION VS RED BULL NEW YORK
+#EXTINF:-1 tvg-id="1208.NAB" tvg-name="MLS 05 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1208.jpg" group-title="SPORTS | MLS",MLS 05 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1208.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1209.NAB" tvg-name="MLS 06 : CHARLOTTE FC VS ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1209.jpg" group-title="SPORTS | MLS",MLS 06 : CHARLOTTE FC VS ATLANTA UNITED
+#EXTINF:-1 tvg-id="1209.NAB" tvg-name="MLS 06 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1209.jpg" group-title="SPORTS | MLS",MLS 06 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1209.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1210.NAB" tvg-name="MLS 07 : HOUSTON DYNAMO FC VS D C UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1210.jpg" group-title="SPORTS | MLS",MLS 07 : HOUSTON DYNAMO FC VS D C UNITED
+#EXTINF:-1 tvg-id="1210.NAB" tvg-name="MLS 07 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1210.jpg" group-title="SPORTS | MLS",MLS 07 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1210.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1211.NAB" tvg-name="MLS 08 : SPORTING KANSAS CITY VS MINNESOTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1211.jpg" group-title="SPORTS | MLS",MLS 08 : SPORTING KANSAS CITY VS MINNESOTA UNITED
+#EXTINF:-1 tvg-id="1211.NAB" tvg-name="MLS 08 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1211.jpg" group-title="SPORTS | MLS",MLS 08 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1211.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1212.NAB" tvg-name="MLS 09 : NASHVILLE SC VS CF MONTRÉAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1212.jpg" group-title="SPORTS | MLS",MLS 09 : NASHVILLE SC VS CF MONTRÉAL
+#EXTINF:-1 tvg-id="1212.NAB" tvg-name="MLS 09 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1212.jpg" group-title="SPORTS | MLS",MLS 09 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1212.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1213.NAB" tvg-name="MLS 10 : AUSTIN FC VS SEATTLE SOUNDERS FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1213.jpg" group-title="SPORTS | MLS",MLS 10 : AUSTIN FC VS SEATTLE SOUNDERS FC
+#EXTINF:-1 tvg-id="1213.NAB" tvg-name="MLS 10 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1213.jpg" group-title="SPORTS | MLS",MLS 10 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1213.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1214.NAB" tvg-name="MLS 11 : COLORADO RAPIDS VS SAN DIEGO FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1214.jpg" group-title="SPORTS | MLS",MLS 11 : COLORADO RAPIDS VS SAN DIEGO FC
+#EXTINF:-1 tvg-id="1214.NAB" tvg-name="MLS 11 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1214.jpg" group-title="SPORTS | MLS",MLS 11 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1214.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1215.NAB" tvg-name="MLS 12 : LA GALAXY VS ST LOUIS CITY SC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1215.jpg" group-title="SPORTS | MLS",MLS 12 : LA GALAXY VS ST LOUIS CITY SC
+#EXTINF:-1 tvg-id="1215.NAB" tvg-name="MLS 12 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1215.jpg" group-title="SPORTS | MLS",MLS 12 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1215.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1216.NAB" tvg-name="MLS 13 : LOS ANGELES FOOTBALL CLUB VS REAL SALT LAKE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1216.jpg" group-title="SPORTS | MLS",MLS 13 : LOS ANGELES FOOTBALL CLUB VS REAL SALT LAKE
+#EXTINF:-1 tvg-id="1216.NAB" tvg-name="MLS 13 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1216.jpg" group-title="SPORTS | MLS",MLS 13 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1216.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1217.NAB" tvg-name="MLS 14 : PORTLAND TIMBERS VS FC DALLAS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1217.jpg" group-title="SPORTS | MLS",MLS 14 : PORTLAND TIMBERS VS FC DALLAS
+#EXTINF:-1 tvg-id="1217.NAB" tvg-name="MLS 14 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1217.jpg" group-title="SPORTS | MLS",MLS 14 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1217.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1218.NAB" tvg-name="MLS 15 : SAN JOSE EARTHQUAKES VS ORLANDO CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1218.jpg" group-title="SPORTS | MLS",MLS 15 : SAN JOSE EARTHQUAKES VS ORLANDO CITY
+#EXTINF:-1 tvg-id="1218.NAB" tvg-name="MLS 15 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1218.jpg" group-title="SPORTS | MLS",MLS 15 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1218.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1219.NAB" tvg-name="MLS 16 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1219.jpg" group-title="SPORTS | MLS",MLS 16 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1219.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10780,10 +10462,10 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 23-07-2026 14:45
+#DATE:- 23-07-2026 18:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="faab2d99-5395-4163-8be0-2adbf7ee8c4b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tkcjsoh72pbmafxqf1n5" tvg-lang="English" group-title="ICC-TV",English | Netherlands v Nepal (1st Innings)
+#EXTINF:-1 tvg-id="265853b3-fad9-4c4d-9ed8-eab391be33d1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pc7bzhik4rten3flup8i" tvg-lang="English" group-title="ICC-TV",English | Netherlands v Nepal (2nd Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -10792,7 +10474,7 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 #EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825107~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=66a4b9f9ce1a35597cffe9f96b84ead8099781cfb5ceb514977e8a4878beca2a/manifest.mpd?vcfilter=faab2d99-5395-4163-8be0-2adbf7ee8c4b&
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784839506~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4e9531864bdd026459ebde4cf5e822a4cad032ec76aaeb01b444430c52059ea1/manifest.mpd?vcfilter=265853b3-fad9-4c4d-9ed8-eab391be33d1&
 
 # =========================================
 # This m3u link is only for educational purposes
