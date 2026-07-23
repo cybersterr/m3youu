@@ -6470,14 +6470,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4246704" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246704_52990_NED_NEP_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Nepal vs Netherlands
-https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246716" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246716_52991_GG_JK_FC-WEB_1784539181099.jpg" group-title="🔸FanCode🔸| Live Events",Galle Gallants vs Jaffna Kings
 https://in-mc-pdlive.fancode.com/mumbai/4246716_english_hls_71735fd3b99618_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4247434" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247434_53000_LAH_PER-XI_fc-web.png" group-title="🔸FanCode🔸| Live Events",Lahore Qalandars vs Perth Scorchers XI
 https://in-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143506" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Day 4
-https://in-mc-pdlive.fancode.com/mumbai/143506_english_hls_e9c5d7161439256_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143512" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",ATP 250 - Millenium Estoril Open 2026
 https://in-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246798" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 1 - Main Feed
@@ -6485,20 +6481,8 @@ https://in-mc-pdlive.fancode.com/mumbai/4246798_english_hls_6a73b2985b60537_1ta-
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sam Tolchard vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sam Tolchard vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sam Tolchard vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sam Tolchard vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sam Tolchard vs Rajnesh Prasad - Men's Singles - Bowls and Para Bowls - 23 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UK - Day 1 - 23 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784819465386_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Wales vs Canada - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784863159~acl=/*~id=09918525747460696678736046833488~hmac=d948df7d8e9ba7c8c2e600da93e2879af273a16c47d0e2b0b4d7f2fc433b08c7
+https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784868622~acl=/*~id=94595216439124993257732275516021~hmac=34c93fe5867a5f20472ffc36b1d36128a89a1a9dd29e52b9e356db663194b259
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -7837,7 +7821,7 @@ https://mactom3u.vodep39240327.workers.dev/474894.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_255" tvg-name="HINDI BOX OFFICE COLLECTION (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71489.jpg" group-title="HINDI | 24X7 MOVIES",HINDI BOX OFFICE COLLECTION (4K)
 https://mactom3u.vodep39240327.workers.dev/474815.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_223" tvg-name="FILMFARE WINNING MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71490.jpeg" group-title="HINDI | 24X7 MOVIES",FILMFARE WINNING MOVIES (4K)
-https://mactom3u.vodep39240327.workers.dev/http://23.237.105.114/247_4K_FILMFARE_WINNING_MOVIES/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482253.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_354" tvg-name="HINDI NEW SUPERHITS MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76221.jpg" group-title="HINDI | 24X7 MOVIES",HINDI NEW SUPERHITS MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/479851.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_222" tvg-name="HINDI CLASSIC BLOCKBUSTER (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76224.jpg" group-title="HINDI | 24X7 MOVIES",HINDI CLASSIC BLOCKBUSTER (4K)
@@ -10791,19 +10775,8 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 23-07-2026 18:15
+#DATE:- 23-07-2026 22:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="265853b3-fad9-4c4d-9ed8-eab391be33d1" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/pc7bzhik4rten3flup8i" tvg-lang="English" group-title="ICC-TV",English | Netherlands v Nepal (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784839506~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=4e9531864bdd026459ebde4cf5e822a4cad032ec76aaeb01b444430c52059ea1/manifest.mpd?vcfilter=265853b3-fad9-4c4d-9ed8-eab391be33d1&
 
 # =========================================
 # This m3u link is only for educational purposes
