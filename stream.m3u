@@ -6470,23 +6470,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="143512" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",ATP 250 - Millenium Estoril Open 2026
-https://in-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246798" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 1 - Main Feed
 https://in-mc-pdlive.fancode.com/mumbai/4246798_english_hls_6a73b2985b60537_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Opening Ceremony - 23 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784872870~acl=/*~id=58634309232212406828775217576102~hmac=42474c832e0748d4538a3590326e4dbf6c42c6a54ef59ba42de120b2b7b67339
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784878340~acl=/*~id=50664931543240905340051468082494~hmac=2ecfe5d88426e210a317bb0ec4b4f2e4d23a99c30e095fc15d869c35248a3577
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Opening Ceremony - 23 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784872870~acl=/*~id=58634309232212406828775217576102~hmac=42474c832e0748d4538a3590326e4dbf6c42c6a54ef59ba42de120b2b7b67339
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784878340~acl=/*~id=50664931543240905340051468082494~hmac=2ecfe5d88426e210a317bb0ec4b4f2e4d23a99c30e095fc15d869c35248a3577
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Opening Ceremony - 23 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784872870~acl=/*~id=58634309232212406828775217576102~hmac=42474c832e0748d4538a3590326e4dbf6c42c6a54ef59ba42de120b2b7b67339
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784878340~acl=/*~id=50664931543240905340051468082494~hmac=2ecfe5d88426e210a317bb0ec4b4f2e4d23a99c30e095fc15d869c35248a3577
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Opening Ceremony - 23 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784872870~acl=/*~id=58634309232212406828775217576102~hmac=42474c832e0748d4538a3590326e4dbf6c42c6a54ef59ba42de120b2b7b67339
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784878340~acl=/*~id=50664931543240905340051468082494~hmac=2ecfe5d88426e210a317bb0ec4b4f2e4d23a99c30e095fc15d869c35248a3577
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Opening Ceremony - 23 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784872870~acl=/*~id=58634309232212406828775217576102~hmac=42474c832e0748d4538a3590326e4dbf6c42c6a54ef59ba42de120b2b7b67339
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784878340~acl=/*~id=50664931543240905340051468082494~hmac=2ecfe5d88426e210a317bb0ec4b4f2e4d23a99c30e095fc15d869c35248a3577
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -7825,7 +7823,7 @@ https://mactom3u.vodep39240327.workers.dev/474894.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_255" tvg-name="HINDI BOX OFFICE COLLECTION (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71489.jpg" group-title="HINDI | 24X7 MOVIES",HINDI BOX OFFICE COLLECTION (4K)
 https://mactom3u.vodep39240327.workers.dev/474815.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_223" tvg-name="FILMFARE WINNING MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71490.jpeg" group-title="HINDI | 24X7 MOVIES",FILMFARE WINNING MOVIES (4K)
-https://mactom3u.vodep39240327.workers.dev/482253.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/http://23.237.105.114/247_4K_FILMFARE_WINNING_MOVIES/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_354" tvg-name="HINDI SUPERHIT MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76221.jpg" group-title="HINDI | 24X7 MOVIES",HINDI SUPERHIT MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/479851.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="HINDI 2000 SUPERHIT MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76222.jpg" group-title="HINDI | 24X7 MOVIES",HINDI 2000 SUPERHIT MOVIES (4K)
@@ -9033,7 +9031,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
