@@ -6470,39 +6470,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4247438" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247438_53000_LAH_DV_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Lahore Qalandars vs Desert Vipers
-https://in-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248010" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png" group-title="🔸FanCode🔸| Live Events",Rosenborg BK vs Manchester United
-https://in-mc-pdlive.fancode.com/mumbai/4248010_english_hls_49c4c0e1ba57062_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143513" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",Day 5
 https://in-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4246801" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
 https://in-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143611" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="🔸FanCode🔸| Live Events",Practice Session
-https://in-mc-pdlive.fancode.com/mumbai/143611_english_hls_2477d8504f7640_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248010" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png" group-title="🔸FanCode🔸| Live Events",Rosenborg BK vs Manchester United
+https://in-mc-pdlive.fancode.com/mumbai/4248010_english_hls_49c4c0e1ba57062_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020902/1784891884620374_CWG_BOWLS_INDIA_v_-FALKLAND_ISLANDS_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020902/1784891884620374_CWG_BOWLS_INDIA_v_-FALKLAND_ISLANDS_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020902/1784891884620374_CWG_BOWLS_INDIA_v_-FALKLAND_ISLANDS_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020902/1784891884620374_CWG_BOWLS_INDIA_v_-FALKLAND_ISLANDS_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020902/1784891884620374_CWG_BOWLS_INDIA_v_-FALKLAND_ISLANDS_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",UK - Day 2 - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784911458136_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Sam Tolchard vs Ross Owen - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784912314409_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Fatima Zahra vs Realeboha Segoete - Women's 60kg - Boxing - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784912409258_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784911558819_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784956194~acl=/*~id=18743766363372533373036289256910~hmac=656dd0bd290d6c24be2a4c2a051014e53f7393a894cd7fdc2f47e7a71194e0ac
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020907/1784898837995770_CWG_Auatics_final_ravi_imam_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m Freestyle S13 - Aquatics - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020907/1784898837995770_CWG_Auatics_final_ravi_imam_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m Freestyle S13 - Aquatics - 24 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020907/1784898837995770_CWG_Auatics_final_ravi_imam_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m Freestyle S13 - Aquatics - 24 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020907/1784898837995770_CWG_Auatics_final_ravi_imam_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m Freestyle S13 - Aquatics - 24 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020907/1784898837995770_CWG_Auatics_final_ravi_imam_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m Freestyle S13 - Aquatics - 24 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784885390545453_POWERLIFTING_Kasthuri_Rajamani_live_landsacpe_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784918090968_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m Freestyle S13 - Aquatics - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784918258652_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Abdulramon Abdulwahab vs Nuhu Batte - Men's 65kg - Boxing - 24 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784961675~acl=/*~id=69309318252685333893854061961153~hmac=a17cc0f64c1eb88993dc4528f53e17cb8006b4d0d306a3b60319eeaeab2e5485
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
