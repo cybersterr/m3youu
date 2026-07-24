@@ -6468,15 +6468,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8|Cookie=__hdn
 #EXTHTTP:{"Cookie":"hdnea=st=1784910485~exp=1784932085~acl=/*~hmac=b2030cf4e9361c6dc9508adc9a35c9f19fe268e485d1cbd9590c5c560e29496a","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1784910485~exp=1784932085~acl=/*~hmac=b2030cf4e9361c6dc9508adc9a35c9f19fe268e485d1cbd9590c5c560e29496a
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="143513" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="🔸FanCode🔸| Live Events",Day 5
-https://in-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4246801" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 2 - Main Feed
-https://in-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4246802" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",Day 2 - World Feed
-https://in-mc-pdlive.fancode.com/mumbai/4246802_english_hls_ed162f87aa89844_1ta-di_h264/index.m3u8
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 
@@ -7297,7 +7288,7 @@ https://mactom3u.vodep39240327.workers.dev/477885.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/477886.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="NSYNC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74256.jpeg" group-title="ENGLISH | 24X7 MUSIC",NSYNC
 https://mactom3u.vodep39240327.workers.dev/477884.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="ADELE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74270.jpeg" group-title="ENGLISH | 24X7 MUSIC",ADELE
+#EXTINF:-1 tvg-id="channel_1315" tvg-name="ADELE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74270.jpeg" group-title="ENGLISH | 24X7 MUSIC",ADELE
 https://mactom3u.vodep39240327.workers.dev/477898.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="THE WEEKEND" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74259.jpg" group-title="ENGLISH | 24X7 MUSIC",THE WEEKEND
 https://mactom3u.vodep39240327.workers.dev/477887.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -7711,8 +7702,6 @@ https://mactom3u.vodep39240327.workers.dev/480858.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/481626.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="SOUTH STATION" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78181.png" group-title="HINDI | TV",SOUTH STATION
 https://mactom3u.vodep39240327.workers.dev/481834.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="default" tvg-name="SONY TV INDIA ZBW TEST" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78510.png" group-title="HINDI | TV",SONY TV INDIA ZBW TEST
-https://mactom3u.vodep39240327.workers.dev/482312.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="UTSAV GOLD UK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3171.jpeg" group-title="HINDI | CINEMA",UTSAV GOLD UK
 https://mactom3u.vodep39240327.workers.dev/3171.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="stargold.in" tvg-name="STAR GOLD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3172.png" group-title="HINDI | CINEMA",STAR GOLD
@@ -8063,9 +8052,9 @@ https://mactom3u.vodep39240327.workers.dev/481492.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/481493.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1277" tvg-name="HINDI KIDS MOVIES 2019 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77850.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2019 (4K)
 https://mactom3u.vodep39240327.workers.dev/481494.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="HINDI KIDS MOVIES 8 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77851.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 8 (4K)
+#EXTINF:-1 tvg-id="channel_1299" tvg-name="HINDI KIDS MOVIES 2018 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77851.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2018 (4K)
 https://mactom3u.vodep39240327.workers.dev/481495.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="HINDI KIDS MOVIES 9 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77852.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 9 (4K)
+#EXTINF:-1 tvg-id="channel_1301" tvg-name="HINDI KIDS MOVIES 2017 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77852.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2017 (4K)
 https://mactom3u.vodep39240327.workers.dev/481496.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="HINDI KIDS MOVIES 10 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77853.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 10 (4K)
 https://mactom3u.vodep39240327.workers.dev/481497.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10002,7 +9991,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
@@ -10475,9 +10464,9 @@ https://mactom3u.vodep39240327.workers.dev/http://192.101.68.27/IN_UNITE8_SPORTS
 https://mactom3u.vodep39240327.workers.dev/481266.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="76823.NAB" tvg-name="CRIC 2 - ZIMBABWE VS INDIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 2 - ZIMBABWE VS INDIA
 https://mactom3u.vodep39240327.workers.dev/480460.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="77621.NAB" tvg-name="CRIC 3 - WEST INDIES VS NEW ZEALAND" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 3 - WEST INDIES VS NEW ZEALAND
+#EXTINF:-1 tvg-id="77621.NAB" tvg-name="CRIC 3 - WEST INDIES VS PAKISTAN" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 3 - WEST INDIES VS PAKISTAN
 https://mactom3u.vodep39240327.workers.dev/481265.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="76827.NAB" tvg-name="CRIC 4 - WEST INDIES VS NEW ZEALAND" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 4 - WEST INDIES VS NEW ZEALAND
+#EXTINF:-1 tvg-id="76827.NAB" tvg-name="CRIC 4 - WEST INDIES VS PAKISTAN" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 4 - WEST INDIES VS PAKISTAN
 https://mactom3u.vodep39240327.workers.dev/480464.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD 4K.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68956.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD 4K..
 https://mactom3u.vodep39240327.workers.dev/472293.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
