@@ -6472,27 +6472,31 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4246707" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-Web.png" group-title="🔸FanCode🔸| Live Events",Namibia vs Nepal
 https://livecf.fancode.com/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143633" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="🔸FanCode🔸| Live Events",West Indies vs Pakistan
+https://livecf.fancode.com/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021117/1785096185427155_CWG_26th_July_Boxing_Sachin_vs_William_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 60kg - Boxing - 27 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021117/1785096185427155_CWG_26th_July_Boxing_Sachin_vs_William_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 60kg - Boxing - 27 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021117/1785096185427155_CWG_26th_July_Boxing_Sachin_vs_William_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 60kg - Boxing - 27 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021117/1785096185427155_CWG_26th_July_Boxing_Sachin_vs_William_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 60kg - Boxing - 27 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021117/1785096185427155_CWG_26th_July_Boxing_Sachin_vs_William_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 60kg - Boxing - 27 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021132/1785105598486490_CWG_27th_July_Athletics_Lokesh_Sathyanathan_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's Long Jump - Athletics - 27 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021117/1785096185427155_CWG_26th_July_Boxing_Sachin_vs_William_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 60kg - Boxing - 27 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785151581507_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 100m - Athletics - 27 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785151135594_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Sachin Sachin vs William Hewitt - Men's 60kg - Boxing - 27 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785194953~acl=/*~id=05472193385422760234100943666951~hmac=9560942c12b6b209ab82e4a1681443b441f0d695330878659ea7accf12de5b1f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021101/1785088502273610_CWG_26th_July_Weightlifting_Gyaneshwari_Yadav_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 53kg - Weightlifting - 27 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021101/1785088502273610_CWG_26th_July_Weightlifting_Gyaneshwari_Yadav_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 53kg - Weightlifting - 27 Jul 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2707/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021101/1785088502273610_CWG_26th_July_Weightlifting_Gyaneshwari_Yadav_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 53kg - Weightlifting - 27 Jul 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2707/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021101/1785088502273610_CWG_26th_July_Weightlifting_Gyaneshwari_Yadav_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 53kg - Weightlifting - 27 Jul 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2707/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021101/1785088502273610_CWG_26th_July_Weightlifting_Gyaneshwari_Yadav_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 53kg - Weightlifting - 27 Jul 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2707/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021137/1785107350129629_DC26_Mohammedan_SC_vs_Baghpat_FC_27jul_landscape.jpg" group-title="🔹️SonyLiv Live🔹️",Mohammedan SC vs Baghpat FC - 27 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785159903763_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Australia vs Northern Ireland - Women's Pairs - Bowls and Para Bowls - 27 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785157211440_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",England vs Malawi - Netball - Netball - 27 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785158339212_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Joshua Ofori vs Aminiasi Saratibau - Men's 80kg - Boxing - 27 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785154505255_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Women's 53kg - Weightlifting - 27 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785203490~acl=/*~id=75626000202641256854367675457396~hmac=c8fb4c4e853d34ae33dea7687c9396853c2d4a8362317cbe630ec00f798f4b0c
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9039,7 +9043,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
@@ -9920,9 +9924,9 @@ https://mactom3u.vodep39240327.workers.dev/480704.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480705.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77067.NAB" tvg-name="EPL | LEEDS UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77067.png" group-title="SPORTS | EPL",EPL | LEEDS UNITED
 https://mactom3u.vodep39240327.workers.dev/480706.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : AJAX VS BURNLEY (NO ENGLISH AUDIO)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : AJAX VS BURNLEY (NO ENGLISH AUDIO)
+#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473126.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : RANGERS VS WEST HAM UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : RANGERS VS WEST HAM UNITED
+#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473127.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473128.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10019,7 +10023,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
@@ -10488,9 +10492,9 @@ https://mactom3u.vodep39240327.workers.dev/732.m3u8?host=tv.saartv.cc&path=%2Fst
 https://mactom3u.vodep39240327.workers.dev/482321.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="UNITE8 SPORTS 2" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78520.jpg" group-title="SPORTS | GENERAL",UNITE8 SPORTS 2
 https://mactom3u.vodep39240327.workers.dev/http://192.101.68.27/IN_UNITE8_SPORTS_2/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="77622.NAB" tvg-name="CRIC 1 - ZIMBABWE VS INDIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 1 - ZIMBABWE VS INDIA
+#EXTINF:-1 tvg-id="77622.NAB" tvg-name="CRIC 1 - NEPAL VS NAMIBIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 1 - NEPAL VS NAMIBIA
 https://mactom3u.vodep39240327.workers.dev/481266.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="76823.NAB" tvg-name="CRIC 2 - ZIMBABWE VS INDIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 2 - ZIMBABWE VS INDIA
+#EXTINF:-1 tvg-id="76823.NAB" tvg-name="CRIC 2 - NEPAL VS NAMIBIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 2 - NEPAL VS NAMIBIA
 https://mactom3u.vodep39240327.workers.dev/480460.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77621.NAB" tvg-name="CRIC 3 - WEST INDIES VS PAKISTAN" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 3 - WEST INDIES VS PAKISTAN
 https://mactom3u.vodep39240327.workers.dev/481265.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10789,19 +10793,9 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 27-07-2026 14:45
+#DATE:- 27-07-2026 19:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="59ea540c-1af7-4f0d-8e67-b9d17fbcce8b" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/x7ve9azrzwwo01e8kmzs" tvg-lang="English" group-title="ICC-TV",English | Namibia v Nepal (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785172510~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3fbaf40bb16bb7e35090accb2167ecfb99b55f126e3a8c4e051b186f81df9624/manifest.mpd?vcfilter=59ea540c-1af7-4f0d-8e67-b9d17fbcce8b&
 
 # =========================================
 # This m3u link is only for educational purposes
