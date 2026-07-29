@@ -6475,10 +6475,7 @@ https://livecf.fancode.com/143645_english_hls_60a8617b1f20903_1ta-di_h264/index.
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Aquatics - 29 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785402310~acl=/*~id=49510217811684470634433447313096~hmac=00bb0327e324de27086096ec6c5761b2d4f56e78b489f4d026628f9e0936211a
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Athletics - 29 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785402310~acl=/*~id=49510217811684470634433447313096~hmac=00bb0327e324de27086096ec6c5761b2d4f56e78b489f4d026628f9e0936211a
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9964,7 +9961,7 @@ https://mactom3u.vodep39240327.workers.dev/8510.m3u8?host=tv.saartv.cc&path=%2Fs
 https://mactom3u.vodep39240327.workers.dev/8511.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="8511.NAB" tvg-name="UEFA 30 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/8511.jpg" group-title="SPORTS | UEFA",UEFA 30 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/8513.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1204.NAB" tvg-name="MLS 01 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1204.jpg" group-title="SPORTS | MLS",MLS 01 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="1204.NAB" tvg-name="MLS 01 : MLS ALL-STARS VS LIGA MX ALL-STARS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1204.jpg" group-title="SPORTS | MLS",MLS 01 : MLS ALL-STARS VS LIGA MX ALL-STARS
 https://mactom3u.vodep39240327.workers.dev/1204.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1205.NAB" tvg-name="MLS 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1205.jpg" group-title="SPORTS | MLS",MLS 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1205.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
