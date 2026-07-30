@@ -6470,33 +6470,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4246720" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246720_52991_JK_KRL_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Jaffna Kings vs Kandy Royals
-https://livecf.fancode.com/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4248044" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 1
 https://livecf.fancode.com/4248044_english_hls_579a8a938f65205_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143646" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="🔸FanCode🔸| Live Events",World Feed
 https://livecf.fancode.com/143646_english_hls_e40a35098075978_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248043" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",World Feed - Day 1
+https://livecf.fancode.com/4248043_english_hls_5cbf26f21e19135_1ta-di_h264/index.m3u8
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021438/1785424408454873_CWG_live_combo_version6_shecdule_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 7 - India In Spotlight - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021438/1785424408454873_CWG_live_combo_version6_shecdule_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 7 - India In Spotlight - 30 Jul 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
+https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021438/1785424408454873_CWG_live_combo_version6_shecdule_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 7 - India In Spotlight - 30 Jul 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021438/1785424408454873_CWG_live_combo_version6_shecdule_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 7 - India In Spotlight - 30 Jul 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
+https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021438/1785424408454873_CWG_live_combo_version6_shecdule_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 7 - India In Spotlight - 30 Jul 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785431697124_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Australia vs England - Men's 4000m Team Pursuit - Cycling - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785430059296_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Sophie McGrouther vs Diana Viljoen - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785432690513_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Men's +110kg - Weightlifting - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785423608503_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Netball - 30 Jul 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785476417~acl=/*~id=97082077963200159945219646782769~hmac=66abc737dd7dbff8aba68c94121a46bc42dc04d5b1cae3221bfe905550c19b3c
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021380/1785357847723917_CWG_Weightlifting_LOVEPREET_SINGH_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Men's +110kg - Weightlifting - 30 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785435196438_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Daphne Arthur-Almond vs Kelly McKerihen - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785434066355_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Men's Shot Put - Athletics - 30 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785437096606_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="🔹️SonyLiv Live🔹️",Men's 100m T12 - Athletics - 30 Jul 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785481287~acl=/*~id=40065177333158479716958196362391~hmac=89b4a524c9c6c15d684910178db9be11c1d4e92bfafc546b776a620b8b4b88a8
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -8095,7 +8095,7 @@ https://mactom3u.vodep39240327.workers.dev/481501.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_1390" tvg-name="HINDI KIDS MOVIES 2014 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77858.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2014 (4K)
 https://mactom3u.vodep39240327.workers.dev/481502.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1391" tvg-name="HINDI KIDS MOVIES 2013 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77859.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 2013 (4K)
-https://mactom3u.vodep39240327.workers.dev/481503.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482337.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="HINDI KIDS MOVIES 14 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77860.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 14 (4K)
 https://mactom3u.vodep39240327.workers.dev/481504.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="HINDI KIDS MOVIES 15 (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77861.jpeg" group-title="HINDI | KIDS",HINDI KIDS MOVIES 15 (4K)
@@ -9041,7 +9041,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
