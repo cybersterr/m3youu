@@ -708,8 +708,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd|Cookie
 #EXTINF:-1 tvg-id="164" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="⭕️ JIOTV+ | ENGLISH",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=157cd1bd71a256fe8ab763ba280320e5:6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1786165129~exp=1786168729~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=c4c710b817d22ca7d7288006a97d90dbf1f2f1f25b28dada2d2c656f2a681c4e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786165129~exp=1786168729~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=c4c710b817d22ca7d7288006a97d90dbf1f2f1f25b28dada2d2c656f2a681c4e
+#EXTHTTP:{"Cookie":"hdnea=st=1786183129~exp=1786186729~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=cfac94d8efa24d294c918ed7fdf0d6a884f88f70c5a5d4c5545d5de7b1a59143","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786183129~exp=1786186729~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=cfac94d8efa24d294c918ed7fdf0d6a884f88f70c5a5d4c5545d5de7b1a59143
 #EXTINF:-1 tvg-id="165" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="⭕️ JIOTV+ | MOVIES",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d51baa27315cbfa26df35c3c3e47b6:c3b38db5542719e8e10008e9193089e6
@@ -2928,8 +2928,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd|Coo
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-#EXTHTTP:{"Cookie":"hdnea=st=1786160420~exp=1786182020~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=171fd8eb0a12baf818970881f98732ca462d75d38bb609cf021b8cc9eb80d47e","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786160420~exp=1786182020~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=171fd8eb0a12baf818970881f98732ca462d75d38bb609cf021b8cc9eb80d47e
+#EXTHTTP:{"Cookie":"hdnea=st=1786182040~exp=1786203640~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=f982c23c516510a9a296b7e96c0e5c67ff186b0f13573cfe20555f0cf84a47de","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786182040~exp=1786203640~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=f982c23c516510a9a296b7e96c0e5c67ff186b0f13573cfe20555f0cf84a47de
 #EXTINF:-1 tvg-id="1109" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg" group-title="⭕️ JIOTV+ | SPORTS",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
@@ -6310,17 +6310,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-flive.fancode.com/mumbai/4247977_english_hls_79752a5a0567797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786261700~_GO=Generated~acl=/mumbai/4247977_english_hls_79752a5a0567797_1ta-di_h264/*~Signature=AYCJ36SpXHWEYuRWlhQVE6hNOq59URMZO0FIFq4bU3MhvEyfQm77mOMaoGTBEu9nSYFqylLfmCRxUHAdZYIN4xOJlEcH
 #EXTINF:-1 tvg-id="4248250" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" group-title="🔸FanCode🔸| Live Events",Uganda vs Tanzania
 https://in-mc-flive.fancode.com/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786250774~_GO=Generated~acl=/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/*~Signature=AYCJ36Q0C4-P3tV5FqdO5SsOXJfYEdVR3FTAlrRMPPSI1gMmh2UfnPmZxmayOA06zMvccJRIph85utzDNS3sB_rgDNEG
-#EXTINF:-1 tvg-id="4248226" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg" group-title="🔸FanCode🔸| Live Events",Semifinal 1
-https://in-mc-flive.fancode.com/mumbai/4248226_english_hls_467381dcea15960_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786259874~_GO=Generated~acl=/mumbai/4248226_english_hls_467381dcea15960_1ta-di_h264/*~Signature=AYCJ36Tja1nHbjnMbGp1IDfNM0BeDLjc7z-zUN2HekQ3nv-GzfhpHz-jsDeZvPtOYjPToy63WTueG4ELR3AeAqt96pwL
 #EXTINF:-1 tvg-id="139961" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png" group-title="🔸FanCode🔸| Live Events",Great Britain GP
 https://in-mc-flive.fancode.com/mumbai/139961_english_hls_ccb7fef4ab54419_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786264740~_GO=Generated~acl=/mumbai/139961_english_hls_ccb7fef4ab54419_1ta-di_h264/*~Signature=AYCJ36RBz7siHeJdbq5Cy8FG8Vpgm3Pd3exEGZU4e4ukeP-W-Q4aDa-RqHY74eAXJoWV7f-dq1PwMmO5MetpN6XwUmMK
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61
+https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786228671~acl=/*~id=14036457280064412936311943601438~hmac=d1910f5f544b524fe30cbe7a78043182d2bab45c5ff284d1df4de615480ca066
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786228671~acl=/*~id=14036457280064412936311943601438~hmac=d1910f5f544b524fe30cbe7a78043182d2bab45c5ff284d1df4de615480ca066
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -6328,7 +6326,7 @@ https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-80
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 08-08-2026 15:30
+#DATE:- 08-08-2026 15:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="6f616c92-9bc5-46a0-9ef5-090af5e31125" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/wmkx8hoiq4mkee2ywud0" tvg-lang="English" group-title="ICC-TV",English | Tanzania v Uganda (1st Innings)
