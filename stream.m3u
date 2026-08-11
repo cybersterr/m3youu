@@ -6310,15 +6310,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-flive.fancode.com/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786521024~_GO=Generated~acl=/mumbai/4247982_english_hls_92ed3763ed19822_1ta-di_h264/*~Signature=AVMBkTX4E4K2i8zoFR_CNlgkV1VJVNcPyhLF5yr6NQcDnA45DDcOndsexnscHOAYvk9PtGFKWod_CypviRiEH56Y5iwD
 #EXTINF:-1 tvg-id="4248216" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248216_53013_UAE_CAN_fc-Web.png" group-title="🔸FanCode🔸| Live Events",United Arab Emirates vs Canada
 https://in-mc-flive.fancode.com/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786528316~_GO=Generated~acl=/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/*~Signature=AVMBkTXTPwKlKUYyDpowvUWDh57wIpiPSP-_IUgW-B0_tFOG5MiLoe4CzWPS_lJU2qXTKoLfr9F6iGIoJvTYzl8f5K0N
-#EXTINF:-1 tvg-id="4248254" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" group-title="🔸FanCode🔸| Live Events",Italy vs Uganda
-https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP
 #EXTINF:-1 tvg-id="4248229" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg" group-title="🔸FanCode🔸| Live Events",Final
 https://in-mc-flive.fancode.com/mumbai/4248229_english_hls_610060491126084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786533177~_GO=Generated~acl=/mumbai/4248229_english_hls_610060491126084_1ta-di_h264/*~Signature=AVMBkTVLWXCTu2hH2Gb0c25MHOrDMLUfsVYuqWCyV8n8IcoS9hwINik-mES-qa0hJbQxg7mpGTiwpKzEWHeawL2VI4EO
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708821155385_DC26_North_East_United_FC_vs_FC1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",North East United FC vs FC 1 - 11 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786492035~acl=/*~id=63509487412871499586505328623860~hmac=afc53cfa2f1d7ba44cc9d34e078461b7e0fe221ae4465565acd8ae565546bc90
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -6424,8 +6421,6 @@ https://mactom3u.vodep39240327.workers.dev/474007.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/478032.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 12 NJ" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76987.png" group-title="ENGLISH | NEWS",NEWS 12 NJ
 https://mactom3u.vodep39240327.workers.dev/480626.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="ASIA ONE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77059.jpeg" group-title="ENGLISH | NEWS",ASIA ONE
-https://mactom3u.vodep39240327.workers.dev/480698.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="TD AMERITRADE CHANNEL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77208.jpg" group-title="ENGLISH | NEWS",TD AMERITRADE CHANNEL
 https://mactom3u.vodep39240327.workers.dev/480847.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="US NEWS NATION" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71733.png" group-title="ENGLISH | NEWS",US NEWS NATION
@@ -8436,8 +8431,6 @@ https://mactom3u.vodep39240327.workers.dev/476882.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/476883.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="TABBAR HITS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/73600.png" group-title="PUNJABI | TV",TABBAR HITS
 https://mactom3u.vodep39240327.workers.dev/476887.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="AGN MEDIA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77585.jpg" group-title="PUNJABI | TV",AGN MEDIA
-https://mactom3u.vodep39240327.workers.dev/481229.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="KAFILA TV" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/73601.jpeg" group-title="PUNJABI | TV",KAFILA TV
 https://mactom3u.vodep39240327.workers.dev/476888.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ALPHA ETC PUNJABI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/6306.jpg" group-title="PUNJABI | TV",ALPHA ETC PUNJABI USA
@@ -8843,7 +8836,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
@@ -9392,8 +9385,6 @@ https://mactom3u.vodep39240327.workers.dev/3396.m3u8?host=tv.saartv.cc&path=%2Fs
 https://mactom3u.vodep39240327.workers.dev/3398.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="PUTHUYUGAM TV" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3399.jpeg" group-title="TAMIL | TV",PUTHUYUGAM TV
 https://mactom3u.vodep39240327.workers.dev/3399.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="MALAR TV" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3401.jpeg" group-title="TAMIL | TV",MALAR TV
-https://mactom3u.vodep39240327.workers.dev/3401.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="murasutv.in" tvg-name="MURASU TV HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3427.png" group-title="TAMIL | TV",MURASU TV HD
 https://mactom3u.vodep39240327.workers.dev/3427.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="thanthitv.in" tvg-name="THANTHI TV HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/3451.png" group-title="TAMIL | TV",THANTHI TV HD
@@ -9720,7 +9711,7 @@ https://mactom3u.vodep39240327.workers.dev/480704.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480705.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77067.NAB" tvg-name="EPL | LEEDS UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77067.png" group-title="SPORTS | EPL",EPL | LEEDS UNITED
 https://mactom3u.vodep39240327.workers.dev/480706.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : PLYMOUTH ARGYLE VS EXETER CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : PLYMOUTH ARGYLE VS EXETER CITY
+#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473126.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473127.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -9819,7 +9810,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
@@ -10599,19 +10590,9 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 11-08-2026 16:15
+#DATE:- 11-08-2026 17:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="fa9baf8e-0a32-4a67-b44d-8d1f9cfa6655" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tusq1iomnd3qlaspb68b" tvg-lang="English" group-title="ICC-TV",English | Uganda v Italy (2nd Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786469416~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3534fc68192f652e24ea13db1633a1a54a6408818fda0d1c849c776b6581d261/manifest.mpd?vcfilter=fa9baf8e-0a32-4a67-b44d-8d1f9cfa6655&
 #EXTINF:-1 tvg-id="f87d9422-819c-404d-b05b-86997ba17d3c" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/at67jw1ps4wmls2mvfcu" tvg-lang="English" group-title="ICC-TV",English | Canada v United Arab Emirates (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
