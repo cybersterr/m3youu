@@ -6338,23 +6338,25 @@ https://in-mc-flive.fancode.com/mumbai/4248260_english_hls_72e46570ae1164_1ta-di
 https://in-mc-flive.fancode.com/mumbai/4248368_english_hls_f8b49ef5d138245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786866517~_GO=Generated~acl=/mumbai/4248368_english_hls_f8b49ef5d138245_1ta-di_h264/*~Signature=AVMBkTUG3rZBkH6xh-qDWdjehIPDCPiDtFixQ3NPkn33CWfSmYakEnX_klkL02DCpJYKoAgfmGj9ip1rvtEYoaUYbXsO
 #EXTINF:-1 tvg-id="4248370" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Greece vs Czechia
 https://in-mc-flive.fancode.com/mumbai/4248370_english_hls_e9af9e61b166670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786866519~_GO=Generated~acl=/mumbai/4248370_english_hls_e9af9e61b166670_1ta-di_h264/*~Signature=AVMBkTV9pOCOsazPkFD_67HMc1yrLHwUQLbbSlg2PIbM0Z8QaCSW94kgO7kjgcOFKMFPp36Re2w3Ye2KOiH-3wt0WOoH
+#EXTINF:-1 tvg-id="4248365" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" group-title="🔸FanCode🔸| Live Events",Oman vs Goa
+https://in-mc-flive.fancode.com/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786875638~_GO=Generated~acl=/mumbai/4248365_english_hls_1754f58b7211379_1ta-di_h264/*~Signature=AVMBkTXctTpTG2QUmJUlgcZO-Cwaex5YIbHXcK3SBHcmoZzn2hCzMF6MM8BCmO4xA62q0YGsTTEutIQ0MbUaR-G9XMUN
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704546330524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",R16 - Hankook London E-Prix - Qualifying Race - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786831574~acl=/*~id=04247845728294350797064916156632~hmac=06704e7328619934260b83698b8310140054c4938023900dbdef89adf86dfed1
+https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786833400~acl=/*~id=32962787991065765772596905500121~hmac=188d402e61f1911b09a1eccab6be0992631c05971cc8c99d9fa55b0bb3b7ff4d
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -7687,7 +7689,7 @@ https://mactom3u.vodep39240327.workers.dev/480588.m3u8?host=tv.saartv.cc&path=%2
 #EXTINF:-1 tvg-id="channel_255" tvg-name="HINDI BOX OFFICE COLLECTION (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71489.jpg" group-title="HINDI | 24X7 MOVIES",HINDI BOX OFFICE COLLECTION (4K)
 https://mactom3u.vodep39240327.workers.dev/474815.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_223" tvg-name="FILMFARE WINNING MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71490.jpeg" group-title="HINDI | 24X7 MOVIES",FILMFARE WINNING MOVIES (4K)
-https://mactom3u.vodep39240327.workers.dev/http://23.237.105.114/247_4K_FILMFARE_WINNING_MOVIES/index.m3u8.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/482253.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_354" tvg-name="HINDI SUPERHIT MOVIES (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76221.jpg" group-title="HINDI | 24X7 MOVIES",HINDI SUPERHIT MOVIES (4K)
 https://mactom3u.vodep39240327.workers.dev/479851.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_222" tvg-name="HINDI CLASSIC BLOCKBUSTER (4K)" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/76224.jpg" group-title="HINDI | 24X7 MOVIES",HINDI CLASSIC BLOCKBUSTER (4K)
@@ -9748,37 +9750,37 @@ https://mactom3u.vodep39240327.workers.dev/480704.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480705.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77067.NAB" tvg-name="EPL | LEEDS UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77067.png" group-title="SPORTS | EPL",EPL | LEEDS UNITED
 https://mactom3u.vodep39240327.workers.dev/480706.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : MIDTJYLLAND VS BOHEMIANS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : MIDTJYLLAND VS BOHEMIANS
+#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : NORWICH CITY U18 VS TOTTENHAM HOTSPUR U18" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : NORWICH CITY U18 VS TOTTENHAM HOTSPUR U18
 https://mactom3u.vodep39240327.workers.dev/473126.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : ŠKENDIJA 79 VS HIBERNIAN" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : ŠKENDIJA 79 VS HIBERNIAN
+#EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 : FREIBURG VS CRYSTAL PALACE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 : FREIBURG VS CRYSTAL PALACE
 https://mactom3u.vodep39240327.workers.dev/473127.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 : MOTHERWELL VS HJK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 : MOTHERWELL VS HJK
+#EXTINF:-1 tvg-id="69790.NAB" tvg-name="UEFA 03 : CHELSEA VS REAL SOCIEDAD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69790.jpg" group-title="SPORTS | UEFA",UEFA 03 : CHELSEA VS REAL SOCIEDAD
 https://mactom3u.vodep39240327.workers.dev/473128.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69791.NAB" tvg-name="UEFA 04 : SHELBOURNE VS AJAX" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69791.jpg" group-title="SPORTS | UEFA",UEFA 04 : SHELBOURNE VS AJAX
+#EXTINF:-1 tvg-id="69791.NAB" tvg-name="UEFA 04 : LEEDS UNITED VS AUGSBURG" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69791.jpg" group-title="SPORTS | UEFA",UEFA 04 : LEEDS UNITED VS AUGSBURG
 https://mactom3u.vodep39240327.workers.dev/473129.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69792.NAB" tvg-name="UEFA 05 : RANGERS VS JAGIELLONIA BIALYSTOK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69792.jpg" group-title="SPORTS | UEFA",UEFA 05 : RANGERS VS JAGIELLONIA BIALYSTOK
+#EXTINF:-1 tvg-id="69792.NAB" tvg-name="UEFA 05 : BORUSSIA M'GLADBACH VS ASTON VILLA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69792.jpg" group-title="SPORTS | UEFA",UEFA 05 : BORUSSIA M'GLADBACH VS ASTON VILLA
 https://mactom3u.vodep39240327.workers.dev/473130.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69793.NAB" tvg-name="UEFA 06 : HEARTS VS BENFICA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69793.jpg" group-title="SPORTS | UEFA",UEFA 06 : HEARTS VS BENFICA
+#EXTINF:-1 tvg-id="69793.NAB" tvg-name="UEFA 06 : MAINZ 05 VS AFC BOURNEMOUTH" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69793.jpg" group-title="SPORTS | UEFA",UEFA 06 : MAINZ 05 VS AFC BOURNEMOUTH
 https://mactom3u.vodep39240327.workers.dev/473131.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69794.NAB" tvg-name="UEFA 07 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69794.jpg" group-title="SPORTS | UEFA",UEFA 07 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69794.NAB" tvg-name="UEFA 07 : UNION BERLIN VS IPSWICH TOWN" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69794.jpg" group-title="SPORTS | UEFA",UEFA 07 : UNION BERLIN VS IPSWICH TOWN
 https://mactom3u.vodep39240327.workers.dev/473132.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69795.NAB" tvg-name="UEFA 08 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69795.jpg" group-title="SPORTS | UEFA",UEFA 08 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69795.NAB" tvg-name="UEFA 08 : BRENTFORD VS EINTRACHT FRANKFURT" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69795.jpg" group-title="SPORTS | UEFA",UEFA 08 : BRENTFORD VS EINTRACHT FRANKFURT
 https://mactom3u.vodep39240327.workers.dev/473133.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69796.NAB" tvg-name="UEFA 09 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69796.jpg" group-title="SPORTS | UEFA",UEFA 09 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69796.NAB" tvg-name="UEFA 09 : SUNDERLAND VS RENNES" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69796.jpg" group-title="SPORTS | UEFA",UEFA 09 : SUNDERLAND VS RENNES
 https://mactom3u.vodep39240327.workers.dev/473134.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69797.NAB" tvg-name="UEFA 10 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69797.jpg" group-title="SPORTS | UEFA",UEFA 10 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="69797.NAB" tvg-name="UEFA 10 : BRIGHTON & HOVE ALBION VS BOLOGNA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69797.jpg" group-title="SPORTS | UEFA",UEFA 10 : BRIGHTON & HOVE ALBION VS BOLOGNA
 https://mactom3u.vodep39240327.workers.dev/473135.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="6030.NAB" tvg-name="UEFA 11 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/6030.jpg" group-title="SPORTS | UEFA",UEFA 11 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="6030.NAB" tvg-name="UEFA 11 : EVERTON VS LIL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/6030.jpg" group-title="SPORTS | UEFA",UEFA 11 : EVERTON VS LIL
 https://mactom3u.vodep39240327.workers.dev/6030.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="4315.NAB" tvg-name="UEFA 12 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4315.jpg" group-title="SPORTS | UEFA",UEFA 12 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="4315.NAB" tvg-name="UEFA 12 : NEWCASTLE UNITED VS BAYER LEVERKUSEN" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4315.jpg" group-title="SPORTS | UEFA",UEFA 12 : NEWCASTLE UNITED VS BAYER LEVERKUSEN
 https://mactom3u.vodep39240327.workers.dev/4315.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="4375.NAB" tvg-name="UEFA 13 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4375.jpg" group-title="SPORTS | UEFA",UEFA 13 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="4375.NAB" tvg-name="UEFA 13 : TOTTENHAM HOTSPUR VS HOFFENHEIM" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4375.jpg" group-title="SPORTS | UEFA",UEFA 13 : TOTTENHAM HOTSPUR VS HOFFENHEIM
 https://mactom3u.vodep39240327.workers.dev/4375.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="4376.NAB" tvg-name="UEFA 14 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4376.jpg" group-title="SPORTS | UEFA",UEFA 14 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="4376.NAB" tvg-name="UEFA 14 : HULL CITY VS NICE" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4376.jpg" group-title="SPORTS | UEFA",UEFA 14 : HULL CITY VS NICE
 https://mactom3u.vodep39240327.workers.dev/4376.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="4377.NAB" tvg-name="UEFA 15 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4377.jpg" group-title="SPORTS | UEFA",UEFA 15 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="4377.NAB" tvg-name="UEFA 15 : MANCHESTER UNITED VS MILAN" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/4377.jpg" group-title="SPORTS | UEFA",UEFA 15 : MANCHESTER UNITED VS MILAN
 https://mactom3u.vodep39240327.workers.dev/4377.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="8397.NAB" tvg-name="UEFA 16 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/8397.jpg" group-title="SPORTS | UEFA",UEFA 16 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="8397.NAB" tvg-name="UEFA 16 : FULHAM VS STUTTGART" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/8397.jpg" group-title="SPORTS | UEFA",UEFA 16 : FULHAM VS STUTTGART
 https://mactom3u.vodep39240327.workers.dev/8399.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="8398.NAB" tvg-name="UEFA 17 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/8398.jpg" group-title="SPORTS | UEFA",UEFA 17 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/8400.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10627,19 +10629,9 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 15-08-2026 13:15
+#DATE:- 15-08-2026 16:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="5dfc1c17-751e-45f2-83a4-0f9742ed52f0" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/unqqk3utxzhvhkxohkec" tvg-lang="English" group-title="ICC-TV",English | Tanzania v Bahrain (1st Innings)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786801512~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=cf675404687b0aafd7ecea7cf558ee485d04f799b03b4dcdd34af6ac5e56731d/manifest.mpd?vcfilter=5dfc1c17-751e-45f2-83a4-0f9742ed52f0&
 #EXTINF:-1 tvg-id="9f344392-a4ba-46f3-8690-c90b999b16c2" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/dtkzwlsgxvimwhgbsryx" tvg-lang="English" group-title="ICC-TV",English | Singapore v Uganda (1st Innings)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10670,6 +10662,16 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-origin=https://www.icc-cricket.com
 #EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1786808710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=2aff48f15d1e2cfbfa9d437eb7e666f12b86f4bd26ab38d89c27ac123d5d2e25/manifest.mpd?vcfilter=2b1d0588-2139-425b-bf16-70eab24e51f7&
+#EXTINF:-1 tvg-id="3af46b97-d3c4-479e-9412-a660c3f5abe9" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/ue4q8crzibqdpyrjcyfn" tvg-lang="English" group-title="ICC-TV",English | Tanzania v Bahrain (2nd Innings)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1786817707~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=09f446d579ae94581d85831d78ac06a1281f1335300d53b0f601dbc8ce02d281/manifest.mpd?vcfilter=3af46b97-d3c4-479e-9412-a660c3f5abe9&
 
 # =========================================
 # This m3u link is only for educational purposes
