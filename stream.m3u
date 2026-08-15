@@ -6334,21 +6334,10 @@ https://in-mc-flive.fancode.com/mumbai/4248260_english_hls_72e46570ae1164_1ta-di
 https://in-mc-flive.fancode.com/mumbai/4248368_english_hls_f8b49ef5d138245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786866517~_GO=Generated~acl=/mumbai/4248368_english_hls_f8b49ef5d138245_1ta-di_h264/*~Signature=AVMBkTUG3rZBkH6xh-qDWdjehIPDCPiDtFixQ3NPkn33CWfSmYakEnX_klkL02DCpJYKoAgfmGj9ip1rvtEYoaUYbXsO
 #EXTINF:-1 tvg-id="4248370" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Greece vs Czechia
 https://in-mc-flive.fancode.com/mumbai/4248370_english_hls_e9af9e61b166670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786866519~_GO=Generated~acl=/mumbai/4248370_english_hls_e9af9e61b166670_1ta-di_h264/*~Signature=AVMBkTV9pOCOsazPkFD_67HMc1yrLHwUQLbbSlg2PIbM0Z8QaCSW94kgO7kjgcOFKMFPp36Re2w3Ye2KOiH-3wt0WOoH
-#EXTINF:-1 tvg-id="143814" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png" group-title="🔸FanCode🔸| Live Events",Qualifying 1
-https://in-mc-flive.fancode.com/mumbai/143814_english_hls_637a538c8752006_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786866520~_GO=Generated~acl=/mumbai/143814_english_hls_637a538c8752006_1ta-di_h264/*~Signature=AVMBkTWs5xZFpmgi6zjNoFq0IpCXgHz9tWy_RyIgitIrMtIkUtFS-H6JwgwtxRxZVNQ2Q9rjepVZa_E5d3K-TJ2TajMM
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786826102~acl=/*~id=45766775507420053995884909887260~hmac=d988aad0449e15f0f3cb1c322a832f78e30177300d86086785b208bc905d3fe8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786826102~acl=/*~id=45766775507420053995884909887260~hmac=d988aad0449e15f0f3cb1c322a832f78e30177300d86086785b208bc905d3fe8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786826102~acl=/*~id=45766775507420053995884909887260~hmac=d988aad0449e15f0f3cb1c322a832f78e30177300d86086785b208bc905d3fe8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786826102~acl=/*~id=45766775507420053995884909887260~hmac=d988aad0449e15f0f3cb1c322a832f78e30177300d86086785b208bc905d3fe8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 1st Test - 15 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786826102~acl=/*~id=45766775507420053995884909887260~hmac=d988aad0449e15f0f3cb1c322a832f78e30177300d86086785b208bc905d3fe8
+
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -8867,7 +8856,7 @@ https://mactom3u.vodep39240327.workers.dev/5996.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH BK" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5997.png" group-title="MARATHI | TV",STAR PRAVAH BK
 https://mactom3u.vodep39240327.workers.dev/5997.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="starpravah.in" tvg-name="STAR PRAVAH US" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/74303.png" group-title="MARATHI | TV",STAR PRAVAH US
-https://mactom3u.vodep39240327.workers.dev/481931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/477931.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="ZEE MARATHI USA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5998.jpg" group-title="MARATHI | TV",ZEE MARATHI USA
 https://mactom3u.vodep39240327.workers.dev/5998.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="ZEE MARATHI HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5999.jpg" group-title="MARATHI | TV",ZEE MARATHI HD
