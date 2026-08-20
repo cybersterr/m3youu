@@ -6328,13 +6328,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 
 #EXTINF:-1 tvg-id="4248331" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248331_53029_GOR_NOI_FC-Web_1786702851279.png" group-title="🔸FanCode🔸| Live Events",Gaur Gorakhpur Lions vs Noida Kings
 https://in-mc-flive.fancode.com/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787303471~_GO=Generated~acl=/mumbai/4248331_hindi_hls_28c466b13794280_1ta-di_h264/*~Signature=ARceAWMP33Xkjw1UO4ddNFmdIzjqEMGD82pAAYypU4-Bq1_54hONs26ZNDD0IBu9dX6NLUPw1-h17n2qoP-S8RFrmJoF
+#EXTINF:-1 tvg-id="4248373" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248373_53031_FIN_IOM_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Finland vs Isle of Man
+https://in-mc-flive.fancode.com/mumbai/4248373_english_hls_440981428b71144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787316228~_GO=Generated~acl=/mumbai/4248373_english_hls_440981428b71144_1ta-di_h264/*~Signature=ARceAWPjgLZ94H5qPTSDQU7cgYG4ZY1JbS3K9du33z41HjPXklMrWUGHOk0oFua6ENRmiOq2jb_QXXGWgik_EIw0BCMG
+#EXTINF:-1 tvg-id="4248388" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248388_53031_GRE_ISR_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Greece vs Israel
+https://in-mc-flive.fancode.com/mumbai/4248388_english_hls_216ff220e879037_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787316839~_GO=Generated~acl=/mumbai/4248388_english_hls_216ff220e879037_1ta-di_h264/*~Signature=ARceAWNu4WQ6cm-AYx0eOecn4xr_HOT9RlD2GzBuyCUkpLWpMcy8gXhvRJe_b_6wtrpS8hgiGJ4IkAie3ukfFvYzfvAG
+#EXTINF:-1 tvg-id="4247559" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247559_53003_SDS-W_CDQ_FC-Web_1787120909809.png" group-title="🔸FanCode🔸| Live Events",South Delhi Superstarz Women vs Central Delhi Queens
+https://in-mc-flive.fancode.com/mumbai/4247559_english_hls_b53a50e47760943_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787315618~_GO=Generated~acl=/mumbai/4247559_english_hls_b53a50e47760943_1ta-di_h264/*~Signature=ARceAWNRJ0SR4V11tgGYdbHDIEQpqL_D8A8o4jQe0egNPE5o1tnNYVzl75PoqM6iXE9DL6YElcANcVCmLqUnETGqUQoP
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 2 - 1st Test - 20 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787270128~acl=/*~id=48583043537241872696797633215082~hmac=82ee4f87604a383b2c68eff6ce2749d6685256f4b7d66325542503a31a3bb556
+https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 1 - 20 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchea26/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787270128~acl=/*~id=48583043537241872696797633215082~hmac=82ee4f87604a383b2c68eff6ce2749d6685256f4b7d66325542503a31a3bb556
+https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9827,7 +9833,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
@@ -10601,8 +10607,39 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 20-08-2026 17:30
+#DATE:- 20-08-2026 18:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="18ff2dcc-f102-479e-a6ee-1fd36546a0aa" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/rp7zhcrgewoyi4ilsc7d" tvg-lang="English" group-title="ICC-TV",English | Isle of Man v Finland (FINNISH)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1787258710~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=e1defaafdc8c710f2d01cf9d7e336233d3fc44b280e0efcbc589237dabefdb74/manifest.mpd?vcfilter=18ff2dcc-f102-479e-a6ee-1fd36546a0aa&
+#EXTINF:-1 tvg-id="5594d945-eb3b-4bb9-a9d8-81cf2c15998d" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tuvlckibvbijkruc0j76" tvg-lang="English" group-title="ICC-TV",English | Israel v Greece
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787258714~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=3c6644d8700a190a0096a42f6abf1e2968d7d90c3fd8294725f964a94b8bed42/manifest.mpd?vcfilter=5594d945-eb3b-4bb9-a9d8-81cf2c15998d&
+#EXTINF:-1 tvg-id="1bdb092a-6f8d-4895-8891-181636118073" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/u2qqcxvcid1r8fti5yrs" tvg-lang="English" group-title="ICC-TV",English | Isle of Man v Finland
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1787258718~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=1f1730dae9b28824ab16bbd287d6ea4824b6abeab0f4c6d61fbcae1584b3728c/manifest.mpd?vcfilter=1bdb092a-6f8d-4895-8891-181636118073&
 
 # =========================================
 # This m3u link is only for educational purposes
