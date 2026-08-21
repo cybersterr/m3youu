@@ -6330,10 +6330,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd|Co
 https://in-mc-flive.fancode.com/mumbai/4247999_english_hls_846d38c5d446687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787404343~_GO=Generated~acl=/mumbai/4247999_english_hls_846d38c5d446687_1ta-di_h264/*~Signature=ARceAWNcrm3uc7mDZqZEA3sXFq_ax2Mt4gxmwIclnfJDbiL06sUU4ADzge418q4rd3QXRXGJyrs3xrYpNfRPh7qDnmcF
 #EXTINF:-1 tvg-id="4248328" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248328_53029_LCK_KAN_FC-Web_1786702851503.png" group-title="🔸FanCode🔸| Live Events",Lucknow Falcons vs Kanpur Superstars
 https://in-mc-flive.fancode.com/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787406166~_GO=Generated~acl=/mumbai/4248328_hindi_hls_733621cced61563_1ta-di_h264/*~Signature=ARceAWPnycs9Gitu9o28V3AHunERTX7qyMcdkr3r5k76e4vG0DjG5TG7cYbmE12FTwh-QR7DLCTbS8-hCUlQpb-t2PEJ
-#EXTINF:-1 tvg-id="4248389" tvg-logo="https://images.fancode.com/aig/match/v1787292196231/4248389_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Israel vs Isle of Man
-https://in-mc-flive.fancode.com/mumbai/4248389_english_hls_ca0bae206283816_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787403126~_GO=Generated~acl=/mumbai/4248389_english_hls_ca0bae206283816_1ta-di_h264/*~Signature=ARceAWM5my1PCUtmaHXZ9zOWlieUCqeQCBGROBbDVBsJALZTWc7r0wgydB5VpTCvq0aFmTlBrgOmGKuL8-nPad-0VKIH
 #EXTINF:-1 tvg-id="4248390" tvg-logo="https://images.fancode.com/aig/match/v1787292215433/4248390_CASACARDS_APP.png" group-title="🔸FanCode🔸| Live Events",Portugal vs Spain
 https://in-mc-flive.fancode.com/mumbai/4248390_english_hls_c1ac94a2cf64100_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787403127~_GO=Generated~acl=/mumbai/4248390_english_hls_c1ac94a2cf64100_1ta-di_h264/*~Signature=ARceAWMTHcQeUrqVoDwrFPuvi4Uxx34e6mkp1lRbidUks0SiBRJoD2RqtFU15BTAWikR65BvgZzGiiZZtjvfK9r0vlgH
+#EXTINF:-1 tvg-id="4248271" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248271_53025_ALR_ANF_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Riyadh SC vs Al-Nassr FC
+https://in-mc-flive.fancode.com/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787414137~_GO=Generated~acl=/mumbai/4248271_english_hls_bcdefe023c50356_1ta-di_h264/*~Signature=ARceAWPlQHzDMiGy2JAh45KEgqVUCRnw6EXRzrutQ6tSA1mlX1TPi2ti8Ska0PLNMAI5Y_y18hbKB7FrzUoVFRqYlw8O
 #EXTINF:-1 tvg-id="4248415" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 2
 https://in-mc-flive.fancode.com/mumbai/4248415_english_hls_8a74f317c698406_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787407406~_GO=Generated~acl=/mumbai/4248415_english_hls_8a74f317c698406_1ta-di_h264/*~Signature=ARceAWMrPdq1GrwA5pJ1URsYvLNC6K5EYaUpZQVWfrd4sd5Sl65u7RChM2vF1pSt66P88Tiyev6ar1ELe1v6FGmalYEA
 #EXTINF:-1 tvg-id="4248138" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",Tony Trabert Stadium 3
@@ -6346,7 +6346,9 @@ https://in-mc-flive.fancode.com/mumbai/143614_english_hls_8ae29f4c689079_1ta-di_
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 2 - 21 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787369830~acl=/*~id=89387527741822282030951524771350~hmac=ea0236b72c6a59e9d11a76e77d0182353de0b555ead1907061c8866ae37890c9
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787371656~acl=/*~id=73055135514805450921522303969958~hmac=ec4c5a7d635c5a528326821f16b93049ca41217516b63a7c08f62d366d886fc2
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702513096697_LIV_Golf_Indianapolis_day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 2 - 21 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787371656~acl=/*~id=73055135514805450921522303969958~hmac=ec4c5a7d635c5a528326821f16b93049ca41217516b63a7c08f62d366d886fc2
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -9839,7 +9841,7 @@ https://mactom3u.vodep39240327.workers.dev/1221.m3u8?host=tv.saartv.cc&path=%2Fs
 #EXTINF:-1 tvg-id="71643.NAB" tvg-name="MLS | ATLANTA UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71643.jpg" group-title="SPORTS | MLS",MLS | ATLANTA UNITED
 https://mactom3u.vodep39240327.workers.dev/474969.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71644.NAB" tvg-name="MLS | CF MONTREAL" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71644.png" group-title="SPORTS | MLS",MLS | CF MONTREAL
-https://mactom3u.vodep39240327.workers.dev/482299.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+https://mactom3u.vodep39240327.workers.dev/474970.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71645.NAB" tvg-name="MLS | CHARLOTTE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71645.png" group-title="SPORTS | MLS",MLS | CHARLOTTE FC
 https://mactom3u.vodep39240327.workers.dev/474971.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="71646.NAB" tvg-name="MLS | CHICAGO FIRE FC" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/71646.png" group-title="SPORTS | MLS",MLS | CHICAGO FIRE FC
@@ -10599,19 +10601,9 @@ https://mactom3u.vodep39240327.workers.dev/477971.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 21-08-2026 18:15
+#DATE:- 21-08-2026 21:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="e0b3a7ce-2b32-4c84-ae96-3e985489e761" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/qlnv5679uv9kxav7ybvx" tvg-lang="English" group-title="ICC-TV",English | Isle of Man v Israel (5th PO)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1787345109~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=d0bdee3e3d0addc878809f15c3fc78885271453375f16cd1294d9238bd1160c3/manifest.mpd?vcfilter=e0b3a7ce-2b32-4c84-ae96-3e985489e761&
 #EXTINF:-1 tvg-id="3e44b9b2-ce22-46bf-ae51-72f26fd6a8a3" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/scoimlxcky51bnzxysu2" tvg-lang="English" group-title="ICC-TV",English | Spain v Portugal (Final)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
