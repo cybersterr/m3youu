@@ -6542,6 +6542,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 https://in-mc-flive.fancode.com/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787504696~_GO=Generated~acl=/mumbai/4247585_english_hls_6df95d741915198_1ta-di_h264/*~Signature=ARceAWOvSPOjNpL33NEdJqUrSMDgEZLJdNGiCQQ0CdoXlM7czyk1llVuJoRXB4oaxZYoc8nO1MBcjnPBH1hfeHOEXZUD
 #EXTINF:-1 tvg-id="4248274" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248274_53025_AAS_ABC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Ahli Saudi FC vs Abha
 https://in-mc-flive.fancode.com/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787507128~_GO=Generated~acl=/mumbai/4248274_english_hls_1cbe971f6366477_1ta-di_h264/*~Signature=ARceAWPrYjIoHzjLHzHgu--kVaXTbqIlj38Ex65AHYt7TDnzNj1P2WnPUf6WRfehu0j3jsJi_EKE-TOyEiB0NDbVtJsB
+#EXTINF:-1 tvg-id="4247582" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247582_53004_ESL_RM_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RCD Espanyol vs Real Madrid
+https://in-mc-flive.fancode.com/mumbai/4247582_english_hls_dec52a349126457_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787511986~_GO=Generated~acl=/mumbai/4247582_english_hls_dec52a349126457_1ta-di_h264/*~Signature=ARceAWP4vRbI_VdZuRl7nulQO3JXY4KoA_bN75fqzVA4ElO9On4aB9g03eseU5RL9UIvz4q2EFw-7Rq0DEPthOM6BPwJ
 #EXTINF:-1 tvg-id="4248416" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 3
 https://in-mc-flive.fancode.com/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787489455~_GO=Generated~acl=/mumbai/4248416_english_hls_13176bef4a37012_1ta-di_h264/*~Signature=ARceAWNE1GWLXGlBbEcuQkZ5Kaa6bsf1MJ768lPZ5fI9mSMMSR8i5sSqGX7la2Q7FUsXtskZBBIQ0VDYSm13yEHFx3YM
 #EXTINF:-1 tvg-id="4248144" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="🔸FanCode🔸| Live Events",Grandstand
@@ -6555,7 +6557,8 @@ https://in-mc-flive.fancode.com/mumbai/4248142_english_hls_a78338804065258_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702505513697_LIV_Golf_Indianapolis_day3_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 3 - 22 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787468793~acl=/*~id=46780662799601754912319168538766~hmac=73dbaa49d4dee98db2b82f310d412e5125dba1e185e3c4289df1b0941267c2d9
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
