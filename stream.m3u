@@ -6538,8 +6538,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248002_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="🔸FanCode🔸| Live Events",North Delhi Strikers vs Outer Delhi Warriors [English]
-https://in-mc-flive.fancode.com/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585780~_GO=Generated~acl=/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/*~Signature=ARceAWMn4zYIpHiU1-rLG7DYR-pBcFr3c3jVL2w9JNdEs2k5hxgYZOoiYoQ36yJyuI3CY1leJhseXVcBw3eBE-5BNY4M
 #EXTINF:-1 tvg-id="4248348_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="🔸FanCode🔸| Live Events",Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]
 https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585781~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPGoEsndCA7On23hRRC9HUkpjWllvEvgq60C2WhKcr1FNyQJjgPHfO02-V-C_bZZDkLJmkhmBuOJVPWlJjsZUMF
 #EXTINF:-1 tvg-id="4248348_BHO" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="🔸FanCode🔸| Live Events",Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]
@@ -6557,7 +6555,8 @@ https://in-mc-flive.fancode.com/mumbai/4248528_english_hls_2cba71094556931_1ta-d
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 4 - 23 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787552070~acl=/*~id=05042336764735789581775727150560~hmac=b933bdcb88a6f4ccc1e4a8cea5f9631ca3fae5ba5e978e4aea7acdf8b6e0c5cf
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
