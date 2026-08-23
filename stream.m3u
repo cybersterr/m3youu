@@ -703,8 +703,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd
+#EXTHTTP:{"Cookie":"hdnea=st=1787471541~exp=1787475141~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=9e138bc51da281d2c1983aa69330735dfea81749325bc1b8181dc907f1565b54","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787471541~exp=1787475141~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=9e138bc51da281d2c1983aa69330735dfea81749325bc1b8181dc907f1565b54
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -5218,8 +5218,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_Marathi_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="909" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",909
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5121c719b63f0442e423db860b8c517f
-#EXTHTTP:{"Cookie":"hdnea=st=1787459707~exp=1787481307~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=66beeae9ce0161a581fa7e2d0f5e7d48fbd44a77b54f2439ffd3dc2522fe25c7","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787459707~exp=1787481307~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=66beeae9ce0161a581fa7e2d0f5e7d48fbd44a77b54f2439ffd3dc2522fe25c7
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="910" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",910
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb42ae3bb74b9172e79e986b59d40085
@@ -6542,35 +6542,37 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 https://in-mc-flive.fancode.com/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787562994~_GO=Generated~acl=/mumbai/4248342_hindi_hls_5d8ac7575d71489_1ta-di_h264/*~Signature=ARceAWOhLTzNIyxLLWaMwc-etTKtziX5vikY5D0xpkGDK7_20RQ1R9yjaC7r7e3LuydGuF4wb1wuvu4-cST5hTzzYtQI
 #EXTINF:-1 tvg-id="4248510" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248510_53041_TT_BNR_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Taknor Tigers vs Baukh Night Riders
 https://in-mc-flive.fancode.com/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787557529~_GO=Generated~acl=/mumbai/4248510_english_hls_c23e4ca6cf17701_1ta-di_h264/*~Signature=ARceAWOVxdHS32QrSt1qyr3ZJIpihGO3ienuzpB-5xeMNLOAuQJG2Dnlb2GDh4VZefWPapKiJKkTj91cPQbeituqoAsF
+#EXTINF:-1 tvg-id="4247475" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247475_52993_WBA_BUR_fc-web_1786657253104.jpg" group-title="🔸FanCode🔸| Live Events",West Bromwich Albion F.C. vs Burnley
+https://in-mc-flive.fancode.com/mumbai/4247475_english_hls_df6359b95690691_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787569075~_GO=Generated~acl=/mumbai/4247475_english_hls_df6359b95690691_1ta-di_h264/*~Signature=ARceAWOM9zCa4nokPCb-tqTLy4DJVNKOkk1sk3atiGVWDQaMGJUjsx7RtPAxFfj4nGcGnYjH3j5y6yfuoEszPdP4x84I
 #EXTINF:-1 tvg-id="4248436" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248436_53036_BAN-HP_HHA_fc-web_1787393618606.jpg" group-title="🔸FanCode🔸| Live Events",Hobart Hurricanes Academy vs Bangladesh HP-XI
 https://in-mc-flive.fancode.com/mumbai/4248436_english_hls_1065cb636a12298_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787555709~_GO=Generated~acl=/mumbai/4248436_english_hls_1065cb636a12298_1ta-di_h264/*~Signature=ARceAWP134GuJpJAtV0XiDu9v14pMibHa-XMhlGzmP05OVD3nyVsbSNwkqZ6A8z6Xl8pqXu2wCZmbFf7q7zpqjxRY7IH
 #EXTINF:-1 tvg-id="4247552" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247552_53003_CDQ_EDR-W_FC-Web_1787120909822.png" group-title="🔸FanCode🔸| Live Events",East Delhi Riders Women vs Central Delhi Queens
 https://in-mc-flive.fancode.com/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787557531~_GO=Generated~acl=/mumbai/4247552_english_hls_07557ba66997405_1ta-di_h264/*~Signature=ARceAWNlqbjRizxtg1viGk5o2coARIXgboDMP3CjLQFXQKfCCXSr0u4Hfht5VtKyVnTLNeYmFCtiNLiB35n8vDciTbsK
-#EXTINF:-1 tvg-id="143617" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="🔸FanCode🔸| Live Events",Second Race
-https://in-mc-flive.fancode.com/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787564212~_GO=Generated~acl=/mumbai/143617_english_hls_7b9fb92d3c15604_1ta-di_h264/*~Signature=ARceAWP2nbYTjYVp9kyJPiihVGU_rnRKKvi8ZOnaxuCSckGNeM9NDJD-zUimmVDSK4ZZOmnXZl4X1U8Xni6NYMGGU-8L
+#EXTINF:-1 tvg-id="139481" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Dutch_web_1787057040619.jpg" group-title="🔸FanCode🔸| Live Events",Race
+https://in-mc-flive.fancode.com/mumbai/139481_english_hls_54f604fc3f83495_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787569077~_GO=Generated~acl=/mumbai/139481_english_hls_54f604fc3f83495_1ta-di_h264/*~Signature=ARceAWOtiCP4XQR3TJXBKpwL-IB4ty4MXylFUkDz7XHvwxqhpq8DFQpwfORDgi5sNx4uiLATiopFpU6cVDWRfRFH1jkO
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 4 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 4 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 4 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 4 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Nexo Championship - Day 4 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787524664~acl=/*~id=91621354726954322955912974827964~hmac=cbbac10751312207fb5fcf2ced98d8cb8445f43c5d41510e31b27c3aa4f80462
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
