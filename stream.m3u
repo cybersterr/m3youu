@@ -6536,23 +6536,18 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8?__hdnea__=st
 #EXTHTTP:{"Cookie":"hdnea=st=1787437588~exp=1787459188~acl=/*~hmac=0c954f7a23df6f43c253fc61f8b1ae64052c8a3df64badf46e2798935bad983e","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__hdnea__=st=1787437588~exp=1787459188~acl=/*~hmac=0c954f7a23df6f43c253fc61f8b1ae64052c8a3df64badf46e2798935bad983e
 
-# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
-
-#EXTINF:-1 tvg-id="4248293" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248293_53026_ABF_TKR_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Trinbago Knight Riders vs Antigua & Barbuda Falcons
-https://in-mc-flive.fancode.com/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787524736~_GO=Generated~acl=/mumbai/4248293_english_hls_e1a1315d356117_1ta-di_h264/*~Signature=ARceAWN1LaCM4-obpOut2YSv_DUsj7MM04z0Y3PF_1E20o-pGICNXm3UYHxLH68bq1t4g5pdjDH6utr3FCogSHv-OQAP
-
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787497942~acl=/*~id=06372620203412386704621536808995~hmac=b055e0842e509344868886140f9825975bc18de58faa8925acfa66ccd93699f0
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787497942~acl=/*~id=06372620203412386704621536808995~hmac=b055e0842e509344868886140f9825975bc18de58faa8925acfa66ccd93699f0
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787497942~acl=/*~id=06372620203412386704621536808995~hmac=b055e0842e509344868886140f9825975bc18de58faa8925acfa66ccd93699f0
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787497942~acl=/*~id=06372620203412386704621536808995~hmac=b055e0842e509344868886140f9825975bc18de58faa8925acfa66ccd93699f0
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 1 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787497942~acl=/*~id=06372620203412386704621536808995~hmac=b055e0842e509344868886140f9825975bc18de58faa8925acfa66ccd93699f0
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
