@@ -3948,8 +3948,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="655" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",655
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1787488541~exp=1787510141~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4721f26cf931755d70a4db6a17776472aaa2282b6f3c1216dcd15bffd33e65b8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787488541~exp=1787510141~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=4721f26cf931755d70a4db6a17776472aaa2282b6f3c1216dcd15bffd33e65b8
+#EXTHTTP:{"Cookie":"hdnea=st=1787510168~exp=1787531768~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=511103599397d16290bc58fb089945491936da1a914463b9afb19abf9330efa7","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787510168~exp=1787531768~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=511103599397d16290bc58fb089945491936da1a914463b9afb19abf9330efa7
 #EXTINF:-1 tvg-id="656" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",656
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -6540,6 +6540,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="4247584_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247584_53004_GEF_RAC_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Getafe CF vs Racing Club de Santander [English]
 https://in-mc-flive.fancode.com/mumbai/4247584_english_hls_6f81107c3712088_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787590982~_GO=Generated~acl=/mumbai/4247584_english_hls_6f81107c3712088_1ta-di_h264/*~Signature=ARceAWMoAmJsQU3KGjyXPOsMZDS2Tpzg3cTuZefBnEla7SMb-X9e-FCxoOgBHlhprGWEUlg7i5VBez1Ai7cY7AFHhksC
+#EXTINF:-1 tvg-id="4247581_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247581_53004_ELC_BAR_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Elche CF vs FC Barcelona [English]
+https://in-mc-flive.fancode.com/mumbai/4247581_english_hls_f643d6067a38495_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787598262~_GO=Generated~acl=/mumbai/4247581_english_hls_f643d6067a38495_1ta-di_h264/*~Signature=ARceAWO0qO_zUN5DyeYl7N_0oRpezCUvWkFbU_HgTsjclxZB4qm0kDmsPQhDH3UPA6Em8NhXNodL7IvrM766ar-PqIEI
 #EXTINF:-1 tvg-id="4248417_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",Main Feed - Day 4 [English]
 https://in-mc-flive.fancode.com/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585785~_GO=Generated~acl=/mumbai/4248417_english_hls_523079a4ce80996_1ta-di_h264/*~Signature=ARceAWP1lrim7iXD3JDtDGS41lEDs3ldR7ho7ZqSn4LlgQdqzawa9ajQ7EeM3BPUjG0tWMxXWsDRro_8i_5aYbomruUN
 #EXTINF:-1 tvg-id="4248413_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png" group-title="🔸FanCode🔸| Live Events",World Feed - Day 4 [English]
@@ -6548,11 +6550,13 @@ https://in-mc-flive.fancode.com/mumbai/4248413_english_hls_34d823adf835301_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594017~_GO=Generated~acl=/mumbai/4248148_english_hls_012334bd0283018_1ta-di_h264/*~Signature=ARceAWMniCjulQvhTGC-5ouHyMDk0cSTqAOMFOvNgXIKR6A88DHFSDIeRlRPCFGeyscyIkjgJAyugskqzJ3XKjYssP0G
 #EXTINF:-1 tvg-id="4248528_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png" group-title="🔸FanCode🔸| Live Events",Day 2 [English]
 https://in-mc-flive.fancode.com/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787594018~_GO=Generated~acl=/mumbai/4248528_english_hls_2cba71094556931_1ta-di_h264/*~Signature=ARceAWPKWkVmD6W_V4n-CQTnz5fPFxzbJ4zQKAbZcdKhg8OrnCxjDSgLgm842i4AdEoYk8ePvuXQY9CkrIpjCoBKo6QI
+#EXTINF:-1 tvg-id="4248150_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
+https://in-mc-flive.fancode.com/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787597655~_GO=Generated~acl=/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/*~Signature=ARceAWNJAMw1MSKbcjWBSA64UifUc9zwGPw4afXFDsKHJQvLMs5V2smWF8SsoH1WlYu-jrP2M1pbpriSZiZIcwra5ncE
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Indianapolis - Day 4 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787553893~acl=/*~id=37463810321733401493704088352804~hmac=750a1fb7fdb5f6e839b4cb9db522b1066c2d41344b45ad04efcbe6c79b459c9c
+https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787555108~acl=/*~id=00360524259542360643972446100726~hmac=efa5e0d3599c6aca7e6bf091470e974b8d3e3a8bacebfb343ef00f43dfe86f8c
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
