@@ -703,8 +703,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://game.denver69.fun/Jtv/j2Jc4z/Jtv.mpd?id=164
+#EXTHTTP:{"Cookie":"hdnea=st=1787489609~exp=1787493209~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=455184c00b9b3bc2f51c6ebf0cd7307f2b6d09f5057a8ca7966555aabaea9a28","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787489609~exp=1787493209~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=455184c00b9b3bc2f51c6ebf0cd7307f2b6d09f5057a8ca7966555aabaea9a28
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -6540,9 +6540,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 #EXTINF:-1 tvg-id="4248002_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248002_53005_NDS_ODW_fc-Web.png" group-title="🔸FanCode🔸| Live Events",North Delhi Strikers vs Outer Delhi Warriors [English]
 https://in-mc-flive.fancode.com/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585780~_GO=Generated~acl=/mumbai/4248002_english_hls_74cda68c1125354_1ta-di_h264/*~Signature=ARceAWMn4zYIpHiU1-rLG7DYR-pBcFr3c3jVL2w9JNdEs2k5hxgYZOoiYoQ36yJyuI3CY1leJhseXVcBw3eBE-5BNY4M
-#EXTINF:-1 tvg-id="4248348_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="🔸FanCode🔸| Live Events",Meerut Mavericks vs Gaur Gorakhpur Lions [Hindi]
+#EXTINF:-1 tvg-id="4248348_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="🔸FanCode🔸| Live Events",Gaur Gorakhpur Lions vs Meerut Mavericks [Hindi]
 https://in-mc-flive.fancode.com/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585781~_GO=Generated~acl=/mumbai/4248348_hindi_hls_4f4e4a4eb747947_1ta-di_h264/*~Signature=ARceAWPGoEsndCA7On23hRRC9HUkpjWllvEvgq60C2WhKcr1FNyQJjgPHfO02-V-C_bZZDkLJmkhmBuOJVPWlJjsZUMF
-#EXTINF:-1 tvg-id="4248348_BHO" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="🔸FanCode🔸| Live Events",Meerut Mavericks vs Gaur Gorakhpur Lions [Bhojpuri]
+#EXTINF:-1 tvg-id="4248348_BHO" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248348_53029_MER_GOR_FC-Web_1786702851594.png" group-title="🔸FanCode🔸| Live Events",Gaur Gorakhpur Lions vs Meerut Mavericks [Bhojpuri]
 https://in-mc-flive.fancode.com/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585782~_GO=Generated~acl=/mumbai/4248348_bhojpuri_hls_3036d556a526113_1ta-di_h264/*~Signature=ARceAWNwCEVgpXsaGEEIXC_tp90MSsJKBTfxDuU4IAXd2hKkn0utdKIuKw_19_SJkNu3CG2r-rcqOPKObymRJjw3RvII
 #EXTINF:-1 tvg-id="4248511_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248511_53041_BK_BG_FC-Web.jpg" group-title="🔸FanCode🔸| Live Events",Baragaddi Kings vs Bhagirathi Giants [English]
 https://in-mc-flive.fancode.com/mumbai/4248511_english_hls_c73d25c1f34784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787585783~_GO=Generated~acl=/mumbai/4248511_english_hls_c73d25c1f34784_1ta-di_h264/*~Signature=ARceAWP24uM0aotjau-lk2N-xoqOLfPIiR8ogPlwvec2TVut8BHAvT0RFoF2Dlfjyy4BxJSN1ClTxxZdxaRR8VWP0lUP
