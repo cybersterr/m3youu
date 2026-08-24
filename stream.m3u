@@ -3383,8 +3383,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd?__h
 #EXTINF:-1 tvg-id="542" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",542
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f4de40d7603bd8e45fe41db53f5198
-#EXTHTTP:{"Cookie":"hdnea=st=1787574926~exp=1787596526~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=c8abab52a7e5146c9f88ed19b6e942d30e1e6ca44187891afdaf911bd93f5d90","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787574926~exp=1787596526~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=c8abab52a7e5146c9f88ed19b6e942d30e1e6ca44187891afdaf911bd93f5d90
+#EXTHTTP:{"Cookie":"hdnea=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38
 #EXTINF:-1 tvg-id="543" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",543
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec4802fd3c2f3a87f2e3b4df9c3f310
@@ -3948,8 +3948,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-id="655" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",655
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92ac70b12af7f68fd49a0578e4765ab9
-#EXTHTTP:{"Cookie":"hdnea=st=1787575514~exp=1787597114~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=aa1be899377966b401f4ea9686f63c97d39af107e6957c71f537e4831695f1b8","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1787575514~exp=1787597114~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=aa1be899377966b401f4ea9686f63c97d39af107e6957c71f537e4831695f1b8
+#EXTHTTP:{"Cookie":"hdnea=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/AndXploreHD_MOB/WDVLive/index.mpd?__hdnea__=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38
 #EXTINF:-1 tvg-id="656" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",656
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1922fbb1ebad4a7ba0f3c77c67b34f89
@@ -6546,8 +6546,6 @@ https://in-mc-flive.fancode.com/mumbai/4247587_english_hls_ba7433a2c221805_1ta-d
 https://in-mc-flive.fancode.com/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787685765~_GO=Generated~acl=/mumbai/4248395_english_hls_763f536aef8018_1ta-di_h264/*~Signature=ARB3KG09ELWAhwuXu7mPJi3S7rN--MotrY0MNZizOI3NxbH1YZ5YODIfsXvXzUBd3wHVFYxnJVofcAkMNwjQ0PJ0fgIC
 #EXTINF:-1 tvg-id="4248151_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
 https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787680293~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG1THe_YT04WcRn79rSoiKbiTMAo5js0e35qS8ElkX-caNUDtN0wr23knZ_LJlDg_-3GmHsDUbyYCRc0KdoVQgUF
-#EXTINF:-1 tvg-id="4247579_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs Levante [English]
-https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
