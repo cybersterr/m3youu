@@ -703,8 +703,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1787579947~exp=1787583547~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0dbb2643d95470b8d0c41d6dcf40491605226881860aed26df43a011abbab398","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787579947~exp=1787583547~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=0dbb2643d95470b8d0c41d6dcf40491605226881860aed26df43a011abbab398
+#EXTHTTP:{"Cookie":"hdnea=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -2318,8 +2318,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTamil_MOB/WDVLive/index.mpd?__hdnea__=s
 #EXTINF:-1 tvg-id="329" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",329
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=442690c7c5852ca7c63b63d483ab6bc3
-#EXTHTTP:{"Cookie":"hdnea=st=1787568687~exp=1787590287~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=44d8b554417c3e70b37b4247639eb37f24a568d2a3d923b84a8bd330d6332dfa","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1787568687~exp=1787590287~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=44d8b554417c3e70b37b4247639eb37f24a568d2a3d923b84a8bd330d6332dfa
+#EXTHTTP:{"Cookie":"hdnea=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38","User-Agent":""}
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_MOB/WDVLive/index.mpd?__hdnea__=st=1787583610~exp=1787605210~acl=/*~hmac=ae7438eb7163b757fef1f5fb55351e307ddb4db0fbae8873a7d8f834bfe11f38
 #EXTINF:-1 tvg-id="330" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",330
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16b6bf1201d5dcc541e099c5ff92f7eb
@@ -6546,6 +6546,8 @@ https://in-mc-flive.fancode.com/mumbai/4248353_hindi_hls_2398459a9e55686_1ta-di_
 https://in-mc-flive.fancode.com/mumbai/4248353_bhojpuri_hls_ffe69fa71031206_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787665074~_GO=Generated~acl=/mumbai/4248353_bhojpuri_hls_ffe69fa71031206_1ta-di_h264/*~Signature=ARB3KG2NA8qQukj7v5WlzY9pYK-aQ_OEEAiwCzuUELBreHJ5SEdSWOjrEjhOz1jvaFtLSkqlYOJS0TLnkiwzpNPtjAkC
 #EXTINF:-1 tvg-id="4248275_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Neom SC vs Al Qadisiyah [English]
 https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787675436~_GO=Generated~acl=/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/*~Signature=ARB3KG1C_X3aIx9jfZR-Mq-K6OdSSsMYCEAl4_vHZLdqBF7CN0KSPFGh2VFvGnT0_e3sd4YVhfiyTS5__iO7CnVmlJQB
+#EXTINF:-1 tvg-id="4247579_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs Levante [English]
+https://in-mc-flive.fancode.com/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787677257~_GO=Generated~acl=/mumbai/4247579_english_hls_44b005d4c010964_1ta-di_h264/*~Signature=ARB3KG3p0sl3A9PboVM2m7ichmxQXGnjHcpPjIGrPzyqeg2WrYjkjb0LhKehRmBrsn0ZA8U4dFojEjG9AZr1FEbWqIwH
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
