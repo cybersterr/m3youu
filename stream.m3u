@@ -3383,8 +3383,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__h
 #EXTINF:-1 tvg-id="542" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",542
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f4de40d7603bd8e45fe41db53f5198
-#EXTHTTP:{"Cookie":"hdnea=st=1787530205~exp=1787551805~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=2e07a8e6fd32f11eb679454b23fc2c0458b9d3c6fe639d1f31412da37c8c0adc","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787530205~exp=1787551805~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=2e07a8e6fd32f11eb679454b23fc2c0458b9d3c6fe639d1f31412da37c8c0adc
+#EXTHTTP:{"Cookie":"hdnea=st=1787551816~exp=1787573416~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=d0534c3018f9f47a71abbcb02222c446177fff269d51df673fa27249d8cd6ac4","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787551816~exp=1787573416~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=d0534c3018f9f47a71abbcb02222c446177fff269d51df673fa27249d8cd6ac4
 #EXTINF:-1 tvg-id="543" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",543
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec4802fd3c2f3a87f2e3b4df9c3f310
