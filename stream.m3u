@@ -683,8 +683,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd?__hdnea__=
 #EXTINF:-1 tvg-id="2" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=272d2bcff8430174fdd5aaf6f93abb6b
-#EXTHTTP:{"Cookie":"hdnea=st=1787526418~exp=1787548018~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6049fa145afcf9a666a2ae7020d5c10f1bdddcbaf55adb50ec36cb05fd6a1647","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787526418~exp=1787548018~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6049fa145afcf9a666a2ae7020d5c10f1bdddcbaf55adb50ec36cb05fd6a1647
+#EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
+https://game.denver69.fun/Jtv/j2Jc4z/Jtv.mpd?id=146
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=058dec845bd340178a388edd104a015e
@@ -703,8 +703,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd?__hdne
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6befde8b90b6926423cc83775b8dcb59
-#EXTHTTP:{"Cookie":"hdnea=st=1787525892~exp=1787529492~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=005a51722062e2e7d1841baac70bd42f09918f649d7ccf39b9d77ab6bc8dfa03","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787525892~exp=1787529492~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=005a51722062e2e7d1841baac70bd42f09918f649d7ccf39b9d77ab6bc8dfa03
+#EXTHTTP:{"Cookie":"hdnea=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1787543905~exp=1787547505~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=6874ad49e3c38f12cc6270430cbc6e983fdc8233e1e246f23a094166caf3d3e7
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b38db5542719e8e10008e9193089e6
@@ -6538,14 +6538,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248299_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Antigua & Barbuda Falcons vs Guyana Amazon Warriors [English]
-https://in-mc-flive.fancode.com/mumbai/4248299_english_hls_ad945f9eae77460_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787611016~_GO=Generated~acl=/mumbai/4248299_english_hls_ad945f9eae77460_1ta-di_h264/*~Signature=ARceAWNETizvlACt2mSen5zgbxTh4VJZeqV-zW79E1XLqUpDFUi1BOlQ1SBpfCf3MPoCCeiQczc4brmgDOEMCsmfqIkO
 #EXTINF:-1 tvg-id="4248430_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg" group-title="🔸FanCode🔸| Live Events",Northern Territory Strike vs Hyderabad Kingsmen [English]
 https://in-mc-flive.fancode.com/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787617688~_GO=Generated~acl=/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/*~Signature=ARceAWONsE_s-PQW5F6CT_P1O98pWpMr1DaSRjhLcE7sPrkpgEQckCFf5jEumYNWfnQg1g7PMSDBQPcyg08Yy1WINVUF
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787587277~acl=/*~id=80478670852812786458650895802686~hmac=427d66b3e3b7e9f91c075862c0642c21123f697424eb83e45c2dd674aa05c363
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787587277~acl=/*~id=80478670852812786458650895802686~hmac=427d66b3e3b7e9f91c075862c0642c21123f697424eb83e45c2dd674aa05c363
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787587277~acl=/*~id=80478670852812786458650895802686~hmac=427d66b3e3b7e9f91c075862c0642c21123f697424eb83e45c2dd674aa05c363
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787587277~acl=/*~id=80478670852812786458650895802686~hmac=427d66b3e3b7e9f91c075862c0642c21123f697424eb83e45c2dd674aa05c363
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787326350762960_SL_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",2nd Test - Day 2 - 24 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787587277~acl=/*~id=80478670852812786458650895802686~hmac=427d66b3e3b7e9f91c075862c0642c21123f697424eb83e45c2dd674aa05c363
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
