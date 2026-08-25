@@ -4328,8 +4328,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index
 #EXTINF:-1 tvg-id="731" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",731
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8147983ad7402ebfc222d28b667a196f
-#EXTHTTP:{"Cookie":"hdnea=st=1787601630~exp=1787623230~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=bdacf15f8f4597b532988959035e80468ce6e8f9da815568ea7505888cf63f2a","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787601630~exp=1787623230~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=bdacf15f8f4597b532988959035e80468ce6e8f9da815568ea7505888cf63f2a
+#EXTHTTP:{"Cookie":"hdnea=st=1787623239~exp=1787644839~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=d9577235621a90f2ab79c4f7c4e9cef387a58a61e42a3d94ff042c6375f3c8c3","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1787623239~exp=1787644839~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=d9577235621a90f2ab79c4f7c4e9cef387a58a61e42a3d94ff042c6375f3c8c3
 #EXTINF:-1 tvg-id="732" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",732
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859695076e67fe961836b564db6d689c
@@ -4383,8 +4383,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.m
 #EXTINF:-1 tvg-id="742" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",742
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae62a20c030c918aad24193c1dda229
-#EXTHTTP:{"Cookie":"hdnea=st=1787601496~exp=1787623096~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=2381e6fe0671642bb667bfe73d21b2cbfc01a351f2addadedba98ed9faafabae","User-Agent":""}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1787601496~exp=1787623096~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=2381e6fe0671642bb667bfe73d21b2cbfc01a351f2addadedba98ed9faafabae
+#EXTHTTP:{"Cookie":"hdnea=st=1787623113~exp=1787644713~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=9c4a342b9c3d9aa83e1fef7c5b699a282a0fd7459f6890a6ac6d3e7597545c85","User-Agent":""}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1787623113~exp=1787644713~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=9c4a342b9c3d9aa83e1fef7c5b699a282a0fd7459f6890a6ac6d3e7597545c85
 #EXTINF:-1 tvg-id="743" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",743
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19c82d3ff094fa06af95820a1572ecb5
@@ -6538,8 +6538,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd?__
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248151_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="🔸FanCode🔸| Live Events",World Feed [English]
-https://in-mc-flive.fancode.com/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787709447~_GO=Generated~acl=/mumbai/4248151_english_hls_c400dbc4a246695_1ta-di_h264/*~Signature=ARB3KG2nn51J5nNdXbEv3wSBFCIEBpXBP2PYPid2SvC3szH0KZn920ZdwRuEP9ooblToO3AhgZUyCR_T_8ZsVpSjlFMM
 #EXTINF:-1 tvg-id="4248434_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248434_53036_NTS_ACT_fc-web_1787393618710.jpg" group-title="🔸FanCode🔸| Live Events",Australian Capital Territory vs Northern Territory Strike [English]
 https://in-mc-flive.fancode.com/mumbai/4248434_english_hls_fd5b53d92780055_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787703375~_GO=Generated~acl=/mumbai/4248434_english_hls_fd5b53d92780055_1ta-di_h264/*~Signature=ARB3KG2PpQVSc1s1D1wuCuB3t-B33j_5S3UeGiwXXmhvN6k27OgyoSGZMlXcc32rsd3ieTVG2z3Tx6ncAnu_yBCGsb8K
 
