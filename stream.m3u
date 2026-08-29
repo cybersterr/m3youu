@@ -6684,14 +6684,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248455_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248455_53036_HHA_NZ-A_fc-web_1787393618773.jpg" group-title="🔸FanCode🔸| Live Events",Hobart Hurricanes Academy vs New Zealand A [English]
-https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788049445~_GO=Generated~acl=/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/*~Signature=ARB3KG2iLZJZCfLZcEBX6GK6ZLXQGYe7PIClf9IyhNaIjZnl1DgV86UlfFFhV1rBb4UmHIx2DKjXJHclitF8npC35zIO
-#EXTINF:-1 tvg-id="4248301_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Barbados Tridents vs Trinbago Knight Riders [English]
-https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788046407~_GO=Generated~acl=/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/*~Signature=ARB3KG3xj9O1WmmcQs_xWJMZGY2immeyrv_6tDAFPwQJlthzajETXhU4k4am7MsU1USkMUA2VoXlKvbNOKswDYHhHwUH
+#EXTINF:-1 tvg-id="139964_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Aragon GP [English]
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788071925~_GO=Generated~acl=/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/*~Signature=ARB3KG0vu67LFqEQfeBH2hEmHQDklU6Lt7g4SYlSb3_ib2p6zn4jEeHEx5mSkJknMGDaRYzGIvbR-sdOxqZig21s2vIO
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788031068~acl=/*~id=33678407453098039495329513230046~hmac=2db6cec35933366b9faf5ce5491189875b71a6cab19c7cfbbfa08b6098e819fb
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -8537,7 +8536,7 @@ https://mactom3u.vodep39240327.workers.dev/479907.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/481183.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="channel_1212" tvg-name="24x7 PAKISTAN GOT TALENT" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78499.jpg" group-title="URDU | TV",24x7 PAKISTAN GOT TALENT
 https://mactom3u.vodep39240327.workers.dev/482300.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="24×7 TAMASHA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78518.jpg" group-title="URDU | TV",24×7 TAMASHA
+#EXTINF:-1 tvg-id="" tvg-name="24×7 TAMASHA" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78518.jpg" group-title="URDU | TV",24×7 TAMASHA
 https://mactom3u.vodep39240327.workers.dev/482320.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="arydigital.uk" tvg-name="ARY DIGITAL HD" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/5522.png" group-title="URDU | TV",ARY DIGITAL HD
 https://mactom3u.vodep39240327.workers.dev/5522.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10005,13 +10004,13 @@ https://mactom3u.vodep39240327.workers.dev/480702.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480612.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77064.NAB" tvg-name="TNT SPORT 1." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/77064.png" group-title="SPORTS | EPL",TNT SPORT 1.
 https://mactom3u.vodep39240327.workers.dev/480703.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : CRYSTAL PALACE VS MANCHESTER CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : CRYSTAL PALACE VS MANCHESTER CITY
+#EXTINF:-1 tvg-id="1148.NAB" tvg-name="EPL 01 : LIVERPOOL VS NOTTINGHAM FOREST" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1148.jpg" group-title="SPORTS | EPL",EPL 01 : LIVERPOOL VS NOTTINGHAM FOREST
 https://mactom3u.vodep39240327.workers.dev/1148.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="1149.NAB" tvg-name="EPL 02 : COVENTRY CITY VS HULL CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1149.jpg" group-title="SPORTS | EPL",EPL 02 : COVENTRY CITY VS HULL CITY
 https://mactom3u.vodep39240327.workers.dev/1149.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="1150.NAB" tvg-name="EPL 03 : AFC BOURNEMOUTH VS EVERTON" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1150.jpg" group-title="SPORTS | EPL",EPL 03 : AFC BOURNEMOUTH VS EVERTON
 https://mactom3u.vodep39240327.workers.dev/1150.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="1151.NAB" tvg-name="EPL 04 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1151.jpg" group-title="SPORTS | EPL",EPL 04 - NO EVENT TODAY
+#EXTINF:-1 tvg-id="1151.NAB" tvg-name="EPL 04 : TOTTENHAM HOTSPUR VS NEWCASTLE UNITED" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1151.jpg" group-title="SPORTS | EPL",EPL 04 : TOTTENHAM HOTSPUR VS NEWCASTLE UNITED
 https://mactom3u.vodep39240327.workers.dev/1151.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="1152.NAB" tvg-name="EPL 05 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/1152.jpg" group-title="SPORTS | EPL",EPL 05 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/1152.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
@@ -10077,7 +10076,7 @@ https://mactom3u.vodep39240327.workers.dev/482429.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/482442.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="EPL | HULL CITY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/78634.png" group-title="SPORTS | EPL",EPL | HULL CITY
 https://mactom3u.vodep39240327.workers.dev/482443.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 : EUROPA CONFERENCE & LEAGUE DRAWS" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 : EUROPA CONFERENCE & LEAGUE DRAWS
+#EXTINF:-1 tvg-id="69788.NAB" tvg-name="UEFA 01 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69788.jpg" group-title="SPORTS | UEFA",UEFA 01 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473126.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="69789.NAB" tvg-name="UEFA 02 - NO EVENT TODAY" tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/69789.jpg" group-title="SPORTS | UEFA",UEFA 02 - NO EVENT TODAY
 https://mactom3u.vodep39240327.workers.dev/473127.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
