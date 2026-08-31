@@ -6684,14 +6684,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248346_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="🔸FanCode🔸| Live Events",Lucknow Falcons vs Kanpur Superstars [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788270070~_GO=Generated~acl=/mumbai/4248346_hindi_hls_e32e12b7c719387_1ta-di_h264/*~Signature=AfPHOv3vW8FL7y2oq8MR-C_3NhtxW3l2sd_04jMSfb1VCMj-gyCoQTcJ9jgiK-0UxCDKmcnsJUmHDyifCH6NFLkGzngG
-#EXTINF:-1 tvg-id="4248346_BHO" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248346_53029_KAN_LCK_FC-Web_1786702852100.png" group-title="🔸FanCode🔸| Live Events",Lucknow Falcons vs Kanpur Superstars [Bhojpuri]
-https://in-mc-flive.fancode.com/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788270071~_GO=Generated~acl=/mumbai/4248346_bhojpuri_hls_17cea6beab66338_1ta-di_h264/*~Signature=AfPHOv2sCoPTmJ7wbbz3HIeMj9Tli2zzekmyF-LnP_8zTTRHALVYpsjuep8n2gHeMvspxBtiv-AIQr-XONSwL3BrLYMM
-#EXTINF:-1 tvg-id="4248667_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248667_53052_MF_ROS_fc-Web.jpg" group-title="🔸FanCode🔸| Live Events",Mustafa Fragrance House Strikers vs Royal Oman Stallions [English]
-https://in-mc-flive.fancode.com/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788257915~_GO=Generated~acl=/mumbai/4248667_english_hls_015c007edb33485_1ta-di_h264/*~Signature=AfPHOv2GiUmdh6qv1etrcfQGKN7nx1kCSGN4gMBGDDM4KZVzwVWDhNjBdhB5qDGLD9fgdUPvcnvhsMhr2A82ENh9wo4A
-#EXTINF:-1 tvg-id="4248456_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248456_53037_NAM_ZIM_FC-WEB.jpg" group-title="🔸FanCode🔸| Live Events",Zimbabwe vs Namibia [English]
-https://in-mc-flive.fancode.com/mumbai/4248456_english_hls_cf444cc3c245782_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788262778~_GO=Generated~acl=/mumbai/4248456_english_hls_cf444cc3c245782_1ta-di_h264/*~Signature=AfPHOv0cV35pmILdYHe62o-mLZT2szmsXck1fcc2pAxFEg9VJIcY35zEOP6pmog7UuNf3OeMr79tHDiBW_u7NnlgsLIC
+#EXTINF:-1 tvg-id="4247590_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247590_53004_BAR_RVL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",FC Barcelona vs Rayo Vallecano [English]
+https://in-mc-flive.fancode.com/mumbai/4247590_english_hls_d6008467f19922_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788289537~_GO=Generated~acl=/mumbai/4247590_english_hls_d6008467f19922_1ta-di_h264/*~Signature=AfPHOv0rxyF4YJNZ31LcQz_LgYIsXzpQmFmymoFOCCvSz9GOUkG7mcVF2tkFMrPDVsxk79mUhYJuMVdrsaxbDr1n144K
+#EXTINF:-1 tvg-id="4248398_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248398_53017_CF_CAS_FC-Web.png" group-title="🔸FanCode🔸| Live Events",RC Celta Fortuna vs Castellón [English]
+https://in-mc-flive.fancode.com/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788290755~_GO=Generated~acl=/mumbai/4248398_english_hls_a734365bdf32719_1ta-di_h264/*~Signature=AfPHOv3vio4liHrIO3-BNMqiQwwnHMJ8ge-PS3cJf_TrFMo3qxpBMTjO1466MfavV_b0M8w8maFA0ZACzcXCQP1BqgEI
+#EXTINF:-1 tvg-id="4247597_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247597_53004_OSN_GEF_FC-Web.png" group-title="🔸FanCode🔸| Live Events",CA Osasuna vs Getafe CF [English]
+https://in-mc-flive.fancode.com/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1788282238~_GO=Generated~acl=/mumbai/4247597_english_hls_99f22f711923916_1ta-di_h264/*~Signature=AfPHOv3eJWbedlkWSpdQ2pBEowKSl429hrhPqnIqkVXCfayQ5WJgKax4dJ-1EC2sf7exVbLDRmKcc7M-ZMvJEYUYkKwO
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
@@ -10657,6 +10655,14 @@ https://mactom3u.vodep39240327.workers.dev/481266.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/480460.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="77621.NAB" tvg-name="CRIC 3 : NAMIBIA VS ZIMBABWE" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 3 : NAMIBIA VS ZIMBABWE
 https://mactom3u.vodep39240327.workers.dev/481265.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="76827.NAB" tvg-name="CRIC 4 : MOHALI KINGS VS BATHINA ROYALS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 4 : MOHALI KINGS VS BATHINA ROYALS
+https://mactom3u.vodep39240327.workers.dev/480464.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 5 JALANDHAR WARRIORS VS FAZILKA FALCONS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 5 JALANDHAR WARRIORS VS FAZILKA FALCONS
+https://mactom3u.vodep39240327.workers.dev/482193.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 6 BANGLADESH VS INDONESIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 6 BANGLADESH VS INDONESIA
+https://mactom3u.vodep39240327.workers.dev/482194.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 7 BANGLADESH VS INDONESIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 7 BANGLADESH VS INDONESIA
+https://mactom3u.vodep39240327.workers.dev/482195.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD 4K.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68956.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD 4K..
 https://mactom3u.vodep39240327.workers.dev/472293.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68939.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD..
@@ -10824,19 +10830,8 @@ https://mactom3u.vodep39240327.workers.dev/480916.m3u8?host=tv.saartv.cc&path=%2
 
 # ---------------=== ICC TV ===-------------------
 
-#DATE:- 31-08-2026 17:00
+#DATE:- 31-08-2026 21:15
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/tfn5poxz7xkz5zyt9aj8" tvg-lang="English" group-title="ICC-TV",English | Namibia v Zimbabwe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
-#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
-#EXTVLCOPT:http-origin=https://www.icc-cricket.com
-#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788204612~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=0bfc0571fcb1e4958cb797860f25d90e2e99293aa0f441a8f43fad1ca866a53e/manifest.mpd?vcfilter=3c4cdcc6-5d8a-4fb0-9ff6-a2c3e3ddb071&
 
 # =========================================
 # This m3u link is only for educational purposes
