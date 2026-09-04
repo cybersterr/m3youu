@@ -6684,12 +6684,17 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4248297_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png" group-title="🔸FanCode🔸| Live Events",St Kitts and Nevis Patriots vs Saint Lucia Kings [English]
-https://in-mc-flive.fancode.com/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788561189~_GO=Generated~acl=/mumbai/4248297_english_hls_ad94762f4160524_1ta-di_h264/*~Signature=AfPHOv18fqppntG_iCaqT1Mtb1p4nKnqBVLAr15K04GCO_qkuYvo1nVa2pjntSaBsHN3wCjoNVWvR5jshoPqs6u62XcA
+#EXTINF:-1 tvg-id="4248619_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Saudi Arabia vs Bahrain [English]
+https://in-mc-flive.fancode.com/mumbai/4248619_english_hls_3f694ff1d318667_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788570979~_GO=Generated~acl=/mumbai/4248619_english_hls_3f694ff1d318667_1ta-di_h264/*~Signature=AfPHOv1nth9Dr3iK15xIwPmTgTmTv2zalRlVSXrtTYwYBTjDsM4aiSgMtqlqRH10_tljktW1ILsFi0uDtvI_4eSG6poA
+#EXTINF:-1 tvg-id="4248620_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248620_53050_SIN_QAT_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Singapore vs Qatar [English]
+https://in-mc-flive.fancode.com/mumbai/4248620_english_hls_5df29fa8aa28155_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788570981~_GO=Generated~acl=/mumbai/4248620_english_hls_5df29fa8aa28155_1ta-di_h264/*~Signature=AfPHOv0xh1aPg_7E69jPAFyb1QzOQUigVezfR1P9EFayLTx8eRknjpWGPJBkqxrEuXDO4Hi2UfqRSrBM0alZWGFPsmwP
+#EXTINF:-1 tvg-id="4249067_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249067_53058_SS_HKR_fc-Web_fc-webtvbg.jpg" group-title="🔸FanCode🔸| Live Events",Selaqui Strikers vs Herbertpur Knight Riders [English]
+https://in-mc-flive.fancode.com/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788578260~_GO=Generated~acl=/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/*~Signature=AfPHOv30j54Cyg3nsQ3EIjMn4HaEn4m1ov0setnqsCD-as0AS1aKp3Odw233FCB0dscUYAWUU4qyfoPGpRgk-8Cv7CsG
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -10643,26 +10648,22 @@ https://mactom3u.vodep39240327.workers.dev/482322.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/482345.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2 | CR" tvg-logo="" group-title="SPORTS | GENERAL",MAX SPORT 2 | CR
 https://mactom3u.vodep39240327.workers.dev/482346.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="77622.NAB" tvg-name="CRIC 1 : NAMIBIA VS ZIMBABWE" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 1 : NAMIBIA VS ZIMBABWE
+#EXTINF:-1 tvg-id="77622.NAB" tvg-name="CRIC 1 : BATHINDA ROYALS VS AMRITSAR SOORMAS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 1 : BATHINDA ROYALS VS AMRITSAR SOORMAS
 https://mactom3u.vodep39240327.workers.dev/481266.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="76823.NAB" tvg-name="CRIC 2 : NAMIBIA VS ZIMBABWE" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 2 : NAMIBIA VS ZIMBABWE
+#EXTINF:-1 tvg-id="76823.NAB" tvg-name="CRIC 2 : BATHINDA ROYALS VS AMRITSAR SOORMAS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 2 : BATHINDA ROYALS VS AMRITSAR SOORMAS
 https://mactom3u.vodep39240327.workers.dev/480460.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="77621.NAB" tvg-name="CRIC 3 : BATHINDA ROYALS VS JALANDHAR WARRIORS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 3 : BATHINDA ROYALS VS JALANDHAR WARRIORS
+#EXTINF:-1 tvg-id="77621.NAB" tvg-name="CRIC 3 : LUDHIANA LIONS VS JALANDHAR WARRIORS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 3 : LUDHIANA LIONS VS JALANDHAR WARRIORS
 https://mactom3u.vodep39240327.workers.dev/481265.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="76827.NAB" tvg-name="CRIC 4 : BATHINDA ROYALS VS JALANDHAR WARRIORS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 4 : BATHINDA ROYALS VS JALANDHAR WARRIORS
+#EXTINF:-1 tvg-id="76827.NAB" tvg-name="CRIC 4 : LUDHIANA LIONS VS JALANDHAR WARRIORS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC 4 : LUDHIANA LIONS VS JALANDHAR WARRIORS
 https://mactom3u.vodep39240327.workers.dev/480464.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 5 FAF VS MOHALI KINGS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 5 FAF VS MOHALI KINGS
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 5 SAUDI ARABIA VS BAHRAIN" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 5 SAUDI ARABIA VS BAHRAIN
 https://mactom3u.vodep39240327.workers.dev/482193.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 6 FAF VS MOHALI KINGS" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 6 FAF VS MOHALI KINGS
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 6 SINGAPORE VS QATAR" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 6 SINGAPORE VS QATAR
 https://mactom3u.vodep39240327.workers.dev/482194.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 7 ENGLAND VS IRELAND" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 7 ENGLAND VS IRELAND
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 7 NAMIBIA VS SOUTH AFRICA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 7 NAMIBIA VS SOUTH AFRICA
 https://mactom3u.vodep39240327.workers.dev/482195.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 8 INDIA VS HONG KONG" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 8 INDIA VS HONG KONG
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 8 UAE VS INDONESIA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 8 UAE VS INDONESIA
 https://mactom3u.vodep39240327.workers.dev/482196.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 9 MALAYSIA VS NEPAL" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 9 MALAYSIA VS NEPAL
-https://mactom3u.vodep39240327.workers.dev/482197.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
-#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 10 KUWAIT VS UAE" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 10 KUWAIT VS UAE
-https://mactom3u.vodep39240327.workers.dev/482198.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD 4K.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68956.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD 4K..
 https://mactom3u.vodep39240327.workers.dev/472293.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68939.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD..
