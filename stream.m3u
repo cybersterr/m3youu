@@ -6682,9 +6682,23 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
 https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
+# ---------------=== 🔸FanCode🔸| Live Events ===-------------------
+
+#EXTINF:-1 tvg-id="4249119_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg" group-title="🔸FanCode🔸| Live Events",Fazilka Falcons vs Ludhiana Lions [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249119_hindi_hls_760432300513463_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789024155~_GO=Generated~acl=/mumbai/4249119_hindi_hls_760432300513463_1ta-di_h264/*~Signature=AWDec-GG9OD9ahj_3PaxHXdk-AP1GnPweG8YzDBDNgppOZGdlXDWG2nzZYXLWvPdlgn1J0H8gmnkVwPKFcJp7nXDkGsB
+#EXTINF:-1 tvg-id="4249119_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249119_53065_LLN_FAF_fc-web_1788345784127.jpg" group-title="🔸FanCode🔸| Live Events",Fazilka Falcons vs Ludhiana Lions [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249119_punjabi_hls_be62d34bda18599_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789024155~_GO=Generated~acl=/mumbai/4249119_punjabi_hls_be62d34bda18599_1ta-di_h264/*~Signature=AWDec-F_oAjCCZIkXsNHRQDita1pRNMLNmrbIYmL48UfpW_X7yjTYTrCGbFTjpMjLOPYD1e7vRHBfCGKOMZBaJqu09wP
+#EXTINF:-1 tvg-id="4249155_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249155_53067_UGA_SRL_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Uganda vs Sierra Leone [English]
+https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249155_english_851020/ad-h264/index__1080p50.m3u8?hdntl=Expires=1789024762~_GO=Generated~acl=/out/v1/ap-south-1/4249155_english_851020/ad-h264/*~Signature=AWDec-ExXn8RH3SeCPQnRTucLQ0088-oli4M5q5bf10SIpPjMRApc2UIX3oSzm2cC4oYP4ofpxONt9MPnRjZeiXVZOwK
+
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
-
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 1 - 3rd Test - 9 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788990087~acl=/*~id=34570737914917503510800186639850~hmac=933ef97c75ff6e61b40aeb0962660bfc4d5de13a0e1abf31bc9fb499aaf31803
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788990087~acl=/*~id=34570737914917503510800186639850~hmac=933ef97c75ff6e61b40aeb0962660bfc4d5de13a0e1abf31bc9fb499aaf31803
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788990087~acl=/*~id=34570737914917503510800186639850~hmac=933ef97c75ff6e61b40aeb0962660bfc4d5de13a0e1abf31bc9fb499aaf31803
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
@@ -10664,6 +10678,8 @@ https://mactom3u.vodep39240327.workers.dev/480464.m3u8?host=tv.saartv.cc&path=%2
 https://mactom3u.vodep39240327.workers.dev/482193.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 6 ENGLAND VS PAKISTAN" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 6 ENGLAND VS PAKISTAN
 https://mactom3u.vodep39240327.workers.dev/482194.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
+#EXTINF:-1 tvg-id="Default" tvg-name="CRIC - 7 NAMIBIA VS SOUTH AFRICA" tvg-logo="" group-title="SPORTS | CRICKET",CRIC - 7 NAMIBIA VS SOUTH AFRICA
+https://mactom3u.vodep39240327.workers.dev/482195.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD 4K.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68956.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD 4K..
 https://mactom3u.vodep39240327.workers.dev/472293.m3u8?host=tv.saartv.cc&path=%2Fstalker_portal%2F&mac=00%3A1A%3A79%3A00%3A4D%3A84&serial=58E6A1E78FB02&device_id=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&device_id_2=6AD7860A1E2D78D9961D17DFA34D4C70D06CFFC1F807B8115F627648121C4339&stb_type=MAG270
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET FHD.." tvg-logo="http://tv.saartv.cc/stalker_portal/misc/logos/320/68939.jpeg" group-title="SPORTS | CRICKET",SKY SPORTS CRICKET FHD..
