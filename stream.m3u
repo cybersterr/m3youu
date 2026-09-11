@@ -4394,7 +4394,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="746" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",746
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Unite8_Sports_1HD/index/index.m3u8
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281311
 #EXTINF:-1 tvg-id="747" tvg-logo="" group-title="⭕️ JIOTV+ | GENERAL",747
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Cookie":"hdnea=","User-Agent":""}
@@ -6684,33 +6684,25 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/UIPMPentathlonWC_MOB/WDVLive/index.mpd
 
 # ---------------=== 🔸FanCode🔸| Live Events ===-------------------
 
-#EXTINF:-1 tvg-id="4249115_HIN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg" group-title="🔸FanCode🔸| Live Events",Amritsar Soormas vs Ludhiana Lions [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249115_hindi_hls_033ea73a8294334_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789218105~_GO=Generated~acl=/mumbai/4249115_hindi_hls_033ea73a8294334_1ta-di_h264/*~Signature=AWDec-GluiyFyqJJDePQyUrEW_lsBAWad5eUunjtdNP7lk10Dl0nbhkRjfJjmgNfPioBGTIDGlMdXLJ0xZ_B5vlyOt4O
-#EXTINF:-1 tvg-id="4249115_PUN" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249115_53065_AMS_LLN_fc-web_1788345783974.jpg" group-title="🔸FanCode🔸| Live Events",Amritsar Soormas vs Ludhiana Lions [Punjabi]
-https://in-mc-flive.fancode.com/mumbai/4249115_punjabi_hls_ae5135210630761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789218105~_GO=Generated~acl=/mumbai/4249115_punjabi_hls_ae5135210630761_1ta-di_h264/*~Signature=AWDec-FpXoQsfS-aQzoj9NydgA3uZkeWWB8YyY42K0SmSbfbXNZRQoWpfI5o_VDS06rOja60gWsBBWVJoWwwdSYRVqgA
-#EXTINF:-1 tvg-id="4249081_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Day 1 [English]
-https://in-mc-flive.fancode.com/mumbai/4249081_english_hls_95f13267c640697_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789219319~_GO=Generated~acl=/mumbai/4249081_english_hls_95f13267c640697_1ta-di_h264/*~Signature=AWDec-GvzNPDdN9w05gsA0z1I8HqUdh0K3o4APSbxPfdSRV5SQEZTWYYM5e3jGQQ4Qt-OE-f78nDEfjo0_XkJ0bNC0kJ
-#EXTINF:-1 tvg-id="139488_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_ESPANA_fc-web.jpg" group-title="🔸FanCode🔸| Live Events",Practice 2 [English]
-https://in-mc-flive.fancode.com/mumbai/139488_english_hls_fccad7009220600_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789224775~_GO=Generated~acl=/mumbai/139488_english_hls_fccad7009220600_1ta-di_h264/*~Signature=AWDec-ET-PtIoMsREa2W3jKDb9OPLIVcUiXygbfuvOK-m96Q5B3fJvYAokt5niwVBkez24_04H52DkAzfNN6b53Fk48O
+#EXTINF:-1 tvg-id="4249133_ENG" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249133_53025_AAS_HAZ_FC-Web.png" group-title="🔸FanCode🔸| Live Events",Al-Ahli Saudi FC vs Al-Hazem FC [English]
+https://in-mc-flive.fancode.com/mumbai/4249133_english_hls_2c8b89fd5945852_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789235082~_GO=Generated~acl=/mumbai/4249133_english_hls_2c8b89fd5945852_1ta-di_h264/*~Signature=AWDec-HQYzxsas4HRqcuAKM3nxZCLURtlI3np-Ec8q-zUOGFw8qkGf1WB2_1BgzWclKrnqQfLOi7V8Ne3LzuVcGvZNcC
 
 # ---------------=== 🔹SonyLiv🔹| Live Events ===-------------------
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434963836794_eng_vs_pak_3test_D3_live_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Day 3 - 3rd Test - 11 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789181804~acl=/*~id=24557833513786990759007455496578~hmac=19165dc37c1e505522a411805382a7b9ac5a7e1efc7bea58de7fef6726fbdf7d
+https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035259315649_DP_World_Tour_Amgen_Irish_Open_Day2_Session2_landscape_thumb.jpg" group-title="🔹️SonyLiv Live🔹️",Amgen Irish Open - Day 2 - Session 2 - 11 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86
 
 # ---------------=== 🌐 WORLD | Extra ===-------------------
 
